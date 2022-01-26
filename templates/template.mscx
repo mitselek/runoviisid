@@ -48,14 +48,8 @@
     </Part>
     <Staff id="1">
       <VBox>
-        <Text>
-          <style>Composer</style>
-          <text>F. Talvik, S. Talvik (63)</text>
-        </Text>
-        <Text>
-          <style>Lyricist</style>
-          <text>127. Jamaja</text>
-        </Text>
+        <Text><style>Composer</style><text>F. Talvik, S. Talvik (63)</text></Text>
+        <Text><style>Lyricist</style><text>127. Jamaja</text></Text>
       </VBox>
       <Measure>
         <voice>
