@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf8'?>
+<museScore version="3.01">
+  <programVersion>3.2.3</programVersion>
+  <programRevision>3224f34</programRevision>
+  <Score>
+    <LayerTag id="0" tag="default" />
+    <currentLayer>0</currentLayer>
+    <Division>480</Division>
+    <showInvisible>1</showInvisible>
+    <showUnprintable>1</showUnprintable>
+    <showFrames>1</showFrames>
+    <showMargins>0</showMargins>
+    <metaTag name="arranger" />
+    <metaTag name="composer" />
+    <metaTag name="copyright" />
+    <metaTag name="creationDate">2020-06-25</metaTag>
+    <metaTag name="lyricist" />
+    <metaTag name="movementNumber" />
+    <metaTag name="movementTitle" />
+    <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="platform">meTAsm</metaTag>
+    <metaTag name="poet" />
+    <metaTag name="source" />
+    <metaTag name="translator" />
+    <metaTag name="workNumber" />
+    <metaTag name="workTitle">Eesti runoviisid</metaTag>
+    <Part>
+      <Staff id="1">
+        <StaffType group="pitched">
+          <name>stdNormal</name>
+        </StaffType>
+      </Staff>
+      <trackName>Melody</trackName>
+      <Instrument id="oboe">
+        <trackName>Oboe</trackName>
+        <minPitchP>58</minPitchP>
+        <maxPitchP>96</maxPitchP>
+        <minPitchA>58</minPitchA>
+        <maxPitchA>87</maxPitchA>
+        <instrumentId>wind.reed.oboe</instrumentId>
+        <Channel>
+          <controller ctrl="0" value="0" />
+          <controller ctrl="32" value="17" />
+          <program value="68" />
+          <synti>Fluid</synti>
+        </Channel>
+      </Instrument>
+    </Part>
+    <Staff><VBox><Text><style>Composer</style><text>M.Pehka (19)</text></Text><Text><style>Lyricist</style><text>208. Puhja</text></Text></VBox><Measure><voice><KeySig><accidental>1</accidental></KeySig><TimeSig><sigN>2</sigN><sigD>4</sigD></TimeSig><Rest><durationType>measure</durationType><duration>2/4</duration></Rest></voice></Measure><Measure><voice><Rest><durationType>measure</durationType><duration>2/4</duration></Rest></voice></Measure><Measure><voice><Rest><durationType>measure</durationType><duration>2/4</duration></Rest></voice></Measure><Measure><voice><Rest><durationType>measure</durationType><duration>2/4</duration></Rest></voice></Measure></Staff></Score>
+</museScore>
