@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<museScore version="4.00">
+  <programVersion>4.0.2</programVersion>
+  <programRevision>dbe7c6d</programRevision>
+  <Score>
+    <LayerTag id="0" tag="default"></LayerTag>
+    <currentLayer>0</currentLayer>
+    <Division>480</Division>
+    <showInvisible>1</showInvisible>
+    <showUnprintable>1</showUnprintable>
+    <showFrames>1</showFrames>
+    <showMargins>0</showMargins>
+    <open>1</open>
+    <metaTag name="workTitle">Runoviisid 2. a) a)</metaTag>
+    <Part id="1">
+      <Staff id="1">
+        <StaffType group="pitched">
+          <name>stdNormal</name>
+        </StaffType>
+        <barLineSpan>1</barLineSpan>
+      </Staff>
+      <trackName>Piano</trackName>
+      <Instrument id="piano">
+        <longName>Piano</longName>
+        <shortName>Pno.</shortName>
+        <trackName>Piano</trackName>
+        <minPitchP>21</minPitchP>
+        <maxPitchP>108</maxPitchP>
+        <minPitchA>21</minPitchA>
+        <maxPitchA>108</maxPitchA>
+        <instrumentId>keyboard.piano</instrumentId>
+        <clef staff="2">F</clef>
+        <Channel>
+          <program value="0"/>
+          <synti>Fluid</synti>
+        </Channel>
+      </Instrument>
+    </Part>
+    <Staff id="1">
+    </Staff>
+  </Score>
+</museScore>

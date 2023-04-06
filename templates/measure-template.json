@@ -1,0 +1,18 @@
+{
+  "voice": {
+    "KeySig": {
+      "accidental": ""
+    },
+    "TimeSig": {
+      "sigN": "",
+      "sigD": ""
+    },
+    "StaffText": {
+      "text": "foo\nbaz"
+    },
+    "Rest": {
+      "durationType": "",
+      "duration": ""
+    }
+  }
+}
