@@ -11,6 +11,18 @@
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
     <open>1</open>
+    <metaTag name="arranger"></metaTag>
+    <metaTag name="composer"></metaTag>
+    <metaTag name="copyright"></metaTag>
+    <metaTag name="creationDate">2023-04-06</metaTag>
+    <metaTag name="lyricist"></metaTag>
+    <metaTag name="movementNumber"></metaTag>
+    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="platform">Microsoft Windows</metaTag>
+    <metaTag name="poet"></metaTag>
+    <metaTag name="source"></metaTag>
+    <metaTag name="translator"></metaTag>
+    <metaTag name="workNumber"></metaTag>
     <metaTag name="workTitle">Runoviisid 2. a) a)</metaTag>
     <Part id="1">
       <Staff id="1">
@@ -93,6 +105,11 @@ Aavik (99)</text>
           <subtype>section</subtype>
           </LayoutBreak>
         <voice>
+          <StaffText>
+            <placement>below</placement>
+            <align>right,baseline</align>
+            <text>E: Le-lò le-là _ _ le-là, _ _ K: Le-lò le-là _ _ le-là.</text>
+            </StaffText>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/4</duration>

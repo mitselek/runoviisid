@@ -48,6 +48,16 @@ def eStaffText(line1, line2):
     e_text.text = str(line1) + '\n' + str(line2)
     return e_root
 
+def eLyrics(line):
+    e_root = ET.Element('StaffText')
+    e_placement = ET.SubElement(e_root, 'placement')
+    e_placement.text = 'below'
+    e_align = ET.SubElement(e_root, 'align')
+    e_align.text = 'left,baseline'
+    e_text = ET.SubElement(e_root, 'text')
+    e_text.text = str(line)
+    return e_root
+
 def splitMeasure(measure):
     if measure == 'C':
         return ('4', '4', '1')
@@ -138,15 +148,15 @@ with open(sourceDir + 'runoviisid - export.csv', newline='', encoding='utf-8') a
     counter = 0
 
     for row in csv.DictReader(csvfile, delimiter=',', quotechar='"'):
-        if not row['tekst']:
-            continue
+        # if not row['tekst']:
+        #     continue
 
         # log the keys and values of row
-        print(row['ID'], row.values())
+        # print(row['ID'], row.values())
         
-        counter += 1
-        if counter > 10:
-            break
+        # counter += 1
+        # if counter > 10:
+        #     break
 
         timeSigs = timeSigGenerator(row['mõõt'])
         lastTimeSig = None
@@ -158,12 +168,13 @@ with open(sourceDir + 'runoviisid - export.csv', newline='', encoding='utf-8') a
             e_voice = ET.SubElement(e_measure, 'voice')
 
             if i == 0:
-                e_voice.append(eKeySig(F_DUR))
+                e_voice.append(eKeySig(G_DUR))
                 e_voice.append(eStaffText(row['maakond'], row['kogujad']))
+                e_voice.append(eLyrics(row['tekst']))
                 e_measure.set('ID', row['ID'])
             
             if i == takte - 1:
-                print('section break at', row['ID'], i, 'of', takte, 'measures')
+                # print('section break at', row['ID'], i, 'of', takte, 'measures')
                 e_measure.append(e_section_break)
                 e_measure.set('Last', '1')
 
