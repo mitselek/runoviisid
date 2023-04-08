@@ -2,3 +2,5 @@
 .DS_Store
 .mscbackup
 desktop.ini
+*.autosave*
+*.swp
