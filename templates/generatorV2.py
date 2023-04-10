@@ -35,7 +35,6 @@ def timeSigGenerator(timeSigs):
         yield timeSigs[i]
         i = (i + 1) % n
 
-
 def eKeySig(keys):
     e_root = ET.Element('KeySig')
     e_acc = ET.SubElement(e_root, 'accidental')
@@ -81,6 +80,14 @@ def eTimeSig(measure):
 
     ET.SubElement(e_root, 'sigN').text = sigN
     ET.SubElement(e_root, 'sigD').text = sigD
+
+    e_groups = ET.SubElement(e_root, 'Groups')
+    n32ths = int(int(sigN) * 32 / int(sigD))
+    for i in range(n32ths):
+        e_node = ET.SubElement(e_groups, 'Node')
+        e_node.set('pos', str(i))
+        e_node.set('action', str(273))
+
     return e_root
 
 def eRest(measure):
@@ -92,42 +99,18 @@ def eRest(measure):
     ET.SubElement(e_root, 'duration').text = '/'.join((sigN, sigD))
     return e_root
 
-def mxml(takte, eeltakt, mõõt, maakond, kogujad, tekst):
-    takte = int(takte)
-    measures = re.split(r" +", mõõt)
-    measures = (measures * (takte // len(measures) + 1))[:takte]
-    root = ET.parse('score_template.xml').getroot()
-
-    e_staff = root.find('Score').find('Staff')
-    e_staff.clear()
-    e_staff.insert(0, eVbox(maakond, kogujad))
-
-
-    ks = eKeySig(1)
-    firstmeasure = True
-    prevmeasure = False
-    for measure in measures:
-        e_measure = ET.Element('Measure')
-        e_voice = ET.SubElement(e_measure, 'voice')
-        if firstmeasure:
-            firstmeasure = False
-            e_voice.append(ks)
-            
-        if measure != prevmeasure:
-            print({measure})
-            ts = eTimeSig(measure)
-            e_voice.append(ts)
-        
-        prevmeasure = measure
-
-        rest = eRest(measure)
-        e_voice.append(rest)
-        e_staff.append(e_measure)
-
-        print(measure)
-
-
-    return root
+def eVbox(maakond, kogujad):
+    e_root = ET.Element('VBox')
+    ET.SubElement(e_root, 'height').text = '4'
+    ET.SubElement(e_root, 'bottomGap').text = '2'
+    ET.SubElement(e_root, 'boxAutoSize').text = '0'
+    e_composer = ET.SubElement(e_root, 'Text')
+    ET.SubElement(e_composer, 'style').text = 'composer'
+    ET.SubElement(e_composer, 'text').text = str(kogujad)
+    e_lyricist = ET.SubElement(e_root, 'Text')
+    ET.SubElement(e_lyricist, 'style').text = 'lyricist'
+    ET.SubElement(e_lyricist, 'text').text = str(maakond)
+    return e_root
 
 # set the stage
 # ID,takte,eeltakt,mõõt,maakond,kogujad,tekst
@@ -146,6 +129,7 @@ with open(sourceDir + 'runoviisid - export.csv', newline='', encoding='utf-8') a
     e_subtype.text = 'section'
 
     counter = 0
+    first, last = (1, 157)
 
     for row in csv.DictReader(csvfile, delimiter=',', quotechar='"'):
         # if not row['tekst']:
@@ -154,9 +138,25 @@ with open(sourceDir + 'runoviisid - export.csv', newline='', encoding='utf-8') a
         # log the keys and values of row
         # print(row['ID'], row.values())
         
-        # counter += 1
-        # if counter > 10:
-        #     break
+        counter += 1
+        if counter < first:
+            continue
+        if counter > last:
+            break
+
+        e_staff.append(eVbox(row['maakond'], row['kogujad']))
+
+        if row['eeltakt']:
+            e_measure = ET.Element('Measure')
+            e_measure.set('number', '0')
+            e_measure.set('len', row['eeltakt'])
+            e_staff.append(e_measure)
+            e_voice = ET.SubElement(e_measure, 'voice')
+            e_voice.append(eKeySig(G_DUR))
+            e_voice.append(eLyrics(row['tekst']))
+            e_measure.set('ID', row['ID'])
+            e_voice.append(eRest(row['eeltakt']))
+
 
         timeSigs = timeSigGenerator(row['mõõt'])
         lastTimeSig = None
@@ -167,9 +167,9 @@ with open(sourceDir + 'runoviisid - export.csv', newline='', encoding='utf-8') a
             e_staff.append(e_measure)
             e_voice = ET.SubElement(e_measure, 'voice')
 
-            if i == 0:
+            if i == 0 and not row['eeltakt']:
                 e_voice.append(eKeySig(G_DUR))
-                e_voice.append(eStaffText(row['maakond'], row['kogujad']))
+                # e_voice.append(eStaffText(row['maakond'], row['kogujad']))
                 e_voice.append(eLyrics(row['tekst']))
                 e_measure.set('ID', row['ID'])
             
@@ -189,4 +189,3 @@ with open(sourceDir + 'runoviisid - export.csv', newline='', encoding='utf-8') a
 
     with open(sourceDir + 'out.mscx', 'wb') as f:
         f.write(ET.tostring(root, encoding='utf8'))
-
