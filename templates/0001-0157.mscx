@@ -3,13 +3,12 @@
   <programVersion>4.0.2</programVersion>
   <programRevision>dbe7c6d</programRevision>
   <Score>
-    <layoutMode>system</layoutMode>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Division>480</Division>
     <showInvisible>1</showInvisible>
-    <showUnprintable>1</showUnprintable>
-    <showFrames>1</showFrames>
+    <showUnprintable>0</showUnprintable>
+    <showFrames>0</showFrames>
     <showMargins>0</showMargins>
     <open>1</open>
     <metaTag name="arranger"></metaTag>
@@ -51,15 +50,24 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>13</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Lähteenkorvu (306)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>1. Sangaste</text>
+          </Text>
+        <Text>
+          <style>title</style>
+          <text>A. Eeslaul üherealine</text>
+          </Text>
+        <Text>
+          <style>subtitle</style>
+          <text>a) read kolmelöögilised</text>
           </Text>
         </VBox>
       <Measure>
@@ -88,10 +96,10 @@
           <Tempo>
             <tempo>1.5</tempo>
             <followText>1</followText>
-            <text><sym>metNoteQuarterUp</sym><sym>noSym</sym><sym>metAugmentationDot</sym><font face="Edwin"></font> = 60</text>
+            <text><sym>metNoteQuarterUp</sym><sym>metAugmentationDot</sym><font face="Edwin"/> = 60</text>
             </Tempo>
           <Chord>
-            <BeamMode>no</BeamMode>
+            <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
@@ -103,7 +111,7 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
+            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -248,7 +256,7 @@
               </Groups>
             </TimeSig>
           <Chord>
-            <BeamMode>no</BeamMode>
+            <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
@@ -260,7 +268,7 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
+            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -371,14 +379,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Lähteenkorvu (303)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>2. Sangaste, 1877</text>
           </Text>
         </VBox>
@@ -406,7 +415,7 @@
               </Groups>
             </TimeSig>
           <Chord>
-            <BeamMode>no</BeamMode>
+            <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
@@ -418,7 +427,7 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
+            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -550,7 +559,7 @@
               </Groups>
             </TimeSig>
           <Chord>
-            <BeamMode>no</BeamMode>
+            <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
@@ -562,7 +571,7 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
+            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -664,14 +673,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>P.Kurg (9)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>3. Rõngu</text>
           </Text>
         </VBox>
@@ -927,14 +937,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Saar-Siimer (246)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>4. Suure-Jaani</text>
           </Text>
         </VBox>
@@ -1239,14 +1250,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>J.Sollmann (33)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>5. Viru-Jaagupist</text>
           </Text>
         </VBox>
@@ -1495,21 +1507,22 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Lähteenkorvu (302)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>6. Sangaste</text>
           </Text>
         </VBox>
       <Measure>
         <voice>
           <KeySig>
-            <accidental>1</accidental>
+            <accidental>0</accidental>
             </KeySig>
           <TimeSig>
             <sigN>3</sigN>
@@ -1530,7 +1543,7 @@
               </Groups>
             </TimeSig>
           <Chord>
-            <BeamMode>no</BeamMode>
+            <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
@@ -1542,7 +1555,7 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
+            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -1623,9 +1636,6 @@
               <text>di</text>
               </Lyrics>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>65</pitch>
               <tpc>13</tpc>
               </Note>
@@ -1676,7 +1686,7 @@
               </Groups>
             </TimeSig>
           <Chord>
-            <BeamMode>no</BeamMode>
+            <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
@@ -1688,7 +1698,7 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
+            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -1784,9 +1794,6 @@
               <text>di</text>
               </Lyrics>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>65</pitch>
               <tpc>13</tpc>
               </Note>
@@ -1806,22 +1813,20 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Lähteenkorvu (268)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>7. Räpina</text>
           </Text>
         </VBox>
       <Measure>
         <voice>
-          <KeySig>
-            <accidental>1</accidental>
-            </KeySig>
           <TimeSig>
             <sigN>7</sigN>
             <sigD>8</sigD>
@@ -1859,7 +1864,7 @@
               </Groups>
             </TimeSig>
           <Chord>
-            <BeamMode>no</BeamMode>
+            <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
@@ -1871,7 +1876,7 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
+            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -1928,9 +1933,6 @@
                 </prev>
               </Spanner>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>65</pitch>
               <tpc>13</tpc>
               </Note>
@@ -2025,7 +2027,7 @@
           </LayoutBreak>
         <voice>
           <Chord>
-            <BeamMode>no</BeamMode>
+            <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
@@ -2042,7 +2044,7 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>no</BeamMode>
+            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
@@ -2112,9 +2114,6 @@
                 </prev>
               </Spanner>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
               <pitch>65</pitch>
               <tpc>13</tpc>
               </Note>
@@ -2220,14 +2219,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Lähteenkorvu (290)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>8. Vastseliina, 1877</text>
           </Text>
         </VBox>
@@ -2265,6 +2265,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Lyrics>
               <text>ma</text>
@@ -2306,6 +2307,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <pitch>66</pitch>
@@ -2456,6 +2458,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Lyrics>
               <text>ma</text>
@@ -2566,14 +2569,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>A.Kiis (13)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>9. Karula</text>
           </Text>
         </VBox>
@@ -2612,6 +2616,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
@@ -2748,6 +2753,7 @@
               </Note>
             </Chord>
           <Chord>
+            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>middle</syllabic>
@@ -2845,14 +2851,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>A.Kiis (104)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>10. Sangaste</text>
           </Text>
         </VBox>
@@ -3149,14 +3156,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Lähteenkorvu (301)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>11. Sangaste, 1877</text>
           </Text>
         </VBox>
@@ -3440,14 +3448,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Lähteenkorvu (298)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>12. Kanepi, 1877</text>
           </Text>
         </VBox>
@@ -3683,14 +3692,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Lähteenkorvu (273)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>13. Räpina</text>
           </Text>
         </VBox>
@@ -4050,14 +4060,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Kiis-Eisenschmidt (98)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>14. Otepää</text>
           </Text>
         </VBox>
@@ -4286,14 +4297,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Viljak-Rosenstrauch (7)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>15. Peetri</text>
           </Text>
         </VBox>
@@ -4555,14 +4567,14 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>J.Müür (11)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>16. Tarvastu</text>
           </Text>
         </VBox>
@@ -4964,14 +4976,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Saar (13)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>17. Vändra</text>
           </Text>
         </VBox>
@@ -5228,14 +5241,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Saar (14)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>18. Vändra</text>
           </Text>
         </VBox>
@@ -5488,14 +5502,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Süda-Liiv (22)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>19. Saaremaa</text>
           </Text>
         </VBox>
@@ -5803,14 +5818,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Viljak-Vilberg (10) [37]</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>20. Harju-Jaani</text>
           </Text>
         </VBox>
@@ -6019,14 +6035,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>J.Gutveis (29)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>21. Rõuge, 1909</text>
           </Text>
         </VBox>
@@ -6446,14 +6463,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Martin-Rosenstrauch (231)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>22. Koeru ja Järva-Jaani</text>
           </Text>
         </VBox>
@@ -6780,14 +6798,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Kreek-Mudda (11)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>23. Ridala</text>
           </Text>
         </VBox>
@@ -7010,14 +7029,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Viljak-Vilberg (112)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>24. Kuusalu</text>
           </Text>
         </VBox>
@@ -7219,14 +7239,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Viljak-Vilberg (131)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>25. Kuusalu</text>
           </Text>
         </VBox>
@@ -7532,14 +7553,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>P.Penna (209)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>26. Väike-Maarja</text>
           </Text>
         </VBox>
@@ -7759,14 +7781,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Viljak-Mark (8) a</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>27. Haljala</text>
           </Text>
         </VBox>
@@ -7985,14 +8008,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>P.Tatz (47)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>28. Kanepi</text>
           </Text>
         </VBox>
@@ -8213,14 +8237,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>M.Sild (1)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>29. Avinurme, 1909</text>
           </Text>
         </VBox>
@@ -8517,14 +8542,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>J.Välbe (40)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>30. Ambla</text>
           </Text>
         </VBox>
@@ -8761,14 +8787,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Viljak-Vilberg (198)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>31. Kuusalu</text>
           </Text>
         </VBox>
@@ -9022,14 +9049,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Viljak-Vilberg (197)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>32. Kuusalu</text>
           </Text>
         </VBox>
@@ -9231,14 +9259,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>K.Viljak (2)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>33. Audru</text>
           </Text>
         </VBox>
@@ -9485,14 +9514,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Viljak-Vilberg (194)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>34. Kuusalu</text>
           </Text>
         </VBox>
@@ -9654,14 +9684,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Viljak-Vilberg (176)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>35. Kuusalu</text>
           </Text>
         </VBox>
@@ -9891,14 +9922,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>K.Viljak (6)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>36. Viru-Nigula</text>
           </Text>
         </VBox>
@@ -10124,14 +10156,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Penna-Rosenstrauch (74)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>37. Järvamaa</text>
           </Text>
         </VBox>
@@ -10291,14 +10324,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Penna-Rosenstrauch (48)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>38. Järvamaa</text>
           </Text>
         </VBox>
@@ -10544,14 +10578,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Penna-Sildnik (90) a</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>39. Jõhvi</text>
           </Text>
         </VBox>
@@ -10748,14 +10783,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>P.Penna (155)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>40. Väike-Maarja</text>
           </Text>
         </VBox>
@@ -10981,14 +11017,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Penna-Sildnik (32)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>41. Jõhvi</text>
           </Text>
         </VBox>
@@ -11185,14 +11222,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>K.Viljak (2)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>42. Kadrina</text>
           </Text>
         </VBox>
@@ -11386,14 +11424,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>K.Viljak (34)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>43. Kadrina</text>
           </Text>
         </VBox>
@@ -11626,14 +11665,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Viljak-Vilberg (182)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>44. Kuusalu</text>
           </Text>
         </VBox>
@@ -11817,14 +11857,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Viljak-Vilberg (175)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>45. Kuusalu</text>
           </Text>
         </VBox>
@@ -11979,14 +12020,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Viljak-Vilberg (18)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>46. Kuusalu</text>
           </Text>
         </VBox>
@@ -12227,14 +12269,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>K.Viljak (29)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>47. Kadrina</text>
           </Text>
         </VBox>
@@ -12455,14 +12498,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Penna-Sildnik (26) a</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>48. Jõhvi</text>
           </Text>
         </VBox>
@@ -12799,14 +12843,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Välbe-Martin-Rosenstrauch (23)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>49. Koeru</text>
           </Text>
         </VBox>
@@ -13027,14 +13072,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>J.Välbe (215)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>50. Ambla</text>
           </Text>
         </VBox>
@@ -13259,14 +13305,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>K.Viljak (3)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>51. Audru</text>
           </Text>
         </VBox>
@@ -13489,14 +13536,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Viljak-Mark (17)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>52. Haljala</text>
           </Text>
         </VBox>
@@ -13721,14 +13769,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>J.Sõster (2)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>53. Põhja-Eesti</text>
           </Text>
         </VBox>
@@ -13959,14 +14008,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>J.Sõster (53)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>54. Põhja-Eesti, 1909</text>
           </Text>
         </VBox>
@@ -14221,14 +14271,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Joh. Muda, Jul. Muda (25)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>55. Nissi</text>
           </Text>
         </VBox>
@@ -14792,14 +14843,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Viljak-Vilberg (109)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>56. Kuusalu</text>
           </Text>
         </VBox>
@@ -14982,14 +15034,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Viljak-Vilberg (91)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>57. Kuusalu</text>
           </Text>
         </VBox>
@@ -15229,14 +15282,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Viljak-Vilberg (181)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>58. Kuusalu</text>
           </Text>
         </VBox>
@@ -15477,14 +15531,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Viljak-Vilberg (115)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>59. Kuusalu</text>
           </Text>
         </VBox>
@@ -15812,14 +15867,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Viljak-Vilberg (174)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>60. Kuusalu</text>
           </Text>
         </VBox>
@@ -15992,14 +16048,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Viljak-Vilberg (152)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>61. Kuusalu</text>
           </Text>
         </VBox>
@@ -16214,14 +16271,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Viljak-Mark (25)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>62. Haljala</text>
           </Text>
         </VBox>
@@ -16412,14 +16470,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Viljak-Vilberg (125)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>63. Kuusalu</text>
           </Text>
         </VBox>
@@ -16607,14 +16666,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>J.Välbe (69)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>64. Ambla</text>
           </Text>
         </VBox>
@@ -16839,14 +16899,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>P.Penna (34/27)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>65. Järva-Madise</text>
           </Text>
         </VBox>
@@ -16978,14 +17039,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>P.Kurg (8)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>66. Tartu</text>
           </Text>
         </VBox>
@@ -17277,14 +17339,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Viljak-Vilberg (116)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>67. Kuusalu</text>
           </Text>
         </VBox>
@@ -17597,14 +17660,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>K.Viljak (8)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>68. Kadrina</text>
           </Text>
         </VBox>
@@ -17828,14 +17892,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Välbe-Martin-Rosenstrauch (28)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>69. Koeru</text>
           </Text>
         </VBox>
@@ -18083,14 +18148,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>P.Penna (184)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>70. Väike-Maarja</text>
           </Text>
         </VBox>
@@ -18323,14 +18389,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Viljak-Vilberg (20)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>71. Kuusalu</text>
           </Text>
         </VBox>
@@ -18519,14 +18586,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>A.Kiiss (103)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>72. Sangaste</text>
           </Text>
         </VBox>
@@ -18736,14 +18804,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>P.Penna (177)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>73. Väike-Maarja</text>
           </Text>
         </VBox>
@@ -18966,14 +19035,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>K.Viljak (24)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>74. Kadrina</text>
           </Text>
         </VBox>
@@ -19130,14 +19200,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>A.Kiiss (44)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>75. Karula</text>
           </Text>
         </VBox>
@@ -19362,14 +19433,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Penna-Rosenstrauch (24)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>76. Järvamaa</text>
           </Text>
         </VBox>
@@ -19593,14 +19665,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>K.Viljak (85)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>77. Kadrina</text>
           </Text>
         </VBox>
@@ -19818,14 +19891,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Penna-Sildnik (13) c</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>78. Jõhvi</text>
           </Text>
         </VBox>
@@ -20031,14 +20105,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Viljak-Vilberg (7)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>79. Kuusalu</text>
           </Text>
         </VBox>
@@ -20259,14 +20334,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>K.Viljak (34)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>80. Harju-Jaani</text>
           </Text>
         </VBox>
@@ -20398,14 +20474,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Siimer-Rosenstrauch (68)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>81. Simuna</text>
           </Text>
         </VBox>
@@ -20630,14 +20707,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>K.Viljak (11)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>82. Viru-Nigula</text>
           </Text>
         </VBox>
@@ -20872,14 +20950,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>J.Välbe (50)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>83. Ambla</text>
           </Text>
         </VBox>
@@ -21104,14 +21183,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Kreek-Mudda (29)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>84. Ridala</text>
           </Text>
         </VBox>
@@ -21552,14 +21632,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Sõster-Rosenstrauch (13)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>85. Kadrina</text>
           </Text>
         </VBox>
@@ -21784,14 +21865,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Penna-Sildnik (10) a</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>86. Jõhvi</text>
           </Text>
         </VBox>
@@ -21976,14 +22058,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Hermann (155)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>87. Saaremaa</text>
           </Text>
         </VBox>
@@ -22208,14 +22291,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>R.Kohelik (270)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>88. Juuru</text>
           </Text>
         </VBox>
@@ -22354,14 +22438,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Penna-Luud (21)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>89. Simititsa</text>
           </Text>
         </VBox>
@@ -22544,14 +22629,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>K.Viljak (17)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>90. Harju-Jaani</text>
           </Text>
         </VBox>
@@ -22713,14 +22799,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Viljak-Vilberg (153)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>91. Kuusalu</text>
           </Text>
         </VBox>
@@ -23032,14 +23119,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Saar-Siimer (74)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>92. Pilistvere</text>
           </Text>
         </VBox>
@@ -23262,14 +23350,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Aavik-Sakeus (11)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>93. Paistu</text>
           </Text>
         </VBox>
@@ -23504,14 +23593,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Penna-Sildnik (13) a</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>94. Jõhvi</text>
           </Text>
         </VBox>
@@ -23717,14 +23807,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Penna-Rosenstrauch (101) a</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>95. Järvamaa</text>
           </Text>
         </VBox>
@@ -23949,14 +24040,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>J.Gutves (28)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>96. Rõuge, 1909</text>
           </Text>
         </VBox>
@@ -24245,14 +24337,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Välbe-Martin-Rosenstrauch (8)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>97. Koeru</text>
           </Text>
         </VBox>
@@ -24491,14 +24584,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>P.Penna (90/4)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>98. Järva-Madise</text>
           </Text>
         </VBox>
@@ -24741,14 +24835,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Välbe-Martin-Rosenstrauch (5)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>99. Koeru</text>
           </Text>
         </VBox>
@@ -24990,14 +25085,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Saar (1)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>100. Vändra</text>
           </Text>
         </VBox>
@@ -25225,14 +25321,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Siimer-Rosenstrauch (25)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>101. Simuna</text>
           </Text>
         </VBox>
@@ -25457,14 +25554,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>J.Välbe (196)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>102. Ambla</text>
           </Text>
         </VBox>
@@ -25689,14 +25787,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>K.Viljak (34)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>103. Jõelehtme</text>
           </Text>
         </VBox>
@@ -25932,14 +26031,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>K.Viljak (19)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>104. Kadrina</text>
           </Text>
         </VBox>
@@ -26382,14 +26482,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Liiv-Raja (60)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>105. Alatskivi</text>
           </Text>
         </VBox>
@@ -26642,14 +26743,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Pehka-Eisenschmidt (13)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>106. Puhja</text>
           </Text>
         </VBox>
@@ -26915,14 +27017,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Viljak-Vilberg (200)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>107. Kuusalu</text>
           </Text>
         </VBox>
@@ -27155,14 +27258,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>P.Penna (7)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>108. Järva-Madise</text>
           </Text>
         </VBox>
@@ -27385,14 +27489,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Siimer-Rosenstrauch (35)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>109. Simuna</text>
           </Text>
         </VBox>
@@ -27617,14 +27722,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Penna-Luud (65)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>110. Simititsa</text>
           </Text>
         </VBox>
@@ -27857,14 +27963,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Viljak-Vilberg (7) [28]</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>111. Harju-Jaani</text>
           </Text>
         </VBox>
@@ -28191,14 +28298,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Aavik-Sakeus (78 c)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>112. Karksi</text>
           </Text>
         </VBox>
@@ -28359,14 +28467,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>J.Sõster (4)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>113. Koeru</text>
           </Text>
         </VBox>
@@ -28782,14 +28891,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Lähteenkorva (275)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>114. Räpina, 1877</text>
           </Text>
         </VBox>
@@ -29336,14 +29446,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>K.Viljak (89)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>115. Kadrina</text>
           </Text>
         </VBox>
@@ -29571,14 +29682,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Penna-Rosenstrauch (149)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>116. Järvamaa</text>
           </Text>
         </VBox>
@@ -29801,14 +29913,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>J.Välbe (104)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>117. Ambla</text>
           </Text>
         </VBox>
@@ -30046,14 +30159,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>J.Sõster (27) [49]</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>118. Koeru</text>
           </Text>
         </VBox>
@@ -30190,14 +30304,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>M.Sõster (32)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>119. Koeru</text>
           </Text>
         </VBox>
@@ -30344,14 +30459,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>J.Sollmann (13)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>120. Viru-Jaagupist</text>
           </Text>
         </VBox>
@@ -30620,14 +30736,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Saar-Siimer (112)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>121. Suure-Jaani</text>
           </Text>
         </VBox>
@@ -30852,14 +30969,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>P.Penna (200)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>122. Väike-Maarja</text>
           </Text>
         </VBox>
@@ -31018,14 +31136,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Penna-Luud (51)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>123. Simititsa</text>
           </Text>
         </VBox>
@@ -31221,14 +31340,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Martin-Rosenstrauch (208)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>124. Koeru ja Järva-Jaani</text>
           </Text>
         </VBox>
@@ -31590,14 +31710,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Siimer (78)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>125. Türi</text>
           </Text>
         </VBox>
@@ -31822,14 +31943,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Siimer-Rosenstrauch (17)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>126. Simuna</text>
           </Text>
         </VBox>
@@ -32048,14 +32170,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>F.Talvik, S.Talvik (63)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>127. Jamaja</text>
           </Text>
         </VBox>
@@ -32310,14 +32433,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Jaan Müür (2)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>128. Tarvastu</text>
           </Text>
         </VBox>
@@ -32542,14 +32666,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Penna-Rosenstrauch (105)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>129. Järvamaa</text>
           </Text>
         </VBox>
@@ -32784,14 +32909,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>J.Välbe (118)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>130. Ambla</text>
           </Text>
         </VBox>
@@ -33014,14 +33140,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Penna-Rosenstrauch (128)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>131. Järvamaa</text>
           </Text>
         </VBox>
@@ -33256,14 +33383,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>J.Välbe (221)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>132. Ambla</text>
           </Text>
         </VBox>
@@ -33514,14 +33642,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Penna-Sildnik (14) b</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>133. Jõhvi</text>
           </Text>
         </VBox>
@@ -33714,14 +33843,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Välbe-Martin-Rosenstrauch (72)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>134. Järva-Jaani</text>
           </Text>
         </VBox>
@@ -33955,14 +34085,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Viljak-Rosenstrauch (14)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>135. Peetri</text>
           </Text>
         </VBox>
@@ -34191,14 +34322,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>P.Penna (92/6)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>136. Järva-Madise</text>
           </Text>
         </VBox>
@@ -34462,14 +34594,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Süda-Liiv (8)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>137. Saaremaa</text>
           </Text>
         </VBox>
@@ -34744,14 +34877,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Viljak-Rosenstrauch (8)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>138. Peetri</text>
           </Text>
         </VBox>
@@ -35034,14 +35168,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>K.Viljak (3)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>139. Kose</text>
           </Text>
         </VBox>
@@ -35268,14 +35403,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Saar (32)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>140. Vändra</text>
           </Text>
         </VBox>
@@ -35500,14 +35636,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>K.Viljak (19)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>141. Harju-Jaani</text>
           </Text>
         </VBox>
@@ -35732,14 +35869,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>P.Penna (97/1)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>142. Järva-Madise</text>
           </Text>
         </VBox>
@@ -35928,14 +36066,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Viljak-Vilberg (70)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>143. Kuusalu</text>
           </Text>
         </VBox>
@@ -36160,14 +36299,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>J.Välbe (135)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>144. Ambla</text>
           </Text>
         </VBox>
@@ -36403,14 +36543,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Viljak-Vilberg (34)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>145. Harju-Jaani</text>
           </Text>
         </VBox>
@@ -36529,7 +36670,7 @@
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
-            <p1 x="0" y="-1.1"/>
+            <p1 x="0" y="-1.28317"/>
             <baseNote>eighth</baseNote>
             <Number>
               <style>tuplet</style>
@@ -36674,14 +36815,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>K.Viljak (71)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>146. Kadrina</text>
           </Text>
         </VBox>
@@ -36936,14 +37078,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Aavik-Sakeus (82)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>147. Paistu</text>
           </Text>
         </VBox>
@@ -37244,14 +37387,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Liiv-Raja (18)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>148. Tartu-Maarja</text>
           </Text>
         </VBox>
@@ -37490,14 +37634,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Siimer (4)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>149. Türi</text>
           </Text>
         </VBox>
@@ -37722,14 +37867,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Penna-Sildnik (34) c</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>150. Jõhvi</text>
           </Text>
         </VBox>
@@ -37922,14 +38068,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>C.Kreek (18)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>151. Martna</text>
           </Text>
         </VBox>
@@ -38153,14 +38300,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Saar-Siimer (98)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>152. Suure-Jaani</text>
           </Text>
         </VBox>
@@ -38394,14 +38542,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>C.Kreek (10)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>153. Lääne-Nigula</text>
           </Text>
         </VBox>
@@ -38861,14 +39010,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Lähteenkorva (345)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>154. Paistu, 1887</text>
           </Text>
         </VBox>
@@ -39157,14 +39307,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>K.Viljak (83)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>155. Kadrina</text>
           </Text>
         </VBox>
@@ -39384,14 +39535,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>Fr.Paulmeister (21)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>156. Pöide</text>
           </Text>
         </VBox>
@@ -39512,14 +39664,15 @@
           </voice>
         </Measure>
       <VBox>
-        <height>4</height>
-        <bottomGap>2</bottomGap>
+        <height>3</height>
+        <bottomGap>2.33304</bottomGap>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>composer</style>
           <text>P.Penna - K.Luud (42a)</text>
           </Text>
         <Text>
+          <style>poet</style>
           <text>157. Simititsa</text>
           </Text>
         </VBox>

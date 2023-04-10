@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="4.00">
   <Style>
-    <pageWidth>8.5</pageWidth>
-    <pageHeight>11</pageHeight>
-    <pagePrintableWidth>7.3189</pagePrintableWidth>
-    <pageEvenLeftMargin>0.590551</pageEvenLeftMargin>
-    <pageOddLeftMargin>0.590551</pageOddLeftMargin>
-    <pageEvenTopMargin>0.590551</pageEvenTopMargin>
-    <pageEvenBottomMargin>0.590551</pageEvenBottomMargin>
-    <pageOddTopMargin>0.590551</pageOddTopMargin>
-    <pageOddBottomMargin>0.590551</pageOddBottomMargin>
-    <pageTwosided>1</pageTwosided>
+    <pageWidth>8.27</pageWidth>
+    <pageHeight>11.69</pageHeight>
+    <pagePrintableWidth>7.4826</pagePrintableWidth>
+    <pageEvenLeftMargin>0.11811</pageEvenLeftMargin>
+    <pageOddLeftMargin>0.393701</pageOddLeftMargin>
+    <pageEvenTopMargin>0.11811</pageEvenTopMargin>
+    <pageEvenBottomMargin>0.11811</pageEvenBottomMargin>
+    <pageOddTopMargin>0.393701</pageOddTopMargin>
+    <pageOddBottomMargin>0.393701</pageOddBottomMargin>
+    <pageTwosided>0</pageTwosided>
     <staffUpperBorder>7</staffUpperBorder>
     <staffLowerBorder>7</staffLowerBorder>
     <staffHeaderFooterPadding>1</staffHeaderFooterPadding>
@@ -25,7 +25,7 @@
     <spreadSquareBracket>1.2</spreadSquareBracket>
     <spreadCurlyBracket>1.1</spreadCurlyBracket>
     <minSystemSpread>8.5</minSystemSpread>
-    <maxSystemSpread>32</maxSystemSpread>
+    <maxSystemSpread>9</maxSystemSpread>
     <minSpreadSpread>3.5</minSpreadSpread>
     <maxSpreadSpread>20</maxSpreadSpread>
     <maxAkkoladeDistance>6.5</maxAkkoladeDistance>
@@ -34,7 +34,7 @@
     <lyricsPosAbove x="0" y="-2"/>
     <lyricsPosBelow x="0" y="3"/>
     <lyricsMinTopDistance>1</lyricsMinTopDistance>
-    <lyricsMinBottomDistance>1.5</lyricsMinBottomDistance>
+    <lyricsMinBottomDistance>1</lyricsMinBottomDistance>
     <lyricsMinDistance>0.25</lyricsMinDistance>
     <lyricsLineHeight>1</lyricsLineHeight>
     <lyricsDashMinLength>0.4</lyricsDashMinLength>
@@ -49,7 +49,7 @@
     <lyricsDashLineThickness>0.1</lyricsDashLineThickness>
     <lyricsDashYposRatio>0.6</lyricsDashYposRatio>
     <lyricsOddFontFace>Edwin</lyricsOddFontFace>
-    <lyricsOddFontSize>10</lyricsOddFontSize>
+    <lyricsOddFontSize>13</lyricsOddFontSize>
     <lyricsOddLineSpacing>1</lyricsOddLineSpacing>
     <lyricsOddFontSpatiumDependent>1</lyricsOddFontSpatiumDependent>
     <lyricsOddFontStyle>0</lyricsOddFontStyle>
@@ -62,7 +62,7 @@
     <lyricsOddFrameFgColor r="0" g="0" b="0" a="255"/>
     <lyricsOddFrameBgColor r="255" g="255" b="255" a="0"/>
     <lyricsEvenFontFace>Edwin</lyricsEvenFontFace>
-    <lyricsEvenFontSize>10</lyricsEvenFontSize>
+    <lyricsEvenFontSize>13</lyricsEvenFontSize>
     <lyricsEvenLineSpacing>1</lyricsEvenLineSpacing>
     <lyricsEvenFontSpatiumDependent>1</lyricsEvenFontSpatiumDependent>
     <lyricsEvenFontStyle>0</lyricsEvenFontStyle>
@@ -79,8 +79,8 @@
     <figuredBassLineHeight>1</figuredBassLineHeight>
     <figuredBassAlignment>0</figuredBassAlignment>
     <figuredBassStyle>0</figuredBassStyle>
-    <systemFrameDistance>7</systemFrameDistance>
-    <frameSystemDistance>7</frameSystemDistance>
+    <systemFrameDistance>9</systemFrameDistance>
+    <frameSystemDistance>2</frameSystemDistance>
     <minMeasureWidth>8</minMeasureWidth>
     <barWidth>0.18</barWidth>
     <doubleBarWidth>0.18</doubleBarWidth>
@@ -161,9 +161,9 @@
     <dotNoteDistance>0.5</dotNoteDistance>
     <dotRestDistance>0.25</dotRestDistance>
     <dotDotDistance>0.65</dotDotDistance>
-    <propertyDistanceHead>0.4</propertyDistanceHead>
-    <propertyDistanceStem>0.4</propertyDistanceStem>
-    <propertyDistance>0.4</propertyDistance>
+    <propertyDistanceHead>0.5</propertyDistanceHead>
+    <propertyDistanceStem>0.5</propertyDistanceStem>
+    <propertyDistance>0.5</propertyDistance>
     <articulationMag>1</articulationMag>
     <articulationPosAbove x="0" y="0"/>
     <articulationAnchorDefault>2</articulationAnchorDefault>
@@ -172,7 +172,7 @@
     <lastSystemFillLimit>0.3</lastSystemFillLimit>
     <hairpinPlacement>1</hairpinPlacement>
     <hairpinPosAbove x="0" y="-2"/>
-    <hairpinPosBelow x="0" y="2"/>
+    <hairpinPosBelow x="0" y="4"/>
     <hairpinLinePosAbove x="0" y="-3"/>
     <hairpinLinePosBelow x="0" y="4"/>
     <hairpinHeight>1.15</hairpinHeight>
@@ -321,7 +321,7 @@
     <pageNumberOddEven>1</pageNumberOddEven>
     <showMeasureNumber>1</showMeasureNumber>
     <showMeasureNumberOne>0</showMeasureNumberOne>
-    <measureNumberInterval>5</measureNumberInterval>
+    <measureNumberInterval>1</measureNumberInterval>
     <measureNumberSystem>1</measureNumberSystem>
     <measureNumberAllStaffs>0</measureNumberAllStaffs>
     <smallNoteMag>0.7</smallNoteMag>
@@ -366,11 +366,11 @@
     <oldStyleMultiMeasureRests>0</oldStyleMultiMeasureRests>
     <mmRestOldStyleMaxMeasures>9</mmRestOldStyleMaxMeasures>
     <mmRestOldStyleSpacing>0.85</mmRestOldStyleSpacing>
-    <hideEmptyStaves>0</hideEmptyStaves>
-    <dontHideStavesInFirstSystem>1</dontHideStavesInFirstSystem>
-    <enableIndentationOnFirstSystem>0</enableIndentationOnFirstSystem>
+    <hideEmptyStaves>1</hideEmptyStaves>
+    <dontHideStavesInFirstSystem>0</dontHideStavesInFirstSystem>
+    <enableIndentationOnFirstSystem>1</enableIndentationOnFirstSystem>
     <firstSystemIndentationValue>5</firstSystemIndentationValue>
-    <alwaysShowBracketsWhenEmptyStavesAreHidden>0</alwaysShowBracketsWhenEmptyStavesAreHidden>
+    <alwaysShowBracketsWhenEmptyStavesAreHidden>1</alwaysShowBracketsWhenEmptyStavesAreHidden>
     <alwaysShowSquareBracketsWhenEmptyStavesAreHidden>0</alwaysShowSquareBracketsWhenEmptyStavesAreHidden>
     <hideInstrumentNameIfOneInstrument>1</hideInstrumentNameIfOneInstrument>
     <gateTime>100</gateTime>
@@ -394,18 +394,18 @@
     <musicalTextFont>Leland Text</musicalTextFont>
     <showHeader>1</showHeader>
     <headerFirstPage>0</headerFirstPage>
-    <headerOddEven>1</headerOddEven>
-    <evenHeaderL>$p</evenHeaderL>
+    <headerOddEven>0</headerOddEven>
+    <evenHeaderL>$p/$n - $:workTitle:</evenHeaderL>
     <evenHeaderC></evenHeaderC>
-    <evenHeaderR></evenHeaderR>
-    <oddHeaderL></oddHeaderL>
+    <evenHeaderR>!Ni</evenHeaderR>
+    <oddHeaderL>!Ni</oddHeaderL>
     <oddHeaderC></oddHeaderC>
-    <oddHeaderR>$p</oddHeaderR>
+    <oddHeaderR>$:workTitle: - $p/$n</oddHeaderR>
     <showFooter>1</showFooter>
     <footerFirstPage>1</footerFirstPage>
     <footerOddEven>1</footerOddEven>
     <evenFooterL></evenFooterL>
-    <evenFooterC>$C</evenFooterC>
+    <evenFooterC></evenFooterC>
     <evenFooterR></evenFooterR>
     <oddFooterL></oddFooterL>
     <oddFooterC>$C</oddFooterC>
@@ -530,7 +530,7 @@
     <autoplaceHairpinDynamicsDistance>0.5</autoplaceHairpinDynamicsDistance>
     <dynamicsPlacement>1</dynamicsPlacement>
     <dynamicsPosAbove x="0" y="-1.5"/>
-    <dynamicsPosBelow x="0" y="2.5"/>
+    <dynamicsPosBelow x="0" y="4"/>
     <dynamicsMinDistance>0.5</dynamicsMinDistance>
     <autoplaceVerticalAlignRange>2</autoplaceVerticalAlignRange>
     <textLinePlacement>0</textLinePlacement>
@@ -620,7 +620,7 @@
     <lyricistFontSize>10</lyricistFontSize>
     <lyricistLineSpacing>1</lyricistLineSpacing>
     <lyricistFontSpatiumDependent>0</lyricistFontSpatiumDependent>
-    <lyricistFontStyle>0</lyricistFontStyle>
+    <lyricistFontStyle>1</lyricistFontStyle>
     <lyricistColor r="0" g="0" b="0" a="255"/>
     <lyricistAlign>left,bottom</lyricistAlign>
     <lyricistOffset x="0" y="0"/>
@@ -729,7 +729,7 @@
     <partInstrumentFrameRound>0</partInstrumentFrameRound>
     <partInstrumentFrameFgColor r="0" g="0" b="0" a="255"/>
     <partInstrumentFrameBgColor r="255" g="255" b="255" a="0"/>
-    <dynamicsFontFace>Edwin</dynamicsFontFace>
+    <dynamicsFontFace>Leland</dynamicsFontFace>
     <dynamicsFontSize>10</dynamicsFontSize>
     <dynamicsLineSpacing>1</dynamicsLineSpacing>
     <dynamicsFontSpatiumDependent>1</dynamicsFontSpatiumDependent>
@@ -988,7 +988,7 @@
     <bendLineWidth>0.15</bendLineWidth>
     <bendArrowWidth>0.5</bendArrowWidth>
     <headerFontFace>Edwin</headerFontFace>
-    <headerFontSize>11</headerFontSize>
+    <headerFontSize>7</headerFontSize>
     <headerLineSpacing>1</headerLineSpacing>
     <headerFontSpatiumDependent>0</headerFontSpatiumDependent>
     <headerFontStyle>1</headerFontStyle>
@@ -1002,7 +1002,7 @@
     <headerFrameFgColor r="0" g="0" b="0" a="255"/>
     <headerFrameBgColor r="255" g="255" b="255" a="0"/>
     <footerFontFace>Edwin</footerFontFace>
-    <footerFontSize>9</footerFontSize>
+    <footerFontSize>7</footerFontSize>
     <footerLineSpacing>1</footerLineSpacing>
     <footerFontSpatiumDependent>0</footerFontSpatiumDependent>
     <footerFontStyle>0</footerFontStyle>
@@ -1019,20 +1019,20 @@
     <instrumentChangeFontSize>10</instrumentChangeFontSize>
     <instrumentChangeLineSpacing>1</instrumentChangeLineSpacing>
     <instrumentChangeFontSpatiumDependent>1</instrumentChangeFontSpatiumDependent>
-    <instrumentChangeFontStyle>1</instrumentChangeFontStyle>
-    <instrumentChangeColor r="0" g="0" b="0" a="255"/>
+    <instrumentChangeFontStyle>0</instrumentChangeFontStyle>
+    <instrumentChangeColor r="255" g="255" b="255" a="255"/>
     <instrumentChangeAlign>left,baseline</instrumentChangeAlign>
     <instrumentChangeOffset x="0" y="0"/>
     <instrumentChangePlacement>0</instrumentChangePlacement>
     <instrumentChangePosAbove x="0" y="-2"/>
     <instrumentChangePosBelow x="0" y="3.5"/>
     <instrumentChangeMinDistance>0.5</instrumentChangeMinDistance>
-    <instrumentChangeFrameType>0</instrumentChangeFrameType>
-    <instrumentChangeFramePadding>0.2</instrumentChangeFramePadding>
+    <instrumentChangeFrameType>1</instrumentChangeFrameType>
+    <instrumentChangeFramePadding>0.5</instrumentChangeFramePadding>
     <instrumentChangeFrameWidth>0.1</instrumentChangeFrameWidth>
-    <instrumentChangeFrameRound>0</instrumentChangeFrameRound>
+    <instrumentChangeFrameRound>15</instrumentChangeFrameRound>
     <instrumentChangeFrameFgColor r="0" g="0" b="0" a="255"/>
-    <instrumentChangeFrameBgColor r="255" g="255" b="255" a="0"/>
+    <instrumentChangeFrameBgColor r="0" g="0" b="0" a="200"/>
     <stickingFontFace>Edwin</stickingFontFace>
     <stickingFontSize>10</stickingFontSize>
     <stickingLineSpacing>1</stickingLineSpacing>
@@ -1299,7 +1299,7 @@
     <fermataPosBelow x="0" y="0.5"/>
     <fermataMinDistance>0.4</fermataMinDistance>
     <fingeringPlacement>0</fingeringPlacement>
-    <articulationMinDistance>0.4</articulationMinDistance>
+    <articulationMinDistance>0.5</articulationMinDistance>
     <fingeringMinDistance>0.5</fingeringMinDistance>
     <hairpinMinDistance>0.7</hairpinMinDistance>
     <letRingMinDistance>0.7</letRingMinDistance>
@@ -1345,6 +1345,6 @@
     <chordlineThickness>0.006</chordlineThickness>
     <autoplaceEnabled>1</autoplaceEnabled>
     <defaultsVersion>400</defaultsVersion>
-    <Spatium>1.74978</Spatium>
+    <Spatium>1.5</Spatium>
     </Style>
   </museScore>
