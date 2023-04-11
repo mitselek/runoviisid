@@ -96,7 +96,7 @@
           <Tempo>
             <tempo>1.5</tempo>
             <followText>1</followText>
-            <text><sym>metNoteQuarterUp</sym><sym>metAugmentationDot</sym><font face="Edwin"/> = 60</text>
+            <text><sym>metNoteQuarterUp</sym><sym>metAugmentationDot</sym><font face="Edwin"></font> = 60</text>
             </Tempo>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -3422,6 +3422,9 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            </Fermata>
           <Chord>
             <dots>1</dots>
             <durationType>eighth</durationType>
@@ -4049,7 +4052,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <syllabic>middle</syllabic>
+              <syllabic>end</syllabic>
               <text>ki.</text>
               </Lyrics>
             <Note>
@@ -16007,13 +16010,9 @@
             </Chord>
           </voice>
         <voice>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>66</pitch>
-              <tpc>20</tpc>
-              </Note>
-            </Chord>
+          <location>
+            <fractions>1/8</fractions>
+            </location>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -16136,9 +16135,9 @@
             </Chord>
           </voice>
         <voice>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
+          <location>
+            <fractions>1/4</fractions>
+            </location>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -16993,7 +16992,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>näe</text>
+              <text>nõe</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
@@ -17211,6 +17210,15 @@
               <syllabic>middle</syllabic>
               <text>ri</text>
               </Lyrics>
+            <Spanner type="Slur">
+              <Slur>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>1/16</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Note>
               <pitch>69</pitch>
               <tpc>17</tpc>
@@ -17219,6 +17227,13 @@
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/16</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <pitch>67</pitch>
               <tpc>15</tpc>
@@ -17230,6 +17245,15 @@
               <syllabic>middle</syllabic>
               <text>ke</text>
               </Lyrics>
+            <Spanner type="Slur">
+              <Slur>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>1/16</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Note>
               <pitch>67</pitch>
               <tpc>15</tpc>
@@ -17238,6 +17262,13 @@
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/16</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <pitch>66</pitch>
               <tpc>20</tpc>
@@ -17309,6 +17340,15 @@
               <syllabic>middle</syllabic>
               <text>ke</text>
               </Lyrics>
+            <Spanner type="Slur">
+              <Slur>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>1/16</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Note>
               <pitch>66</pitch>
               <tpc>20</tpc>
@@ -17317,6 +17357,13 @@
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/16</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <pitch>64</pitch>
               <tpc>18</tpc>
@@ -18778,6 +18825,15 @@
               <syllabic>begin</syllabic>
               <text>kee</text>
               </Lyrics>
+            <Spanner type="Slur">
+              <Slur>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>1/8</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Note>
               <pitch>66</pitch>
               <tpc>20</tpc>
@@ -18785,6 +18841,13 @@
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/8</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <pitch>64</pitch>
               <tpc>18</tpc>
@@ -19102,6 +19165,15 @@
               <ticks_f>1/8</ticks_f>
               <text>a,</text>
               </Lyrics>
+            <Spanner type="Slur">
+              <Slur>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>1/8</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Note>
               <pitch>66</pitch>
               <tpc>20</tpc>
@@ -19109,6 +19181,13 @@
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/8</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <pitch>64</pitch>
               <tpc>18</tpc>
@@ -19134,6 +19213,15 @@
               <ticks_f>1/8</ticks_f>
               <text>ke,</text>
               </Lyrics>
+            <Spanner type="Slur">
+              <Slur>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>1/8</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Note>
               <pitch>66</pitch>
               <tpc>20</tpc>
@@ -19141,6 +19229,13 @@
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/8</fractions>
+                  </location>
+                </prev>
+              </Spanner>
             <Note>
               <pitch>64</pitch>
               <tpc>18</tpc>
@@ -19486,7 +19581,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>ju</text>
+              <text>Ju</text>
               </Lyrics>
             <Note>
               <pitch>69</pitch>
@@ -19508,7 +19603,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>ju</text>
+              <text>Ju</text>
               </Lyrics>
             <Note>
               <pitch>66</pitch>
