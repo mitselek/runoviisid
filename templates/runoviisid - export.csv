@@ -1,702 +1,714 @@
 ID,takte,eeltakt,mõõt,maakond,kogujad,tekst
-0001-r,4,,3/8 2/4,1. Sangaste,Lähteenkorvu (306),"E: Ut-si pruu-ti Lii-su-ke-ne, K: Ut-si pruu-ti Lii-su-ke."
-0002-r,4,,3/8 2/4,"2. Sangaste, 1877",Lähteenkorvu (303),"E: Lä-ki ü-les mä-ki pää-le, K: Lä-ki ü-les mä-ki pääl. _ "
-0003-r,6,1/8,3/8,3. Rõngu,P.Kurg (9),"Siin on kü-la kui ka-le-vi, uk-se ja ak-na kui a-le-vi."
-0004-r,4,,3/8 5/8,4. Suure-Jaani,Saar-Siimer (246),"Söö kar-ja, si-ne-ta kar-ja, joo kar-ja, pu-ne-ta kar-ja."
-0005-r,2,,9/8,5. Viru-Jaagupist,J.Sollmann (33),"Mis sa hää-le-tu ä-gi-sed, mis sa rin-nu-tu rö-gi-sed?"
-0006-r,4,,3/8 2/4,6. Sangaste,Lähteenkorvu (302),"E: Läk-si mõt-sa kõn-di-mai-e, K: Läk-si mõt-sa kõn-di-ma."
-0007-r,2,,3+2+2/8,7. Räpina,Lähteenkorvu (268),"E: Le-lò le-là _ _ le-là, _ _ K: Le-lò le-là _ _ le-là."
-0008-r,4,,3/8 2/4,"8. Vastseliina, 1877",Lähteenkorvu (290),"E: Kui ma nak-ka lau-le-mai-e, K: Kui ma nak-ka lau-le-mai-e."
-0009-r,4,,3/8 2/4,9. Karula,A.Kiis (13),"Jaa-ni-kõ-ne, vel-le-kõ-ne. Jaa-ni-kõ-ne, vel-le-ke."
-0010-r,4,,2/4 3/8 3/8 3/4,10. Sangaste,A.Kiis (104),"Kav-va, kav--va kar-ja-ne, kav-va, kar-ja hoo-le pääl."
-0011-r,4,,3/8 2/4,"11. Sangaste, 1877",Lähteenkorvu (301),"E: I-mä-ke-ni, mem-me-ke-ni, K: I-mä-ke-ni, mem-me-ke-ni."
-0012-r,3,1/8,3/4,"12. Kanepi, 1877",Lähteenkorvu (298),"E: Te-re ärt-sõ är-rä-ke-ne, K: Te-re ärt-sõ är-rä-ke-ne."
-0013-r,2,,3+2+3/8,13. Räpina,Lähteenkorvu (273),"E: Lau-li--ji-ta ot-si-ti--ki, K: Lau-li--ji-ta ot-si-ti--ki."
-0014-r,3,1/8,2/4,14. Otepää,Kiis-Eisenschmidt (98),"E: Näi-o-ke-se noo-re-ke-se, K: Näi-o-ke-se noo-re-ke-se."
-0015-r,2,,3+2+2/8,15. Peetri,Viljak-Rosenstrauch (7),"Läk-sin Pii-be-le _ _ pe-se-ma, läk-sin Pii-be-le pe-se-ma."
-0016-r,5,,6/8,16. Tarvastu,J.Müür (11),"Is-tu-me, is-tu-me ilu-mäel-la, I-lu is-te meil i-ha-na, rõõ-mu is-te rõõ-viella, nal-ja räs-ti hor-mu-el."
-0017-r,2,,3/4,17. Vändra,Saar (13),"E: Õl--mes hõ-be-kü-ba-ra,"
-0018-r,2,,9/8,18. Vändra,Saar (14),"E: Mis sa si-ti-kas si-ri-sed, K: Mis sa si-ti-kas si-ri-sed?"
-0019-r,4,,2/4,19. Saaremaa,Süda-Liiv (22),"Läk-sin mi-na kul-la-(la) kar-ja-maa-le, ka-ri mul rap-sis ran-da kau-du."
-0020-r,4,,3/8,20. Harju-Jaani,Viljak-Vilberg (10) [37],Läh-me _ _ kii-ke _ _ kat-su--mai-e.
-0021-r,8,,2/4,"21. Rõuge, 1909",J.Gutveis (29),"Ä-ra u-ni mul-lõ tul-gu, hai-ku mul-lõ ha-ri-ne-gu; as-tu e-si a-ja-ma-ta, tu-lõ ü-les tuus-ti-mat-ta."
-0022-r,8,,2/4,22. Koeru ja Järva-Jaani,Martin-Rosenstrauch (231),A-ni Pee-ter võt-tis nai-se ...
-0023-r,4,,2/4,23. Ridala,Kreek-Mudda (11),Ann läks al-la me-re ää-re sii-di-tek-ki lo-pu-ta-ma.
-0024-r,2,,2/4,24. Kuusalu,Viljak-Vilberg (112),"Neit-si-ke-ne noo-ru-ke-ne, kui sina ta-had mei-le tul-la..."
-0025-r,2,,2/4,25. Kuusalu,Viljak-Vilberg (131),Ku-ku-me ü-le _ _ kol-me kae-vu.
-0026-r,4,,2/4,26. Väike-Maarja,P.Penna (209),Mullu mina võt-sin nai-se noo-re...
-0027-r,4,,2/4,27. Haljala,Viljak-Mark (8) a,"Nägin aga nägin aga ven-ni-ke-ne, nägin aga nei-ut kas-va-mai-e."
-0028-r,4,,2/4,28. Kanepi,P.Tatz (47),"Kui mi-na är-ga ü-te-le-ma, kui mina är-ga ü-te-le-ma."
-0029-r,4,,2/4,"29. Avinurme, 1909",M.Sild (1),"Kes sind käs-kis kos-ja tul-la, kes sind käs-kis kos-ja tul-la,
-Pani aga, pa-ni nais-ta võt-ma, pani aga, pa-ni nais-ta võt-ma!"
-0030-r,4,,2/4,30. Ambla,J.Välbe (40),"Kes sind käs-kis kos-ja tul-la, pani aga, pa-ni nais-ta võt-ma?"
-0031-r,2,,2/4,31. Kuusalu,Viljak-Vilberg (198),"U--ra--ge, _ _ u--ra-ge, o-med."
-0032-r,2,,2/4,32. Kuusalu,Viljak-Vilberg (197),Pe-re--tü-tar pii-ma-kuo-ki.
-0033-r,4,,2/4,33. Audru,K.Viljak (2),"O-leks mi-na siis-ki ä-ra sur-nud, kui mi-na o-lin pi--si-ke."
-0034-r,2,,2/4,34. Kuusalu,Viljak-Vilberg (194),Pei-u-ka-ne poi-si--ka-ne.
-0035-r,2,,2/4,35. Kuusalu,Viljak-Vilberg (176),Neit--si--ka-ne nuo--ru-ka-ne.
-0036-r,4,,2/4,36. Viru-Nigula,K.Viljak (6),"Mi-na lais-ka lak-ke-kae-la, mi-na lais-ka lak-ke-kae-la."
-0037-r,2,,2/4,37. Järvamaa,Penna-Rosenstrauch (74),Läh-me jaa-ni-päev ki-ri-ku. _ _
-0038-r,4,,2/4,38. Järvamaa,Penna-Rosenstrauch (48),"Kut-saril kuld-ne ku-ke-har-ja, re-hel laul-di-sed vä-ra-vad."
-0039-r,4,,2/4,39. Jõhvi,Penna-Sildnik (90) a,"Oot-kem, oot-kem, val-la-rah-vas ..."
-0040-r,4,,2/4,40. Väike-Maarja,P.Penna (155),"Pe-re-nai-ne, pöö-ri kae-la, pa-ni nöö-ri or-ja kae-la."
-0041-r,4,,2/4,41. Jõhvi,Penna-Sildnik (32),"Õ-de, hel-la, eks ma ööl-nud ..."
-0042-r,2,,6/8,42. Kadrina,K.Viljak (2),"Too-ge _ _ ka-nad, _ _ too-ge mu-nad."
-0043-r,4,,2/4,43. Kadrina,K.Viljak (34),"Lõ-pe, lõ-pe, põl-lu-ke-ne, a-ki, ar-mas väl-ja-ke-ne."
-0044-r,2,,2/4,44. Kuusalu,Viljak-Vilberg (182),"Läh-me, _ _ läh--me, käi-me, käi-me."
-0045-r,2,,2/4,45. Kuusalu,Viljak-Vilberg (175),Li-u la--u las-ki-ja-le.
-0046-r,4,,2/4,46. Kuusalu,Viljak-Vilberg (18),"O-li mul üks ai-nus ven-da, see te-gi kul-da-se ku-ri-ka."
-0047-r,4,,2/4,47. Kadrina,K.Viljak (29),"Tõest ei kõi-gi-ga kõ-nel-da, hääd ei hal-ba il-mu-ta-ta."
-0048-r,4,,6/8,48. Jõhvi,Penna-Sildnik (26) a,"E-hi--te-lin vel-je-kes-ta,_ _ e-hi-te-lin_ _ ke-na-te-lin."
-0049-r,4,,2/4,49. Koeru,Välbe-Martin-Rosenstrauch (23),"Mis sa ke-od mei-e kii-ke, mis sa ä-gad mei-e häl-li?"
-0050-r,4,,2/4,50. Ambla,J.Välbe (215),Las-ke sis-se mar-di-san-did: Mar-di küü-ned kül-me-ta-vad.
-0051-r,4,,2/4,51. Audru,K.Viljak (3),"Tä-na lä-hen, tä-na lah-kun, üks-ki suu ei nut-tu tei-nud."
-0052-r,4,,2/4,52. Haljala,Viljak-Mark (17),"Mar-ti kün-nik-selt kü-sik-se, ü-le pa-ku pal-ve-lek-se."
-0053-r,4,,6/8,53. Põhja-Eesti,J.Sõster (2),Ei ma ne-a nei-u-ae-ga e-ga põl-ga pii-ga-põl-ve.
-0054-r,4,,6/8,"54. Põhja-Eesti, 1909",J.Sõster (53),-
-0055-r,8,,4/8 5/8 4/8 5/8 4/8 5/8 4/8 5/8,55. Nissi,"Joh. Muda, Jul. Muda (25)","Va-res o-li va-ga lin-nu-ke-ne, len-das lin-nas uu-lit-sal-le, sealt te-ma len-das ka-tuk-sel-le, kõrt-si-mam-ma ma-tuk-sel-le."
-0056-r,2,,4/8,56. Kuusalu,Viljak-Vilberg (109),Kui mi-na kuu-len rää-gi--i-tä-vä.
-0057-r,3,,2/4,57. Kuusalu,Viljak-Vilberg (91),"Las pü-si-me, kan-na--ta-me, kan-na--ta-me."
-0058-r,2,,2/4,58. Kuusalu,Viljak-Vilberg (181),"Pei-u--ka-ne, poi-si--ka-ne."
-0059-r,3,,2/4,59. Kuusalu,Viljak-Vilberg (115),Sii-ap tul-lep vue-ra-ai-da. vue-ra-ai-da.
-0060-r,2,,2/4,60. Kuusalu,Viljak-Vilberg (174),"Pei-u-ka-ne, poi-si-ka-ne."
-0061-r,2,,2/4,61. Kuusalu,Viljak-Vilberg (152),Kas õl-le-le o-hu-sed ul-lud.
-0062-r,2,,6/8,62. Haljala,Viljak-Mark (25),Läh-me _ _ kii-get _ _ kat-su-mai-e.
-0063-r,2,,2/4,63. Kuusalu,Viljak-Vilberg (125),Kui ta had _ _ ta-lu-je _ _ tul-la.
-0064-r,4,,2/4,64. Ambla,J.Välbe (69),Las-ke sis-se mar-di-san-did: Mar-did tul-nud kau-ge-el-ta.
-0065-r,2,,2/4,65. Järva-Madise,P.Penna (34/27),"Nõ-ret, nõ-ret, nõe-la-ke-ne."
-0066-r,4,,2/4,66. Tartu,P.Kurg (8),"Ma-ri-ke-ne, õe---ke-ne, Ma-ri--ke--ne, õe---ke--ne."
-0067-r,4,,2/4,67. Kuusalu,Viljak-Vilberg (116),"Lin-du üüs _ _ mi-nu laa-ne _ _ pääl-ta, _ _ kor-pi kor-vi-je ra-jal-ta."
-0068-r,4,,2/4,68. Kadrina,K.Viljak (8),"Lõ-pe, lõ-pe põl-lu-ke-ne, vä-he-ne ju, nei-u väl-ja."
-0069-r,4,,2/4,69. Koeru,Välbe-Martin-Rosenstrauch (28),"Ei tu-le mi-ni-ja si-nu-le, po-ja naist ei si-nu-le."
-0070-r,4,,2/4,70. Väike-Maarja,P.Penna (184),"Oh mi-nu hel-la ven-na-ke-ne, kui läed nais-ta võt-ta-mai-e."
-0071-r,2,,6/8,71. Kuusalu,Viljak-Vilberg (20),"Löö-me _ _ trop-pi, _ _ tu-vi-ke-sed."
-0072-r,4,,2/4,72. Sangaste,A.Kiiss (103),"Ar-mas äm-ma, an-na pa-da mei-le kiis-su kee--ta."
-0073-r,4,,2/4,73. Väike-Maarja,P.Penna (177),"Mei-e kak-si vaes-ta las-ta, paar kui par-di poe-ga-si-da."
-0074-r,2,,6/8,74. Kadrina,K.Viljak (24),"Sõu-a, _ _ kii-ke, _ _ jõu-a, kii-ke."
-0075-r,4,,2/4,75. Karula,A.Kiiss (44),"U-ni naa-ri noo-re nai-se, u-ni naa-ri noo-re nai-se."
-0076-r,4,,2/4,76. Järvamaa,Penna-Rosenstrauch (24),"Oj Ju-mal Ju-ma-lu-ke-ne, kuu-le or-ja oh-ka-mi-sed."
-0077-r,2,,6/8,77. Kadrina,K.Viljak (85),"Ü-les, _ _ ü-les, _ _ mei-i kii-ke. _ _ "
-0078-r,4,,2/4,78. Jõhvi,Penna-Sildnik (13) c,Kü-la mind üt-les kü-la söö-ma ...
-0079-r,4,,2/4,79. Kuusalu,Viljak-Vilberg (7),Mis te siin _ _ sei--sa-te ...
-0080-r,2,,2/4,80. Harju-Jaani,K.Viljak (34),"Nõt-ku, nõt-ku, nõe-la-ke-ne."
-0081-r,4,,2/4,81. Simuna,Siimer-Rosenstrauch (68),"Ko-du tu-leb suu-ri söö-ja, ko-du tu-leb suu-ri joo-ja."
-0082-r,4,,2/4,82. Viru-Nigula,K.Viljak (11),"Kü-la mull' üt-les: ku-ku, ku-ku, kü-la lap-sed: lau-la, lau-la."
-0083-r,4,,2/4,83. Ambla,J.Välbe (50),"O-leks mi-nu o-le-mi-ne, tei-seks mi-nu te-ge-mi-ne."
-0084-r,8,,2/4,84. Ridala,Kreek-Mudda (29),"Ma-ri o-li mai-as maa-si-ku-le, kut-sus poi-sid kuu-si-kus-se, ah-vat-les nad haa-vi-kus-se, to-a ta-ha tam-mi-kus-se."
-0085-r,4,,2/4,85. Kadrina,Sõster-Rosenstrauch (13),"Sõu-a, kii-ke, jõu-a, kii-ke, sõu-a, kii-ke, kõr-ge-e-ni."
-0086-r,4,,2/4,86. Jõhvi,Penna-Sildnik (10) a,Vänd-ra met-sas Pär-nu-maal ...
-0087-r,4,,2/4,87. Saaremaa,Hermann (155),"Te-re, te-re, pe-re-ke-ne, te-re, pe-re-me-he-ke-ne."
-0088-r,2,,2/4,88. Juuru,R.Kohelik (270),Oh mi-na vae-ne or-ja nai-ne.
-0089-r,4,,2/4,89. Simititsa,Penna-Luud (21),"E: Rups, rups, mar-di-ke-ne, K:Seer, seer, san-di-ke-ne."
-0090-r,2,,2/4,90. Harju-Jaani,K.Viljak (17),"Nõt-ku, nõt-ku, nõe-la-ke-ne."
-0091-r,4,,2/4,91. Kuusalu,Viljak-Vilberg (153),"Küll mi-na tun-nen see-gi pei-gu, küll mi-na tun-nen see-gi pei-gu."
-0092-r,4,,2/4,92. Pilistvere,Saar-Siimer (74),"O-leks ma u-nes-ki näi-nud, tuk-ku-des mul tul-nud mee-le."
-0093-r,4,,2/4,93. Paistu,Aavik-Sakeus (11),"Oh o-nu, kul-la kuul-ja-ke-ne, i-sand, hel-la sak-sa-ke-ne."
-0094-r,4,,2/4,94. Jõhvi,Penna-Sildnik (13) a,Mul o-li väi-ke ven-na-ke ne ...
-0095-r,4,,2/4,95. Järvamaa,Penna-Rosenstrauch (101) a,Las-ke sis-se mar-di-san-did: Mar-di küü-ned kül-me-ta-vad.
-0096-r,4,,2/4,"96. Rõuge, 1909",J.Gutves (28),"Mi-na tun-nä tui-ma nei-o, mi-nä nä-e nä-lät-se:
-tui-mal kiu-sõ tut-sa-ke-ne, viha-säl sil-mä ve-sit-se."
-0097-r,4,,2/4,97. Koeru,Välbe-Martin-Rosenstrauch (8),"Oh si-na hu-mal hul-lu-ke-ne, ta-pu-til-ge til-lu-ke-ne."
-0098-r,4,,2/4,98. Järva-Madise,P.Penna (90/4),"Neit-si-ke-ne, noo-ru-ke-ne, mis sa kar-dad _ _ mul-le tul-la?"
-0099-r,4,,2/4,99. Koeru,Välbe-Martin-Rosenstrauch (5),"Mis sa, si-ti-kas, si-ri-sed, po-ri-kär-bes mis po-ri-sed?"
-0100-r,4,,2/4,100. Vändra,Saar (1),Pe-aks mõi-sa här-ra tead-ma se-da il-ma vil-ja hul-ka.
-0101-r,4,,2/4,101. Simuna,Siimer-Rosenstrauch (25),"Oi-e, oi-e hoo-le-rät-te, va-ras võt-sin vae-va-rät-te."
-0102-r,4,,2/4,102. Ambla,J.Välbe (196),"Läk-sin lil-ler-des te-o-le, va-gu a'a-des vai-ni-ul-le."
-0103-r,2,,6/8,103. Jõelehtme,K.Viljak (34),Läh-me _ _ _ mer-da _ _ _ püh-ki---mai-e.
-0104-r,8,,2/4,104. Kadrina,K.Viljak (19),"Kar-ja-ne kao-tas kar-ja -ä-ä, a'as a-ga min-da ot-si-mai-e.
-U-du-sel-la hom-mi-kul-la u-du rik-kus uu-e kuu-e."
-0105-r,4,,2/4,105. Alatskivi,Liiv-Raja (60),Las-ke sis--se san-di Mär-ti: Mär-di küü-ned kül-me-ta-vad.
-0106-r,4,,2/4,106. Puhja,Pehka-Eisenschmidt (13),"Lät-si ma til-lu-ke te-o-le, väi-ke _ _ mõi-sa väl-ja pää-le."
-0107-r,4,,2/4,107. Kuusalu,Viljak-Vilberg (200),"Künd-sin va-od val-ge-jel-la, tei-sed päe-va om-mi-kul-la."
-0108-r,4,,2/4,108. Järva-Madise,P.Penna (7),"Se-pa-ke-ne, sel-li-ke-ne, tee mull' ti-nast til-li-ke-ne."
-0109-r,4,,2/4,109. Simuna,Siimer-Rosenstrauch (35),"Va-res vaa-kus vah-te-ris-sa, per-se pik-ka pih-la-kas-sa."
-0110-r,4,,2/4,110. Simititsa,Penna-Luud (65),"Mi-nu kurk on kuive-ta-nud, kõ-ri roog on roos-te-ta-nud."
-0111-r,4,,2/4,111. Harju-Jaani,Viljak-Vilberg (7) [28],"Lä-he a-ga Lä-ti teed e-da-si, tu-len a-ga Tar-tu teed ta-ga-si."
-0112-r,4,,2/4,112. Karksi,Aavik-Sakeus (78 c),-
-0113-r,8,,2/4,113. Koeru,J.Sõster (4),"Saa, _ _ saa, _ _ sa-ju-ke-ne, vee-re, vee-re, vih-mu-ke-ne,
-tu-le tae-vast hil-ju-kes-ta, kas-ta mei-e vil-ju-kes-ta."
-0114-r,6,,2/4,"114. Räpina, 1877",Lähteenkorva (275),"E: Oi, e-ga to-hi lau-lu laul-da, K: Oi, e-fa to-hi lau-lu laul-da, e-ga ju to-hi lau-lu laul-da."
-0115-r,2,,6/8,115. Kadrina,K.Viljak (89),"Pill-hüü-dis pi-nu ta-ga, to-ru hüü-dis to-a ta-ga."
-0116-r,4,,2/4,116. Järvamaa,Penna-Rosenstrauch (149),"Too-ge kul-pi, ma ku-sek-sin, lee-me-liu-da, ma la-sek-sin."
-0117-r,4,,2/4,117. Ambla,J.Välbe (104),"Kil-ter, kub-jas, ai-da-mees, väl-ja-va-hi-va-na-mees."
-0118-r,2,,6/8,118. Koeru,J.Sõster (27) [49],"Kii-as, kii-as, kii-ge-ke-ne."
-0119-r,2,,6/8,119. Koeru,M.Sõster (32),Kui ma hak-kan lau-le-mai-e.
-0120-r,4,,6/8,120. Viru-Jaagupist,J.Sollmann (13),"Tul-ge kii-ge-le, kü-la nai-sed, too-ge ka--nad, too-ge mu-nad."
-0121-r,4,,2/4,121. Suure-Jaani,Saar-Siimer (112),"Läh-me, hel-lad, käi-me, vel-led, läh-me, hel-lad, käi-me, vel-led."
-0122-r,2,,6/8,122. Väike-Maarja,P.Penna (200),"Kii-ge-le, kii-ge-le, kü-la nai-sed."
-0123-r,4,,2/4,123. Simititsa,Penna-Luud (51),"Te-re, te-re, uu-ed lan-gud ..."
-0124-r,8,,2/4,124. Koeru ja Järva-Jaani,Martin-Rosenstrauch (208),Pe-re-mees pe-re-me-he-ke _ _ ...
-0125-r,4,,2/4,125. Türi,Siimer (78),"Taht-sin min-na tal-gu-sel-le, ruk-ki pul-mi-da pi-da-ma."
-0126-r,4,,2/4,126. Simuna,Siimer-Rosenstrauch (17),"Oi oi oi oi od-rad, kae-rad, kes teid lõi-kab tei-ne aas-ta."
-0127-r,4,,2/4,127. Jamaja,"F.Talvik, S.Talvik (63)","I-me-lik o-li mei-e ei-du, i-me-lik o-li mei-e aa-ti."
-0128-r,4,,2/4,128. Tarvastu,Jaan Müür (2),"Lää-me ai-ta eh-ti-mai-e, ü-le õu-e uu-si ai-ta..."
-0129-r,4,,2/4,129. Järvamaa,Penna-Rosenstrauch (105),"Oh se-da här-tu här-ra-kes-ta, kul-da-kroo-ni prou-a-kes-ta."
-0130-r,4,,2/4,130. Ambla,J.Välbe (118),"Mi-na mees pe-re-me poe-ga, tei-ne mees me-re-me poe-ga."
-0131-r,4,,2/4,131. Järvamaa,Penna-Rosenstrauch (128),"Muul maal o-li mul-lu lõu-na, Hii-u-maal o-li hil-ja lõu-na."
-0132-r,4,,2/4,132. Ambla,J.Välbe (221),"Las-ke sis-se san-di-mar-did, san-di-mar-did, _ _ sak-sa poi-sid."
-0133-r,4,,2/4,133. Jõhvi,Penna-Sildnik (14) b,Mi-na te-o-poi-si-ke-ne...
-0134-r,4,,2/4,134. Järva-Jaani,Välbe-Martin-Rosenstrauch (72),"Oh te vae-sed te-o-poi-sid, mõ-ned on hul-gas mõi-sa-poi-sid."
-0135-r,4,,2/4,135. Peetri,Viljak-Rosenstrauch (14),"E-ma-ke-ne, mem-me-ke-ne, pa-ne Sa tü-tar me-he-le."
-0136-r,4,,2/4,136. Järva-Madise,P.Penna (92/6),"Oh mi-na vae-ne te-o-poiss, _ _ o-len töös-ta tü-di-nud. _ _ "
-0137-r,4,,2/4,137. Saaremaa,Süda-Liiv (8),"O-leks _ _ mi-nu-o-le--mi-ne, tei-seks mi-nu te-ge-mi-ne."
-0138-r,4,,2/4,138. Peetri,Viljak-Rosenstrauch (8),"A-le mul tu-li ar-mu pea-le, nutt tu-li noo-re _ _ nei-u pea-le."
-0139-r,4,,2/4,139. Kose,K.Viljak (3),"Oh me vae-sed os-tu-or-jad, os-tu-or-jad, peas-tu-pär-jad."
-0140-r,4,,2/4,140. Vändra,Saar (32),"Ei-da-ke-ne hel-la-ke-ne, taa-di-ke-ne ven-ni-ke-ne."
-0141-r,4,,2/4,141. Harju-Jaani,K.Viljak (19),"Vii-ge, vii-ge, mis te vii-te, ta-lu-ta-ge, kus te tah-te."
-0142-r,4,,2/4,142. Järva-Madise,P.Penna (97/1),"Kõrr, kõrr, kõrr, kõrr, kõrt-si-nai-ne..."
-0143-r,4,,2/4,143. Kuusalu,Viljak-Vilberg (70),"Neit-si-ke-sed nuo-ru-ke-sed, kir-ju-pih-ta pee-ni-ke-sed."
-0144-r,4,,2/4,144. Ambla,J.Välbe (135),"Me-si-la-ne, lin-nu-ke-ne, parm o-li tei-seks poi-si-ke-ne."
-0145-r,4,,2/4,145. Harju-Jaani,Viljak-Vilberg (34),"Mei-e kub-jas kul-la-ke, kil--ter kii-du-ven-ni-ke."
-0146-r,4,,2/4,146. Kadrina,K.Viljak (71),"Lõ-pe, lõ-pe, põl-lu-ke-ne, lõ-pe, põl-du, põi-mi-des-sa."
-0147-r,4,,2/4,147. Paistu,Aavik-Sakeus (82),"Ven-na-kei-se _ _ noo--re-kei-se, _ _ ven-na-kei-se noo-re-kei-se."
-0148-r,4,,2/4,148. Tartu-Maarja,Liiv-Raja (18),"Ki-vis-ti-kun, kan-nas-ti-kun, sääl ma sõ-nu sää-de-le-si."
-0149-r,4,,2/4,149. Türi,Siimer (4),"Jaa-ni ai-ta rai-u-tak-se, Jaa-ni ai-ta rai-u-tak-se."
-0150-r,4,,2/4,150. Jõhvi,Penna-Sildnik (34) c,"Ja-ko-bi-ke, Jaa-ni-ke-ne..."
-0151-r,4,,2/4,151. Martna,C.Kreek (18),"Ka-du-gu see kat-su-mi-ne, noo-re-põl-ve nop-pi-mi-ne."
-0152-r,4,,2/4,152. Suure-Jaani,Saar-Siimer (98),Kes tõi sõ-ja sõ-nu-mi-da? Kä-gu tõi sõ-ja sõ-nu-mi-da.
-0153-r,8,,2/4,153. Lääne-Nigula,C.Kreek (10),"Oh se-da uh-ket Pii-bu-Mar-ti: kord tal o-li kos-ja min-na; ei põ-le rii-et sel-ga pan-na, kuub o-li kü-last kuu-la-tud."
-0154-r,4,,2/4,"154. Paistu, 1887",Lähteenkorva (345),"O-le mi-na loo-du luu-le-jas-se, o-le mi-na loo-du luu-le-jas-se."
-0155-r,4,,C,155. Kadrina,K.Viljak (83),"Kii---ge se---pad, el-lad ven-nad."
-0156-r,2,,2/4,156. Pöide,Fr.Paulmeister (21),-
-0157-r,4,,6/8,157. Simititsa,P.Penna - K.Luud (42a),E: Läh-me _ _ uu-ta _ _ kat-su-mai-e. K: Läh-me _ _ uu-ta _ _ kat-su-mai-e.
-0158-r,4,,6/8,158. Simititsa,P.Penna - K.Luud (42b),E: Lä-äh-me uu--ta ka-at-su-mai-e. K: Lä-äh-me uu--ta ka-at-su-mai-e.
-0159-r,4,,6/8,159. Jõhvi,Penna-Luud (140),"E: Kii-gu ik-ka, lau-la ik-ka. K: Kii-gu ik-ka, lau-la ik-ka."
-0160-r,4,,6/8,160. Järva-Madise,Topmann-Rahamägi (5),"E: Nõ-ret, nõ-ret, nõe-la-ke-ne. K: Nõ-ret, nõ-ret, nõe-la-ke-ne."
-0161-r,2,,2/4,161. Järvamaa,Penna-Rosenstrauch (96),"Pe-re-mees, pe-re-me-hi-ke."
-0162-r,4,,2/4,162. Kuusalu,Viljak-Vilberg (66),"Kii-gu, kii-gu, kii-ge-ke-ne, kii-gu, kii-ke, kõr-ge-el-le."
-0163-r,4,,2/4,163. Jõhvi,Penna-Sildnik (7) 14/5,Är-ge löö-ge vaes-ta las-ta...
-0164-r,4,,2/4,164. Koeru ja Järva-Jaani,Välbe-Martin-Rosenstrauch (235),"Lõ-pe, lõ-pe, põl-lu-ke..."
-0165-r,4,,2/4,165. Tarvastu,J.Müür (26),"Tee-me, tee-me, mis me tee-me, saa-me, saa-me, mis me saa-me."
-0166-r,4,,2/4,166. Puhja,Pehka-Eisenschmidt (20),"Mei-e kak-si vaes-ta las-ta e--ma, ä-ti hau-a pääl."
-0167-r,4,,2/4,167. Jõhvi,Penna-Sildnik (9) b,Kui mi-na hak-kan _ _ lau-le-mai-e...
-0168-r,4,,2/4 2/4 6/8 2/4,168. Kuusalu,Viljak-Vilberg (117),"Te-re, te-re, saa--ja-ke-ne!
-Oi, li-ha lee-mes-se
-la-gu-si!"
-0169-r,5,,2/4,169. Simititsa,Penna-Luud (2),"E: Mui--le, mui-le, ei--de-ke-ne. K: Mui-le, mui-le, ei--de-ke-ne."
-0170-r,4,,6/8,170. Jõhvi,Penna-Luud (114),"E: Po-e põl-du, _ _ pee-na-ras-se. K:"
-0171-r,2,,6/8,171. Kuusalu,Viljak-Vilberg (89),Neit-si--kä-sed _ _ nu-o-ru-ka-sed.
-0172-r,2,,6/8,172. Kuusalu,Viljak-Vilberg (74),Las mi-na hak-kan _ _ lau-le---mai-e.
-0173-r,2,,6/8,173. Kuusalu,Viljak-Vilberg (107),"Tul-ga _ _ kii-ga-le, kü--la _ _ nai-sed."
-0174-r,4,,2/4,174. Ambla,J.Välbe (183),"Kui mi-na hak-kan lau-le-mai-e, lau-le-mai-e, luu-le-mai-e."
-0175-r,8,,2/4,175. Väike-Maarja,P.Penna (171),"Muud suu-red su-gu-de pea-le, uh-ked õ-de-de pea-le, _ _ 
-kel-le pea-le mi-na vae-ne, mul po-le su-gu siin-na maal. _ _ "
-0176-r,4,,2/4,176. Tartu-Maarja,Liiv-Raja (13),"E: E-mä-ke-ne, mem-me-ke-ne, K: mis said a-bi mi-nu-us-ta?"
-0177-r,3,,2/4,177. Kuusalu,Viljak-Vilberg (94),"Käi Sa, _ _ kii--ke, _ _ kau--ge--el-le."
-0178-r,4,,2/4,178. Iisaku,Penna-Luud (125),"E: Õit-se-li-sed, päi-tse-li-sed K: ..."
-0179-r,4,,2/4,179. Jõhvi,Penna-Luud (142),Läh-me kii-ke kii-ke-mai-e...
-0180-r,4,,2/4,180. Kuusalu,Viljak-Vilberg (60),"Oh mi-na vae-ne vir-be-la-ne, vir-be-la-ne, vär-be-la-ne."
-0181-r,5,,2/4,181. Puhja,Pehka-Eisenschmidt (11),"Te-re, här-tu här-a-ke-ne, te-re, kul-da-kroo-ni prou-a-ke."
-0182-r,4,,2/4,182. Puhja,Pehka-Eisenschmidt (43),"Lii-van mu li-na te-gi-ja, lii-van mu li-na te-gi-ja."
-0183-r,4,,2/4,183. Paistu,Lähteenkorva (346),"E: E-mä-ke-ne, mem-me-ke-ne, K: e-mä-ke-ne, mem-me-ke-ne."
-0184-r,4,,2/4,184. Kadrina,K.Viljak (104),"Õl-le-ke-ne hõi-mu-ke-ne, kal-li-ke-ne kai-mu-ke-ne."
-0185-r,4,,2/4,185. Järva-Madise,P.Penna (50/1),Ma lä-en kõi-ki ko-si-mai-e...
-0186-r,4,,2/4,186. Tarvastu,Jaan Müür (1),"Pe-re-mees ol-li mul-le kur-ja, mi-na kur-ja här-ga-de-le."
-0187-r,8,,2/4,187. Lääne-Nigula,C.Kreek (19),"Mis mul vi-ga vil-tu juu-es, kon-na ves-kilt kot-ta tuu-es:
-i-sa mul Har-kus ai-da-me-heks, is-tub tae-va ää-re pä-ral"
-0188-r,4,,2/4,188. Järva-Madise,P.Penna (12/5),"Mis si-na, hul-gus, mei-le ot-sid, täi _ _ tü-tar tup-pa tu-led."
-0189-r,4,,2/4,189. Väike-Maarja,P.Penna (173),"Si-ga meil su-ri, jun-kur sün-dis; koe-rad kol-ki-sid, saa-pad ja-las."
-0190-r,4,,2/4,190. Jõhvi,Penna-Sildnik (46),"Sõi-din, sõi-din kos-ja-tee-da ..."
-0191-r,2,,6/8,191. Ambla,J.Välbe (141),"Õ-e--ke-sed, _ _ hel-la-ke-sed..."
-0192-r,2,,5/8,192. Kambja,P.Tatz (1) b,"Poo-la-maa puu _ _ pu-nat-se, kas-ke"
-0193-r,4,,C,193. Koeru ja Järva-Jaani,Martin-Rosenstrauch (218),"Ü-les, ü-les, mei-e kii-ke!"
-0194-r,2,,6/8,194. Järvamaa,Penna-Rosenstrauch (33),"Kii-ge--se-pad, _ _ hel-lad ven-nad."
-0195-r,2,,2/4,195. Peetri,Viljak-Rosenstrauch (15),"Kii-ge-se-pad, hel-lad ven-nad."
-0196-r,2,,2/4,196. Järvamaa,Penna-Rosenstrauch (89),"Kii-ge--se-pad, hel-lad ven-nad."
-0197-r,2,,2/4,197. Järvamaa,Penna-Rosenstrauch (124),Kuul-sin _ _ kii-ges kii-gu--ta--ma.
-0198-r,2,,6/8,198. Järvamaa,Penna-Rosenstrauch (100),"Kii-ge-se-pad, _ _ hel-lad ven-nad."
-0199-r,4,,6/8,199. Koeru ja Järva-Jaani,Martin-Rosenstrauch (203),"Kii-ge-se-pad, _ _ hel-lad ven-nad."
-0200-r,2,,6/8,200. Kadrina,K.Viljak (68),"Sõu-a, kii-ke, jõu-a, kii-ke!"
-0201-r,2,,2/4,201. Kuusalu,Viljak-Vilberg (166),O-bu-li-ne _ _ poi-si-ka-ne.
-0202-r,4,,2/4,202. Lääne-Nigula,C.Kreek (14),"Ai-du rai-du ra-tas-te-ga, enn-nem mi-na män-gin mä-tas-te-ga."
-0203-r,4,,2/4,203. Koeru,Välbe-Martin-Rosenstrauch (20),"Mi-na hoi-an i-sa hoos-ta, kait-sen hel-la ven-na kõr-bi."
-0204-r,2,,6/8,204. Järvamaa,Penna-Rosenstrauch (164),Kas nad _ _ taht-sid tul-la kii-ke.
-0205-r,2,,6/8,205. Kadrina,Sõster-Rosenstrauch (22),"Nõt-ku, nõt-ku, nõe-la-ke-ne."
-0206-r,4,,2/4,206. Rakvere,Elken-Rosenstrauch (48),"Läk-sin Lo-ot-se-le loo-le, Ma-ri-na-le hei-na-maa-le."
-0207-r,2,,2/4,207. Kuusalu,Viljak-Vilberg (126),Nä-gin mi-na nei--ut _ _ kas--va--mai-e.
-0208-r,4,,2/4,208. Puhja,M.Pehka (19),"Mi-nul vi-ha vel-le pää-le, ku-ri meel on kul-la pää-le."
-0209-r,4,,2/4,209. Koeru,J.Sõster (5) (95) [117],"Ei-a tu-du, ei-a tu-du, ei-a tu-du, ei-a tu-du.
-Tu-le u-ni uk-sest sis-se, as-tu sis-se a-ke-nas-ta.
-Ku-ku lap-se kul-mu pea-le, la-se lap-se la-u pea-le."
-0210-r,4,,2/4,210. Järvamaa,K.Viljak (9),"Tul-ge kii-ke, kü-la nai-sed too-ge ka-nad, too-ge mu-nad."
-0211-r,4,,2/4,211. Jõhvi,Penna-Sildnik (9) a,"O-lin mi-na or-jas, käi-sin kar-jas ..."
-0212-r,4,,2/4,212. Järvamaa,K.Viljak (17),"Jõu-a _ _ jõu-du, jõu-a jõu-du, et mi-na pais-tan pal-ju maa-da."
-0213-r,2,,6/8,213. Ambla,J.Välbe (170),"Kii-ge--se-pad, _ _ hel-lad ven-nad."
-0214-r,4,,6/8,214. Kodavere,Liiv-Raja (107),"E: Sõu-a, _ _ kii-ke, _ _ jõu-a, kii-ke, K: sõu-a, kii-ke, jõu-a, kii-ke."
-0215-r,2,,6/8,215. Järva-Jaani,Välbe-Martin-Rosenstrauch (64),"Kii-ge--se-pad, _ _ hel-lad ven-nad."
-0216-r,4,,2/4,216. Pärnu,Oidermann (16),"Kü-la a-ga poi-sid poo-led ven-nad, noo-red me-hed mul üs-na ven-nad."
-0217-r,2,,6/8,217. Kuusalu,Viljak-Vilberg (17),"Kii-ge-le, kii-ge-le, kü-la nai-sed."
-0218-r,2,,6/8,218. Ambla,J.Välbe (142),"Nei-ud kiik-sid, pär-jad läk-sid."
-0219-r,2,,6/8,219. Kuusalu,Viljak-Vilberg (14),"Oh, se-da ul-lu, _ _ mis o-li _ _ mul-lu."
-0220-r,2,,6/8,220. Kuusalu,Viljak-Vilberg (203),Kuu-lin kü-las kii-gu-ta-ma.
-0221-r,4,,6/8,"221. Haljala, 1877",Lähteenkorva (365),"Lep-pa kas-vas lin-na-tiel-la, kas-ke Har-ju kar-ja-mäel-la."
-0222-r,6,,2/4,222. Rõuge,J.Gutves (2) [120],"A-ja õks jä-le jär-ve poo-le, a-ja õks ti-e tii-gi poo-le, kai-va õks lu-mi ka-o poo-lõ."
-0223-r,4,,6/8,223. Simuna,Siimer-Rosenstrauch (32),"E: Lau-la, lau-la suu--ke-ne, K: lau-la, lau-la, suu--ke-ne!"
-0224-r,4,,6/8,224. Ambla,Topmann-Rahamägi (11),"E: Kii-ges--se-pad, _ _ el-lad ven-nad, K: kas see _ _ kii-ke _ _ kan-nab mei-da?"
-0225-r,4,,6/8,225. Kuusalu,Viljak-Vilberg (23),"Te-gin a-ga or-gu oh-rad hal-jad, mäe a-ga pea-le-e ke-nad kae-rad."
-0226-r,4,,2/4,226. Ambla,J.Välbe (134),"Võt-ke vas-tu san-di Mar-did, Mar-did tul-nud kau-ge-el-ta."
-0227-r,4,,2/4,227. Järva-Madise,Topmann-Rahamägi (1),"Tii-dal tal-lel tis-ku tas-ku, tis-ku tas-ku nis-ku nas-ku."
-0228-r,4,,C,228. Laiuse ja Simuna,Viljak-Rosenstrauch (31),"Nõ-ret, nõ-ret, nõe-la-ke-ne."
-0229-r,2,,6/8,229. Ambla,J.Välbe (111),"Kii-ge--se-pad, _ _ hel-lad _ _ ven-nad."
-0230-r,2,,6/8,230. Ambla,J.Välbe (213),Ma tu-lin kii-ke kat-su-mai-e.
-0231-r,2,,6/8,231. Ambla,J.Välbe (114),"Kii-ge--se-pad, hel-lad _ _ ven-nad."
-0232-r,2,,6/8,232. Ambla,J.Välbe (93),"Kii-ge-se-pad, hel-lad ven-nad."
-0233-r,2,,2/4,233. Kuusalu,Viljak-Vilberg (165),"Not-ku, not-ku, neu-la-ke-ne."
-0234-r,4,,2/4,234. Jõhvi,Penna-Sildnik (27) b,Mi-nu hel-la ei-de-ke-ne ...
-0235-r,4,,2/4,235. Järva-Madise,P.Penna (104/1),Mis mul vi-ga vii-na juu-a ...
-0236-r,3,,2/4,236. Kuusalu,Viljak-Vilberg (54) b,Oh mi-nu kul--la _ _ kii-gu-ta-jad.
-0237-r,2,,6/8,237. Kuusalu,Viljak-Vilberg (88),Muud läh-vad kii-ge-le kii-ku-mai-e.
-0238-r,2,,6/8,238. Kuusalu,Viljak-Vilberg (54),Oh mi-nu kul--la _ _ _ kii-gu-ta-jad.
-0239-r,2,,6/8,239. Väike-Maarja,P.Penna (190),"Ü-les, _ _ ü-les, _ _ kii-ge-ke-ne!"
-0240-r,4,,6/8,240. Iisaku,Penna-Luud (122),"E: Mis sa, kii-ge, ki-gi-sed, _ _ K: mis sa, kii-ge, ki-gi-sed? _ _ "
-0241-r,4,,6/8,241. Jõhvi,Penna-Sildnik (27) a,Ven-da kõn-dis kos-ja-tee-da ...
-0242-r,4,,2/4,242. Kolga-Jaani,Simm-Reisik (19),"E: Neit-si-ke-sed, noo-re-ke-sed, K: ka-har-pea-ga kau-ni-ke-sed."
-0243-r,3,,6/8,243. Kuusalu,Viljak-Vilberg (87),"Löö-me _ _ trop-pi, _ _ tu--vi--ke-sed ..."
-0244-r,4,,6/8,244. Jõhvi,Penna-Sildnik (20) b,Nä-gid lais-ku ju tu-le-ma ...
-0245-r,2,,6/8,245. Laiuse ja Simuna,Viljak-Rosenstrauch (26),Tul-ge kii-ke kii-ku-mai-e.
-0246-r,4,,2/4,246. Rannu,P.Tatz (41),"Taht-sin, taht-sin tal-gu-se-le, taht-sin mi-na tal-gu-se-le."
-0247-r,6,,2/4,247. Puhja,Pehka-Eisenschmidt (5),"Taht-sin min-na tal-gu-se-le, taht-sin min-na tal-gu-se-le, tal-gu-se kal-ja kae--da."
-0248-r,4,,2/4,248. Kolga-Jaani,Simm-Reisik (35),"Taht-sin min-na tal-gu-se-le, taht-sin tal-gu-se õ-lu-ta."
-0249-r,4,,2/4,249. Pilistvere,A.Thomson (11) Saar-Siimer (56),"E: Läk-sin met-sa kõn-di-mai-e, K: u-du-se-le hom-mi-ku-le."
-0250-r,2,,2/4,250. Kuusalu,Viljak-Vilberg (34),"Si-ni-kir-ja, si-ni-kir-ja lin-nu-kai-ne."
-0251-r,4,,2/4,251. Väike-Maarja,P.Penna (172),Mis lau-lad si-na si-ni-ne! Si-nu suus-ta ku-kub sit-ta.
-0252-r,4,,2/4,252. Jõhvi,Penna-Sildnik (47) c,"Õ-e-ke-ne, õ-e-ke-ne, i-se si-na te-gid it-ku-päe-vad."
-0253-r,4,,2/4,253. Iisaku,Penna-Luud (128),"E: Mi-nu hel-la ei-de-ke-ne, K: mi-nu hel-la ei-de-ke-ne."
-0254-r,4,,2/4,254. Paistu,Aavik-Sakeus (39),"E: E-mä-kei-ne, en-ne-kei-ne, K: e-mä-kei-ne, en-ne-kei-ne."
-0255-r,4,,2/4,255. Vaivara,Penna-Luud (111),Oh se-da vaes-ta or-ja-las-ta ...
-0256-r,4,,2/4,256. Võrumaa,Hermann (1439),"E: Mis ma lau-la, lei-na-li-ne, K: ku-ku lii-ga, _ _ kur-va-li-ne."
-0257-r,4,,2/4,257. Jõhvi,Penna-Sildnik (20) a,"Kok-ku, kok-ku, koo-re-ke-ne ..."
-0258-r,4,,2/4,258. Jõhvi,Penna-Sildnik (28) a,"Pei-u-ke-ne, poi-si-ke-ne, kui läed nais-ta võt-ta-mai-e."
-0259-r,4,,2/4,259. Jõhvi,Penna-Sildnik (25) a,"Neit-si-ke-ne, noo-ru-ke-ne ..."
-0260-r,4,,2/4,260. Kadrina,K.Viljak (86),"Ra-sa, ta-sa, _ _ tar-gu, tar-gu, ta-sa nei-du tant-si-ta-ge."
-0261-r,4,,2/4,261. Jõhvi,Penna-Sildnik (25) d,"Si-ri-se, si-ri-se, sir-bi-ke-ne ..."
-0262-r,4,,2/4,262. Jõhvi,Penna-Sildnik (26) b,"Rik-su, tu-li, _ _ rak-su, tu-li ..."
-0263-r,4,,2/4,263. Jõhvi,Penna-Sildnik (36) b,-
-0264-r,4,,2/4,264. Väike-Maarja,P.Penna (167),"Käi-sin lin-nas, käi-sin Nar-vas, ik-ke käi-sin ar-ma kau-du."
-0265-r,4,,2/4,265. Karksi,Aavik-Sakeus (71),"E: Kuu löi-si nei-u noo-re, K: kuu löi-si nei-u noo-re."
-0266-r,4,,2/4,266. Jõhvi,Penna-Luud (141),-
-0267-r,4,,6/8,267. Jõhvi,Lähteenkorva (369),"E: Kii-gu, kii-ke, kõr-ge-el-le, K: kõr-ge-el-le, kau-ge-el-le."
-0268-r,4,,2/4,268. Rõuge,J.Gutves (9) [127],"Oh, ma väi-ke me-he-ke-ne, põl-ve-pik-ku _ _ poi-si-ke-ne."
-0269-r,6,,2/4,269. Setumaa,Lindpere (131),"K: Tra-rai tral-li, ra-rai ral-li, E: kust nu _ _ sak-sa sii-a sai-va, K: e--män-dä kuis il-mu-si-gi."
-0270-r,6,,5/8 2/4 3/4 3/4 3/4 3/4,270. Setumaa,Lindpere (119),"E: E-läks me-hel mi sal-lis-ti, K: kes ker-go-le, kes ker-go-le, kes ker-go, ker-go-le."
-0271-r,6,,2/4 2/4 3/8 3/8 3/8 3/8,271. Simititsa,Penna-Luud (29),"E: Nõt-ku, nõt-ku, nõe-la-ke-ne, E: hüp-pa, nõe-la, kar-ga, nõe-la, K: hüp-pa, nõe-la, kar-ga, nõe-la."
-0272-r,4,,2/4,272. Otepää,Kiis-Eisenschmidt (47),"E: Kul-le, kos lau-lab joo-dik pois-si, K: õis-kab õl-le-kur-gu kan-ni."
-0273-r,4,,2/4,273. Helme,Martin-Tatz (18),"E: Ve-li, hel-la vel-le-ke-ne, K: ve-li, hel-la vel-le-ke-ne."
-0274-r,4,,2/4,274. ,P.Kurg (163),"Las-ke sis-se mar-di-san-did, las-ke sis-se, ma pa-luk-sin."
-0275-r,6,,2/4,275. Rõuge,J.Gutves (16) [134],"Ä-rä põi-mi pi-kä põl-lu, ä-rä laa-bõ lai-a vä-lä: es jää põl-lul põ-dõ-mai-e."
-0276-r,4,,2/4,276. Väike-Maarja,P.Penna (179) f,Sõit-sin pik-ka lin-na-tee-da ...
-0277-r,4,,2/4,277. Ambla,J.Välbe (214),"Laa-la, laa-la, suu--ke-ne, lii-gu, lin-nu kee-le-ke-ne."
-0278-r,4,,2/4,278. Rakvere,Elken-Rosenstrauch (39),"Lõ-pe, lõ-pe, põl-lu-ke-ne, lõ-pe, lõ-pe, põl-lu-ke-ne."
-0279-r,4,,2/4,279. Jõhvi,Penna-Sildnik (8) b,Oi mei-e he-le-da här-ra ...
-0280-r,4,,2/4,280. Haljala,Viljak-Mark (9),"O-lut me juo-me, teis-ta me tie-me, o-lut me juo-me, teis-ta me tie-me."
-0281-r,4,,2/4,281. Jõhvi,Penna-Sildnik (33),"Kui see eit po-le en-ne nut-nud, nu-tab hom-me hom-mi-ku."
-0282-r,4,,2/4,282. Jõhvi,Penna-Sildnik (21),O-dra-pe-a hõis-kas o-rus-sa _ _ kä-bi kär-kis põõ-sas-ta.
-0283-r,4,,2/4,283. Väike-Maarja,P.Penna (185),"Kus on vae-se var-ju-pai-ka, le-se nai-se lee-ri-pai-ka."
-0284-r,4,,2/4,284. Tartu,P.Kurg (25),"Oo-ta--me ja kan-na--ta-me, kas meid _ _ hul-ka _ _ hüü-e-tak-se."
-0285-r,2,,6/8,285. Kadrina,K.Viljak (62),"Ü-le mi-na, õ-ed, hel-lad."
-0286-r,4,,6/8,286. Jõhvi,Penna-Sildnik (25) b,"Kii--kii-ke, las--las-ke ..."
-0287-r,4,,2/4,287. ,M.Pehka (30),"Mis mul a-bi lau-le-mis-ta, kul-la hää-le kuu-gu-mis-ta."
-0288-r,2,,6/8,288. Väike-Maarja,P.Penna (198) (44) c,"Kii-ge-se-pad, hel-lad ven-nad."
-0289-r,12,,2/4,289. Ridala,Kreek-Mudda (18),"Mis mi-na lau-lan li-pi--li-ne, ll-pi--li-ne, lo-pi-li-ne.
-Si-nu suu o-li so-pi--li-ne, ni-na nel-ja-nur-ge-li-ne,
-kael o-li ka-hek-sa-kan-di--li-ne, kael o-li ka-hek-sa-kan-di-li-ne."
-0290-r,4,,2/4,290. Harju-Jaani,Viljak-Vilberg (1) [28],"Pe-re-tüd-ruk lii-ga lais-ka, lii-ga lais-ka, loo-dud lais-ka."
-0291-r,4,,2/4,291. Kolga-Jaani,P.Kurg (32),"Mul o-li ük-si-ai-nus _ _ ven-da, mul o-li ük-si--ai-nus ven-da."
-0292-r,4,,2/4,292. Tartu,P.Kurg (23),"Kes _ _ see kii--dab kii--sa lui--da, kes _ _ see kii--dab kii--sa lui--da."
-0293-r,4,,2/4,293. Rõuge,J.Gutves (139),"Is-tö ma-ha ik-kõ-mai-e, sii-a sil-mi püh-ki-mai-e."
-0294-r,4,,6/8,294. Koeru,"J.Sõster (1) [23], [12]","Kui ma hak-kan lau-le-mai--e, lau-le-mai-e, luu-le-mai-e..."
-0295-r,2,,6/8,295. Kuusalu,Viljak-Vilberg (104),Kuu-len ma _ _ kii-gel kii-gu-ta-va.
-0296-r,4,,3/8 5/8 2/4 2/4,296. Pilistvere,Saar-Siimer (6 ab),"E: Pe-re-mees, pe-re-me-hi-ke, K: pe-re-nai-ne, nai-su-ke-ne."
-0297-r,2,,2/4,297. Kuusalu,Viljak-Vilberg (73),"Tü-te-ri-da, var-ga-ai-da."
-0298-r,2,,6/8,298. Koeru,M.Sõster (34),Kui ma _ _ hak-kan _ _ lau--le-mai-e...
-0299-r,2,,6/8,299. Kadrina,K.Viljak (5) (50),"Mis sa _ _ kriuk-sud, _ _ mei-e kii-ke? _ _ "
-0300-r,2,,6/8,300. Kadrina,Sõster-Rosenstrauch (20),Muud läe-vad kii-ke kat-su-mai-e.
-0301-r,2,,6/8,301. Ambla,J.Välbe (143),"Nei-ud _ _ kiik-sid, _ _ pär-jad _ _ läik-sid. _ _ "
-0302-r,2,,6/8,302. Kadrina,K.Viljak (58),Kii-ke kiu-nub kin-da-ai-da.
-0303-r,4,,6/8,303. Simuna,Siimer-Rosenstrauch (26),"E: Si-ni-kir-ja lin-nu-ke-ne, K: si-ni-kir-ja sil-ma pil-ge."
-0304-r,2,,6/8,304. Koeru,Välbe-Martin-Rosenstrauch (2) (52),"Kü-la--me-hed, _ _ hel-lad _ _ ven-nad."
-0305-r,4,,2/4,305. Pühalepa,Süda-Sakeus (2),"E: E-hi, nei-u, ja he-pi, nei-u, K: e-hi a-ga, e-ma, eh-te-es-se."
-0306-r,8,,5/8 2/4 2/4 2/4 2/4 2/4 5/8 2/4,306. Helme,Martin-Tatz (1),"E: Tu-le ü-les, mu e-ma-ke-ne, K: e-ma-ke-ne, en-ne-ke-ne,
-E: ma itt san-na sam-be-lis-ta, K: ke-re-se me-re-ki-vis-ta."
-0307-r,2,,6/8,307. Kadrina,K.Viljak (17),Mis o-li mei-e _ _ kü-la _ _ kes-kel?
-0308-r,4,,3/4,308. Kuusalu,Viljak-Vilberg (195),"Va-nad poi-sid, vä-sind poi-sid."
-0309-r,4,,2/4,309. Väike-Maarja,P.Penna (195),"Mis mi-na hoo-lin luu-le-des-sa, luu-le-des-sa, laa-le-des-sa."
-0310-r,2,,6/8,310. Haljala,Viljak-Mark (12) o,
-0311-r,4,,2/4,311. Simititsa,Penna-Luud (47),
-0312-r,2,,6/8,312. Koeru,Välbe-Martin-Rosenstrauch (27),
-0313-r,4,,2/4,313. Järva-Jaani,Välbe-Martin-Rosenstrauch (32),
-0314-r,4,,2/4,314. Iisaku,Penna-Luud (124),
-0315-r,4,,2/4,315. Jõhvi,Penna-Sildnik (35) a,
-0316-r,4,,2/4,316. Koeru ja Järva-Jaani,Martin-Rosenstrauch (249),
-0317-r,2,,6/8,317. Järvamaa,Penna-Rosenstrauch (17) (56/4) (83/3) (146/35) (149) (165),
-0318-r,2,,2/4,318. Haljala,Viljak-Mark (12) n [121],
-0319-r,2,,6/8,319. Pärnu-Tori,Tatz-Sildnik (41),
-0320-r,4,,2/4,320. Väike-Maarja,P.Penna (170),
-0321-r,4,,2/4,321. Rakvere,Elken-Rosenstrauch (46),
-0322-r,4,,2/4,322. Rakvere,Elken-Rosenstrauch (1),
-0323-r,4,,2/4,323. Simuna,Siimer-Rosenstrauch (56),
-0324-r,4,,2/4,324. Ambla,J.Välbe (54),
-0325-r,2,,6/8,325. Kadrina,K.Viljak (48),
-0326-r,2,,6/8,326. Kadrina,K.Viljak (93),
-0327-r,4,,6/8,327. Jõhvi,Penna-Sildnik (28) b,
-0328-r,4,,2/4,328. Koeru ja Järva-Jaani,Martin-Rosenstrauch (227),
-0329-r,4,,6/8,329. Jõhvi,Penna-Sildnik (22) b,
-0330-r,4,,2/4,330. Koeru,Välbe-Martin-Rosenstrauch (98),
-0331-r,4,,2/4,331. Tarvastu,J.Müür (30),
-0332-r,4,,6/8,332. Jõhvi,Penna-Luud (120),
-0333-r,2,,6/8,333. Ambla,J.Välbe (204),
-0334-r,2,,6/8,334. Järva-Madise,P.Penna (68/4),
-0335-r,2,,6/8,335. Järva-Madise,P.Penna (66/2),
-0336-r,4,,2/4,336. Kadrina,K.Viljak (63),
-0337-r,2,,2/4,337. Kuusalu,Viljak-Vilberg (40),
-0338-r,4,,2/4,338. Koeru,Välbe-Martin-Rosenstrauch (3),
-0339-r,4,,5/8,339. Paistu,P.Kurg (17),
-0340-r,4,,C,340. Järva-Madise,P.Penna (87/1),
-0341-r,2,,6/8,341. Järva-Madise,P.Penna (89/3),
-0342-r,4,,2/4,342. Kursi ja Võnnu,J.Kärt (21) (30) (31) (33),
-0343-r,4,,2/4,343. Võrumaa,A.Sibul (18),
-0344-r,3,,2/4,344. Kuusalu,Viljak-Vilberg (51),
-0345-r,2,,6/8,345. Kadrina,K.Viljak (66),
-0346-r,4,,2/4,346. Tartu-Maarja,Liiv-Raja (40),
-0347-r,4,,2/4,347. Jõhvi,Penna-Luud (137),
-0348-r,2,,2/4,348. Jõhvi,Penna-Sildnik (44) b,
-0349-r,4,,6/8,349. Kadrina,Lähteenkorva (358),
-0350-r,4,,6/8,350. Rakvere,Elken-Rosenstrauch (38),
-0351-r,2,,6/8,351. Ambla,J.Välbe (188),
-0352-r,4,,2/4,352. Paistu,Aavik-Sakeus (24),
-0353-r,4,,2/4,353. Rõngu,,
-0354-r,2,,6/8,354. Kadrina,,
-0355-r,4,,2/4,355. Tarvastu,,
-0356-r,4,,2/4,356. Hanila,,
-0357-r,4,,2/4,357. Ambla,,
-0358-r,4,,2/4,358. Väike-Maarja,,
-0359-r,4,,6/8,359. Jõhvi,,
-0360-r,4,,6/8,360. Jõhvi,,
-0361-r,2,,6/8,361. Järva-Madise,,
-0362-r,2,,6/8,362. Järvamaa,,
-0363-r,4,,2/4,363. Väike-Maarja,,
-0364-r,2,,6/8,364. Ambla,,
-0365-r,4,,2/4,365. Jõhvi,,
-0366-r,4,,2/4,366. Jõhvi,,
-0367-r,4,,2/4,367. Jõhvi,,
-0368-r,4,,2/4,368. Nigula,,
-0369-r,4,,2/4,369. Põltsamaa,,
-0370-r,4,,2/4,370. Põhja-Eesti,,
-0371-r,4,,2/4,371. Türi,,
-0372-r,4,,2/4,372. Väike-Maarja,,
-0373-r,4,,2/4,373. Maarja-Magdaleena,,
-0374-r,4,,2/4,374. Kadrina,,
-0375-r,4,,2/4,"375. Jõhvi, 1877",,
-0376-r,4,,2/4,376. Väike-Maarja,,
-0377-r,4,,2/4,377. Kadrina,,
-0378-r,4,,2/4,378. Ridala,,
-0379-r,4,,2/4,379. Vändra,,
-0380-r,4,,2/4,380. Väike-Maarja,,
-0381-r,4,,2/4,381. Jõhvi,,
-0382-r,4,,2/4,382. Ambla,,
-0383-r,4,,2/4,383. Jõhvi,,
-0384-r,4,,2/4,384. Järva-Madise,,
-0385-r,4,,2/4,385. Jõhvi,,
-0386-r,4,,2/4,386. Koeru,,
-0387-r,4,,2/4,387. Koeru,,
-0388-r,4,,2/4,388. Paistu,,
-0389-r,4,,2/4,389. Väike-Maarja,,
-0390-r,4,,2/4,390. Kursi ja Võnnu,,
-0391-r,4,,2/4,391. Rakvere,,
-0392-r,4,,2/4,392. Kadrina,,
-0393-r,4,,2/4,393. Kuusalu,,
-0394-r,4,,2/4,394. Kadrina,,
-0395-r,4,,2/4,395. Peetri,,
-0396-r,4,,2/4,"396. Rõuge, 1909",,
-0397-r,4,,2/4,397. Kadrina,,
-0398-r,4,,2/4,398. Järva-Madise,,
-0399-r,4,,2/4,399. Järva-Jaani,,
-0400-r,4,,2/4,400. Kadrina,,
-0401-r,4,,2/4,401. Järva-Jaani,,
-0402-r,4,,2/4,402. Järva-Jaani,,
-0403-r,4,,2/4,403. Peetri,,
-0404-r,4,,2/4,404. Jõhvi,,
-0405-r,4,,2/4,405. Kadrina,,
-0406-r,4,,2/4,406. Järvamaa,,
-0407-r,4,,2/4,407. Järvamaa,,
-0408-r,4,,2/4,408. Järva-Jaani,,
-0409-r,4,,2/4,409. Haljala,,
-0410-r,4,,2/4,410. Haljala,,
-0411-r,4,,2/4,411. Ambla,,
-0412-r,4,,2/4,412. Jõhvi,,
-0413-r,4,,2/4,413. Jõhvi,,
-0414-r,4,,2/4,414. Järva-Madise,,
-0415-r,4,,2/4,415. Simititsa,,
-0416-r,4,,2/4,416. Järvamaa,,
-0417-r,4,,2/4,417. Järva-Jaani,,
-0418-r,4,,2/4,418. Rakvere,,
-0419-r,4,,2/4,419. Rakvere,,
-0420-r,4,,2/4,420. Järva-Jaani,,
-0421-r,4,,2/4,421. Kuusalu,,
-0422-r,4,,2/4,422. Ambla,,
-0423-r,4,,2/4,423. Järva-Madise,,
-0424-r,4,,2/4,424. Kuusalu,,
-0425-r,4,,2/4,425. Kursi ja Võnnu,,
-0426-r,4,,2/4,426. Jõhvi,,
-0427-r,4,,2/4,427. Kuusalu,,
-0428-r,4,,2/4,428. Järva-Madise,,
-0429-r,4,,2/4,429. Kadrina,,
-0430-r,4,,2/4,430. Harju-Jaani,,
-0431-r,4,,2/4,431. Viljandi,,
-0432-r,4,,2/4,432. Ambla,,
-0433-r,4,,2/4,433. Järva-Madise,,
-0434-r,4,,2/4,434. Järva-Madise,,
-0435-r,4,,2/4,435. Järva-Madise,,
-0436-r,4,,2/4,436. Simuna,,
-0437-r,4,,2/4,437. Koeru,,
-0438-r,4,,2/4,438. Järvamaa,,
-0439-r,4,,2/4,439. Järva-Madise,,
-0440-r,4,,2/4,440. Järva-Madise,,
-0441-r,4,,2/4,441. Kadrina,,
-0442-r,4,,2/4,442. Türi,,
-0443-r,4,,2/4,"443. Rõuge, 1909",,
-0444-r,4,,2/4,444. Laiuse,,
-0445-r,4,,2/4,445. Järvamaa,,
-0446-r,4,,2/4,446. Järvamaa,,
-0447-r,4,,2/4,447. Kuusalu,,
-0448-r,4,,2/4,448. Järvamaa,,
-0449-r,4,,2/4,449. Simititsa,,
-0450-r,4,,2/4,450. Väike-Maarja,,
-0451-r,4,,2/4,451. Järvamaa,,
-0452-r,4,,2/4,452. Türi,,
-0453-r,4,,2/4,453. ,,
-0454-r,4,,2/4,454. Rakvere,,
-0455-r,4,,2/4,455. Kadrina,,
-0456-r,4,,2/4,456. Koeru ja Järva-Jaani,,
-0457-r,4,,2/4,457. Järva-Madise,,
-0458-r,4,,2/4,458. Vändra,,
-0459-r,4,,2/4,459. Kuusalu,,
-0460-r,4,,2/4,460. Kanepi,,
-0461-r,4,,2/4,461. Simititsa,,
-0462-r,4,,2/4,462. Krimmi,,
-0463-r,4,,2/4,463. Simititsa,,
-0464-r,4,,2/4,"464. Kadrina, 1877",,
-0465-r,4,,2/4,465. Paistu,,
-0466-r,4,,2/4,466. Türi,,
-0467-r,4,,2/4,467. Alatskivi,,
-0468-r,4,,2/4,468. Valguta,,
-0469-r,4,,2/4,469. Kolga-Jaani,,
-0470-r,4,,2/4,470. ,,
-0471-r,4,,2/4,471. Pilistvere,,
-0472-r,4,,2/4,472. Väike-Maarja,,
-0473-r,4,,2/4,473. Laiuse ja Simuna,,
-0474-r,4,,2/4,474. Kadrina,,
-0475-r,4,,2/4,475. Kadrina,,
-0476-r,4,,2/4,476. Kuusalu,,
-0477-r,4,,2/4,477. ,,
-0478-r,4,,2/4,478. Kuusalu,,
-0479-r,4,,2/4,479. Haljala,,
-0480-r,4,,2/4,480. Koeru ja Järva-Jaani,,
-0481-r,4,,2/4,481. Alatskivi,,
-0482-r,4,,2/4,482. Urvaste,,
-0483-r,4,,2/4,483. Järva-Madise,,
-0484-r,4,,2/4,484. Väike-Maarja,,
-0485-r,4,,2/4,485. Järvamaa,,
-0486-r,4,,2/4,486. Kadrina,,
-0487-r,4,,2/4,487. Ambla,,
-0488-r,4,,2/4,488. Järvamaa,,
-0489-r,4,,2/4,489. Järvamaa,,
-0490-r,4,,2/4,490. Väike-Maarja,,
-0491-r,4,,2/4,491. Järvamaa,,
-0492-r,4,,2/4,492. Simititsa,,
-0493-r,4,,2/4,493. Koeru ja Järva-Jaani,,
-0494-r,4,,2/4,494. Paistu,,
-0495-r,4,,2/4,495. Paistu,,
-0496-r,4,,2/4,496. Türi,,
-0497-r,4,,2/4,497. Järva-Madise,,
-0498-r,4,,2/4,498. Kuusalu,,
-0499-r,4,,2/4,499. Kuusalu,,
-0500-r,4,,2/4,500. Kadrina,,
-0501-r,4,,2/4,501. Jõhvi,,
-0502-r,4,,2/4,502. Vändra,,
-0503-r,4,,2/4,503. Kadrina,,
-0504-r,4,,2/4,504. Kuusalu,,
-0505-r,4,,2/4,505. Koeru,,
-0506-r,4,,2/4,506. Järva-Madise,,
-0507-r,4,,2/4,507. Järva-Madise,,
-0508-r,4,,2/4,508. Väike-Maarja,,
-0509-r,4,,2/4,509. Väike-Maarja,,
-0510-r,4,,2/4,510. Väike-Maarja,,
-0511-r,4,,2/4,511. Kadrina,,
-0512-r,4,,2/4,512. Haljala,,
-0513-r,4,,2/4,513. Järva-Madise,,
-0514-r,4,,2/4,514. Koeru,,
-0515-r,4,,2/4,515. Kodavere,,
-0516-r,4,,2/4,516. Jõelähtme,,
-0517-r,4,,2/4,517. Järvamaa,,
-0518-r,4,,2/4,518. Pärnu ja Tori,,
-0519-r,4,,2/4,"519. Rakvere ja Haljala, 1877",,
-0520-r,4,,2/4,"520. Karula, 1877",,
-0521-r,4,,2/4,521. Kadrina,,
-0522-r,4,,2/4,522. Väike-Maarja,,
-0523-r,4,,2/4,523. Paistu,,
-0524-r,4,,2/4,524. Kursi ja Võnnu,,
-0525-r,4,,2/4,525. Väike-Maarja,,
-0526-r,4,,2/4,526. Koeru,,
-0527-r,4,,2/4,527. Kadrina,,
-0528-r,4,,2/4,528. Kadrina,,
-0529-r,4,,2/4,529. Kadrina,,
-0530-r,4,,2/4,530. Kadrina,,
-0531-r,4,,2/4,531. Haljala,,
-0532-r,4,,2/4,532. Järva-Madise,,
-0533-r,4,,2/4,533. Kadrina,,
-0534-r,4,,2/4,534. Haljala,,
-0535-r,4,,2/4,"535. Paistu, 1877",,
-0536-r,4,,2/4,536. Pilistvere,,
-0537-r,4,,2/4,537. Pilistvere,,
-0538-r,4,,2/4,538. Simuna,,
-0539-r,4,,2/4,539. Jõhvi,,
-0540-r,4,,2/4,540. Kolga-Jaani,,
-0541-r,4,,2/4,541. Vändra,,
-0542-r,4,,2/4,542. Järva-Jaani,,
-0543-r,4,,2/4,543. Karksi,,
-0544-r,4,,2/4,544. Pilistvere,,
-0545-r,4,,2/4,545. Sangaste,,
-0546-r,4,,2/4,546. Kolga-Jaani,,
-0547-r,4,,2/4,547. Kolga-Jaani,,
-0548-r,4,,2/4,548. Paistu,,
-0549-r,4,,2/4,549. Häädemeeste,,
-0550-r,4,,2/4,550. Ambla,,
-0551-r,4,,2/4,551. Paistu,,
-0552-r,4,,2/4,552. Kadrina,,
-0553-r,4,,2/4,553. Järva-Jaani,,
-0554-r,4,,2/4,554. Pärnu-Jaagupi,,
-0555-r,4,,2/4,555. Nigula,,
-0556-r,4,,2/4,556. Karksi,,
-0557-r,4,,2/4,557. Järvamaa,,
-0558-r,4,,2/4,558. Karksi,,
-0559-r,4,,2/4,559. Kadrina,,
-0560-r,4,,2/4,560. Järvamaa,,
-0561-r,4,,2/4,561. Pärnu-Jaagupi,,
-0562-r,4,,2/4,562. Simititsa,,
-0563-r,4,,2/4,563. Sangaste,,
-0564-r,4,,2/4,564. Simititsa,,
-0565-r,4,,2/4,565. Ambla,,
-0566-r,4,,2/4,566. Rakvere,,
-0567-r,4,,2/4,"567. Puhja, 1883",,
-0568-r,4,,2/4,568. Vändra,,
-0569-r,4,,2/4,569. Koeru,,
-0570-r,4,,2/4,570. Ridala,,
-0571-r,4,,2/4,571. Ridala,,
-0572-r,4,,2/4,572. Järva-Madise,,
-0573-r,4,,2/4,573. Hargla,,
-0574-r,4,,2/4,574. Krimmi,,
-0575-r,4,,2/4,575. Koeru,,
-0576-r,4,,2/4,576. Ambla,,
-0577-r,4,,2/4,577. Marja-Magdaleena,,
-0578-r,4,,2/4,"578. Rõuge, 1909",,
-0579-r,4,,2/4,579. Häädemeeste,,
-0580-r,4,,2/4,580. Vändra,,
-0581-r,4,,2/4,581. Järva-Madise,,
-0582-r,4,,2/4,582. Kuusalu,,
-0583-r,4,,2/4,583. Väike-Maarja,,
-0584-r,4,,2/4,584. Rõngu,,
-0585-r,4,,2/4,585. Jõhvi,,
-0586-r,4,,2/4,586. Koeru ja Järva-Jaani,,
-0587-r,4,,2/4,587. Koeru,,
-0588-r,4,,2/4,"588. Paistu, 1888",,
-0589-r,4,,2/4,589. Järva-Madise,,
-0590-r,4,,2/4,590. Järva-Madise,,
-0591-r,4,,2/4,"591. Karula, 1877",,
-0592-r,4,,2/4,592. Kadrina,,
-0593-r,4,,2/4,593. Haljala,,
-0594-r,4,,2/4,594. Halliste,,
-0595-r,4,,2/4,595. Helme,,
-0596-r,4,,2/4,596. Tarvastu,,
-0597-r,4,,2/4,597. Järvamaa,,
-0598-r,4,,2/4,598. Tarvastu,,
-0599-r,4,,2/4,599. Rakvere,,
-0600-r,4,,2/4,600. Ambla,,
-0601-r,4,,2/4,601. Ambla,,
-0602-r,4,,2/4,602. Suure-Jaani,,
-0603-r,4,,2/4,603. Paistu,,
-0604-r,4,,2/4,604. Koeru,,
-0605-r,4,,2/4,605. Saarde,,
-0606-r,4,,2/4,606. Viru-Nigula,,
-0607-r,4,,2/4,607. Viru-Nigula,,
-0608-r,4,,2/4,608. Risti,,
-0609-r,4,,2/4,609. Rakvere,,
-0610-r,4,,2/4,610. Pilistvere,,
-0611-r,4,,2/4,611. Karksi,,
-0612-r,4,,2/4,612. Väike-Maarja,,
-0613-r,4,,2/4,613. Lutsi,,
-0614-r,4,,2/4,614. Ambla,,
-0615-r,4,,2/4,615. Paistu,,
-0616-r,4,,2/4,616. Väike-Maarja,,
-0617-r,4,,2/4,617. Jõhvi,,
-0618-r,4,,2/4,618. Kursi ja Võnnu,,
-0619-r,4,,2/4,619. Väike-Maarja,,
-0620-r,4,,2/4,620. Koeru,,
-0621-r,4,,2/4,621. ,,
-0622-r,4,,2/4,622. Ambla,,
-0623-r,4,,2/4,623. Ambla,,
-0624-r,4,,2/4,624. Kuusalu,,
-0625-r,4,,2/4,625. ,,
-0626-r,4,,2/4,626. Järvamaa,,
-0627-r,4,,2/4,627. Koeru ja Järva-Jaani,,
-0628-r,4,,2/4,628. Maarja-Magdaleena,,
-0629-r,4,,2/4,629. Kolga-Jaani,,
-0630-r,4,,2/4,630. Ambla,,
-0631-r,4,,2/4,631. Kambja,,
-0632-r,4,,2/4,632. Koeru ja Järva-Jaani,,
-0633-r,4,,2/4,633. Järvamaa,,
-0634-r,4,,2/4,634. Koeru,,
-0635-r,4,,2/4,635. Rõngu,,
-0636-r,4,,2/4,636. Rõngu,,
-0637-r,4,,2/4,637. Väike-Maarja,,
-0638-r,4,,2/4,638. Väike-Maarja,,
-0639-r,4,,2/4,639. Risti,,
-0640-r,4,,2/4,640. Risti,,
-0641-r,4,,2/4,641. Ridala,,
-0642-r,4,,2/4,642. Järva-Jaani,,
-0643-r,4,,2/4,643. Mihkli,,
-0644-r,4,,2/4,644. Koeru ja Järva-Jaani,,
-0645-r,4,,2/4,645. Ambla,,
-0646-r,4,,2/4,646. Järva-Jaani,,
-0647-r,4,,2/4,647. Järvamaa,,
-0648-r,4,,2/4,648. Kuusalu,,
-0649-r,4,,2/4,649. Kadrina,,
-0650-r,4,,2/4,650. Kuusalu,,
-0651-r,4,,2/4,651. Kodavere,,
-0652-r,4,,2/4,652. Kuusalu,,
-0653-r,4,,2/4,653. Järvamaa,,
-0654-r,4,,2/4,654. ,,
-0655-r,4,,2/4,655. Rõngu,,
-0656-r,4,,2/4,656. ,,
-0657-r,4,,2/4,657. Ambla,,
-0658-r,4,,2/4,658. Järva-Jaani,,
-0659-r,4,,2/4,659. Karksi,,
-0660-r,4,,2/4,660. Koeru,,
-0661-r,4,,2/4,661. Järvamaa,,
-0662-r,4,,2/4,662. Koeru,,
-0663-r,4,,2/4,663. Järva-Madise,,
-0664-r,4,,2/4,664. Järvamaa,,
-0665-r,4,,2/4,665. Simuna,,
-0666-r,4,,2/4,"666. Karula, 1877",,
-0667-r,4,,2/4,667. Järvamaa,,
-0668-r,4,,2/4,668. Ambla,,
-0669-r,4,,2/4,669. Kadrina,,
-0670-r,4,,2/4,670. Ambla,,
-0671-r,4,,2/4,671. Järva-Jaani,,
-0672-r,4,,2/4,672. Kadrina,,
-0673-r,4,,2/4,673. Türi,,
-0674-r,4,,2/4,674. Järvamaa,,
-0675-r,4,,2/4,675. Ambla,,
-0676-r,4,,2/4,676. Koeru,,
-0677-r,4,,2/4,677. Väike-Maarja,,
-0678-r,4,,2/4,678. Järvamaa,,
-0679-r,4,,2/4,679. Ambla,,
-0680-r,4,,2/4,680. Ambla,,
-0681-r,4,,2/4,681. Järvamaa,,
-0682-r,4,,2/4,682. Simuna,,
-0683-r,4,,2/4,683. Krimmi,,
-0684-r,4,,2/4,684. Järvamaa,,
-0685-r,4,,2/4,685. Järvamaa,,
+0001-r,4,,3/8 2/4,1. Sangaste,Lähteenkorvu (306),"E: Utsi pruuti Liisukene, K: Utsi pruuti Liisuke."
+0002-r,4,,3/8 2/4,"2. Sangaste, 1877",Lähteenkorvu (303),"E: Läki üles mäki pääle, K: Läki üles mäki pääl. "
+0003-r,6,1/8,3/8,3. Rõngu,P.Kurg (9),"Siin on küla kui kalevi, ukse ja akna kui alevi."
+0004-r,4,,3/8 5/8,4. Suure-Jaani,Saar-Siimer (246),"Söö karja, sineta karja, joo karja, puneta karja."
+0005-r,2,,9/8,5. Viru-Jaagupist,J.Sollmann (33),"Mis sa hääletu ägised, mis sa rinnutu rögised?"
+0006-r,4,,3/8 2/4,6. Sangaste,Lähteenkorvu (302),"E: Läksi mõtsa kõndimaie, K: Läksi mõtsa kõndima."
+0007-r,2,,3+2+2/8,7. Räpina,Lähteenkorvu (268),"E: Lelò lelà lelà, K: Lelò lelà lelà."
+0008-r,4,,3/8 2/4,"8. Vastseliina, 1877",Lähteenkorvu (290),"E: Kui ma nakka laulemaie, K: Kui ma nakka laulemaie."
+0009-r,4,,3/8 2/4,9. Karula,A.Kiis (13),"Jaanikõne, vellekõne. Jaanikõne, velleke."
+0010-r,4,,2/4 3/8 3/8 3/4,10. Sangaste,A.Kiis (104),"Kavva, kavva karjane, kavva, karja hoole pääl."
+0011-r,4,,3/8 2/4,"11. Sangaste, 1877",Lähteenkorvu (301),"E: Imäkeni, memmekeni, K: Imäkeni, memmekeni."
+0012-r,3,1/8,3/4,"12. Kanepi, 1877",Lähteenkorvu (298),"E: Tere ärtsõ ärräkene, K: Tere ärtsõ ärräkene."
+0013-r,2,,3+2+3/8,13. Räpina,Lähteenkorvu (273),"E: Laulijita otsitiki, K: Laulijita otsitiki."
+0014-r,4,1/8,2/4,14. Otepää,Kiis-Eisenschmidt (98),"E: Näiokese noorekese, K: Näiokese noorekese."
+0015-r,2,,3+2+2/8,15. Peetri,Viljak-Rosenstrauch (7),"Läksin Piibele pesema, läksin Piibele pesema."
+0016-r,5,,6/8,16. Tarvastu,J.Müür (11),"Istume, istume ilumäella, Ilu iste meil ihana, rõõmu iste rõõviella, nalja rästi hormuel."
+0017-r,2,,3/4,17. Vändra,Saar (13),"E: Õlmes hõbekübara,"
+0018-r,2,,9/8,18. Vändra,Saar (14),"E: Mis sa sitikas sirised, K: Mis sa sitikas sirised?"
+0019-r,4,,2/4,19. Saaremaa,Süda-Liiv (22),"Läksin mina kulla(la) karjamaale, kari mul rapsis randa kaudu."
+0020-r,4,,3/8,20. Harju-Jaani,Viljak-Vilberg (10) [37],Lähme kiike katsumaie.
+0021-r,8,,2/4,"21. Rõuge, 1909",J.Gutveis (29),"Ära uni mullõ tulgu, haiku mullõ harinegu; astu esi ajamata, tulõ üles tuustimatta."
+0022-r,8,,2/4,22. Koeru ja Järva-Jaani,Martin-Rosenstrauch (231),Ani Peeter võttis naise ...
+0023-r,4,,2/4,23. Ridala,Kreek-Mudda (11),Ann läks alla mere ääre siiditekki loputama.
+0024-r,2,,2/4,24. Kuusalu,Viljak-Vilberg (112),"Neitsikene noorukene, kui sina tahad meile tulla..."
+0025-r,2,,2/4,25. Kuusalu,Viljak-Vilberg (131),Kukume üle kolme kaevu.
+0026-r,4,,2/4,26. Väike-Maarja,P.Penna (209),Mullu mina võtsin naise noore...
+0027-r,4,,2/4,27. Haljala,Viljak-Mark (8) a,"Nägin aga nägin aga vennikene, nägin aga neiut kasvamaie."
+0028-r,4,,2/4,28. Kanepi,P.Tatz (47),"Kui mina ärga ütelema, kui mina ärga ütelema."
+0029-r,4,,2/4,"29. Avinurme, 1909",M.Sild (1),"Kes sind käskis kosja tulla, kes sind käskis kosja tulla,
+Pani aga, pani naista võtma, pani aga, pani naista võtma!"
+0030-r,4,,2/4,30. Ambla,J.Välbe (40),"Kes sind käskis kosja tulla, pani aga, pani naista võtma?"
+0031-r,2,,2/4,31. Kuusalu,Viljak-Vilberg (198),"Urage, urage, omed."
+0032-r,2,,2/4,32. Kuusalu,Viljak-Vilberg (197),Peretütar piimakuoki.
+0033-r,4,,2/4,33. Audru,K.Viljak (2),"Oleks mina siiski ära surnud, kui mina olin pisike."
+0034-r,2,,2/4,34. Kuusalu,Viljak-Vilberg (194),Peiukane poisikane.
+0035-r,2,,2/4,35. Kuusalu,Viljak-Vilberg (176),Neitsikane nuorukane.
+0036-r,4,,2/4,36. Viru-Nigula,K.Viljak (6),"Mina laiska lakkekaela, mina laiska lakkekaela."
+0037-r,2,,2/4,37. Järvamaa,Penna-Rosenstrauch (74),Lähme jaanipäev kiriku.
+0038-r,4,,2/4,38. Järvamaa,Penna-Rosenstrauch (48),"Kutsaril kuldne kukeharja, rehel lauldised väravad."
+0039-r,4,,2/4,39. Jõhvi,Penna-Sildnik (90) a,"Ootkem, ootkem, vallarahvas ..."
+0040-r,4,,2/4,40. Väike-Maarja,P.Penna (155),"Perenaine, pööri kaela, pani nööri orja kaela."
+0041-r,4,,2/4,41. Jõhvi,Penna-Sildnik (32),"Õde, hella, eks ma öölnud ..."
+0042-r,2,,6/8,42. Kadrina,K.Viljak (2),"Tooge kanad, tooge munad."
+0043-r,4,,2/4,43. Kadrina,K.Viljak (34),"Lõpe, lõpe, põllukene, aki, armas väljakene."
+0044-r,2,,2/4,44. Kuusalu,Viljak-Vilberg (182),"Lähme, lähme, käime, käime."
+0045-r,2,,2/4,45. Kuusalu,Viljak-Vilberg (175),Liu lau laskijale.
+0046-r,4,,2/4,46. Kuusalu,Viljak-Vilberg (18),"Oli mul üks ainus venda, see tegi kuldase kurika."
+0047-r,4,,2/4,47. Kadrina,K.Viljak (29),"Tõest ei kõigiga kõnelda, hääd ei halba ilmutata."
+0048-r,4,,6/8,48. Jõhvi,Penna-Sildnik (26) a,"Ehitelin veljekesta,_ ehitelin_ kenatelin."
+0049-r,4,,2/4,49. Koeru,Välbe-Martin-Rosenstrauch (23),"Mis sa keod meie kiike, mis sa ägad meie hälli?"
+0050-r,4,,2/4,50. Ambla,J.Välbe (215),Laske sisse mardisandid: Mardi küüned külmetavad.
+0051-r,4,,2/4,51. Audru,K.Viljak (3),"Täna lähen, täna lahkun, ükski suu ei nuttu teinud."
+0052-r,4,,2/4,52. Haljala,Viljak-Mark (17),"Marti künnikselt küsikse, üle paku palvelekse."
+0053-r,4,,6/8,53. Põhja-Eesti,J.Sõster (2),Ei ma nea neiuaega ega põlga piigapõlve.
+0054-r,4,,6/8,"54. Põhja-Eesti, 1909",J.Sõster (53),
+0055-r,8,,4/8 5/8 4/8 5/8 4/8 4/8 4/8 4/8,55. Nissi,"Joh. Muda, Jul. Muda (25)","Vares oli vaga linnukene, lendas linnas uulitsalle, sealt tema lendas katukselle, kõrtsimamma matukselle."
+0056-r,2,,4/8,56. Kuusalu,Viljak-Vilberg (109),Kui mina kuulen räägiitävä.
+0057-r,3,,2/4,57. Kuusalu,Viljak-Vilberg (91),"Las püsime, kannatame, kannatame."
+0058-r,2,,2/4,58. Kuusalu,Viljak-Vilberg (181),"Peiukane, poisikane."
+0059-r,3,,2/4,59. Kuusalu,Viljak-Vilberg (115),Siiap tullep vueraaida. vueraaida.
+0060-r,2,,2/4,60. Kuusalu,Viljak-Vilberg (174),"Peiukane, poisikane."
+0061-r,2,,2/4,61. Kuusalu,Viljak-Vilberg (152),Kas õllele ohused ullud.
+0062-r,2,,6/8,62. Haljala,Viljak-Mark (25),Lähme kiiget katsumaie.
+0063-r,2,,2/4,63. Kuusalu,Viljak-Vilberg (125),Kui tahad taluje tulla.
+0064-r,4,,2/4,64. Ambla,J.Välbe (69),Laske sisse mardisandid: Mardid tulnud kaugeelta.
+0065-r,2,,2/4,65. Järva-Madise,P.Penna (34/27),"Nõret, nõret, nõelakene."
+0066-r,4,,2/4,66. Tartu,P.Kurg (8),"Marikene, õekene, Marikene, õekene."
+0067-r,4,,2/4,67. Kuusalu,Viljak-Vilberg (116),"Lindu üüs minu laane päälta, korpi korvije rajalta."
+0068-r,4,,2/4,68. Kadrina,K.Viljak (8),"Lõpe, lõpe põllukene, vähene ju, neiu välja."
+0069-r,4,,2/4,69. Koeru,Välbe-Martin-Rosenstrauch (28),"Ei tule minija sinule, poja naist ei sinule."
+0070-r,4,,2/4,70. Väike-Maarja,P.Penna (184),"Oh minu hella vennakene, kui läed naista võttamaie."
+0071-r,2,,6/8,71. Kuusalu,Viljak-Vilberg (20),"Lööme troppi, tuvikesed."
+0072-r,4,,2/4,72. Sangaste,A.Kiiss (103),"Armas ämma, anna pada meile kiissu keeta."
+0073-r,4,,2/4,73. Väike-Maarja,P.Penna (177),"Meie kaksi vaesta lasta, paar kui pardi poegasida."
+0074-r,2,,6/8,74. Kadrina,K.Viljak (24),"Sõua, kiike, jõua, kiike."
+0075-r,4,,2/4,75. Karula,A.Kiiss (44),"Uni naari noore naise, uni naari noore naise."
+0076-r,4,,2/4,76. Järvamaa,Penna-Rosenstrauch (24),"Oh Jumal Jumalukene, kuule orja ohkamised."
+0077-r,2,,6/8,77. Kadrina,K.Viljak (85),"Üles, üles, meii kiike. "
+0078-r,4,,2/4,78. Jõhvi,Penna-Sildnik (13) c,Küla mind ütles küla sööma ...
+0079-r,4,,2/4,79. Kuusalu,Viljak-Vilberg (7),Mis te siin seisate ...
+0080-r,2,,2/4,80. Harju-Jaani,K.Viljak (34),"Nõtku, nõtku, nõelakene."
+0081-r,4,,2/4,81. Simuna,Siimer-Rosenstrauch (68),"Kodu tuleb suuri sööja, kodu tuleb suuri jooja."
+0082-r,4,,2/4,82. Viru-Nigula,K.Viljak (11),"Küla mull' ütles: kuku, kuku, küla lapsed: laula, laula."
+0083-r,4,,2/4,83. Ambla,J.Välbe (50),"Oleks minu olemine, teiseks minu tegemine."
+0084-r,8,,2/4,84. Ridala,Kreek-Mudda (29),"Mari oli maias maasikule, kutsus poisid kuusikusse, ahvatles nad haavikusse, toa taha tammikusse."
+0085-r,4,,2/4,85. Kadrina,Sõster-Rosenstrauch (13),"Sõua, kiike, jõua, kiike, sõua, kiike, kõrgeeni."
+0086-r,4,,2/4,86. Jõhvi,Penna-Sildnik (10) a,Vändra metsas Pärnumaal ...
+0087-r,4,,2/4,87. Saaremaa,Hermann (155),"Tere, tere, perekene, tere, peremehekene."
+0088-r,2,,2/4,88. Juuru,R.Kohelik (270),Oh mina vaene orja naine.
+0089-r,4,,2/4,89. Simititsa,Penna-Luud (21),"E: Rups, rups, mardikene, K:Seer, seer, sandikene."
+0090-r,2,,2/4,90. Harju-Jaani,K.Viljak (17),"Nõtku, nõtku, nõelakene."
+0091-r,4,,2/4,91. Kuusalu,Viljak-Vilberg (153),"Küll mina tunnen seegi peigu, küll mina tunnen seegi peigu."
+0092-r,4,,2/4,92. Pilistvere,Saar-Siimer (74),"Oleks ma uneski näinud, tukkudes mul tulnud meele."
+0093-r,4,,2/4,93. Paistu,Aavik-Sakeus (11),"Oh onu, kulla kuuljakene, isand, hella saksakene."
+0094-r,4,,2/4,94. Jõhvi,Penna-Sildnik (13) a,Mul oli väike vennake ne ...
+0095-r,4,,2/4,95. Järvamaa,Penna-Rosenstrauch (101) a,Laske sisse mardisandid: Mardi küüned külmetavad.
+0096-r,4,,2/4,"96. Rõuge, 1909",J.Gutves (28),"Mina tunnä tuima neio, minä näe nälätse:
+tuimal kiusõ tutsakene, vihasäl silmä vesitse."
+0097-r,4,,2/4,97. Koeru,Välbe-Martin-Rosenstrauch (8),"Oh sina humal hullukene, taputilge tillukene."
+0098-r,4,,2/4,98. Järva-Madise,P.Penna (90/4),"Neitsikene, noorukene, mis sa kardad mulle tulla?"
+0099-r,4,,2/4,99. Koeru,Välbe-Martin-Rosenstrauch (5),"Mis sa, sitikas, sirised, porikärbes mis porised?"
+0100-r,4,,2/4,100. Vändra,Saar (1),Peaks mõisa härra teadma seda ilma vilja hulka.
+0101-r,4,,2/4,101. Simuna,Siimer-Rosenstrauch (25),"Oie, oie hoolerätte, varas võtsin vaevarätte."
+0102-r,4,,2/4,102. Ambla,J.Välbe (196),"Läksin lillerdes teole, vagu a'ades vainiulle."
+0103-r,2,,6/8,103. Jõelehtme,K.Viljak (34),Lähme merda pühkimaie.
+0104-r,8,,2/4,104. Kadrina,K.Viljak (19),"Karjane kaotas karja ää, a'as aga minda otsimaie.
+Udusella hommikulla udu rikkus uue kuue."
+0105-r,4,,2/4,105. Alatskivi,Liiv-Raja (60),Laske sisse sandi Märti: Märdi küüned külmetavad.
+0106-r,4,,2/4,106. Puhja,Pehka-Eisenschmidt (13),"Lätsi ma tilluke teole, väike mõisa välja pääle."
+0107-r,4,,2/4,107. Kuusalu,Viljak-Vilberg (200),"Kündsin vaod valgejella, teised päeva ommikulla."
+0108-r,4,,2/4,108. Järva-Madise,P.Penna (7),"Sepakene, sellikene, tee mull' tinast tillikene."
+0109-r,4,,2/4,109. Simuna,Siimer-Rosenstrauch (35),"Vares vaakus vahterissa, perse pikka pihlakassa."
+0110-r,4,,2/4,110. Simititsa,Penna-Luud (65),"Minu kurk on kuivetanud, kõri roog on roostetanud."
+0111-r,4,,2/4,111. Harju-Jaani,Viljak-Vilberg (7) [28],"Lähe aga Läti teed edasi, tulen aga Tartu teed tagasi."
+0112-r,4,,2/4,112. Karksi,Aavik-Sakeus (78 c),
+0113-r,8,,2/4,113. Koeru,J.Sõster (4),"Saa, saa, sajukene, veere, veere, vihmukene,
+tule taevast hiljukesta, kasta meie viljukesta."
+0114-r,6,,2/4,"114. Räpina, 1877",Lähteenkorva (275),"E: Oi, ega tohi laulu laulda, K: Oi, efa tohi laulu laulda, ega ju tohi laulu laulda."
+0115-r,2,,6/8,115. Kadrina,K.Viljak (89),"Pillhüüdis pinu taga, toru hüüdis toa taga."
+0116-r,4,,2/4,116. Järvamaa,Penna-Rosenstrauch (149),"Tooge kulpi, ma kuseksin, leemeliuda, ma laseksin."
+0117-r,4,,2/4,117. Ambla,J.Välbe (104),"Kilter, kubjas, aidamees, väljavahivanamees."
+0118-r,2,,6/8,118. Koeru,J.Sõster (27) [49],"Kiias, kiias, kiigekene."
+0119-r,2,,6/8,119. Koeru,M.Sõster (32),Kui ma hakkan laulemaie.
+0120-r,4,,6/8,120. Viru-Jaagupist,J.Sollmann (13),"Tulge kiigele, küla naised, tooge kanad, tooge munad."
+0121-r,4,,2/4,121. Suure-Jaani,Saar-Siimer (112),"Lähme, hellad, käime, velled, lähme, hellad, käime, velled."
+0122-r,2,,6/8,122. Väike-Maarja,P.Penna (200),"Kiigele, kiigele, küla naised."
+0123-r,4,,2/4,123. Simititsa,Penna-Luud (51),"Tere, tere, uued langud ..."
+0124-r,8,,2/4,124. Koeru ja Järva-Jaani,Martin-Rosenstrauch (208),Peremees peremeheke ...
+0125-r,4,,2/4,125. Türi,Siimer (78),"Tahtsin minna talguselle, rukki pulmida pidama."
+0126-r,4,,2/4,126. Simuna,Siimer-Rosenstrauch (17),"Oi oi oi oi odrad, kaerad, kes teid lõikab teine aasta."
+0127-r,4,,2/4,127. Jamaja,"F.Talvik, S.Talvik (63)","Imelik oli meie eidu, imelik oli meie aati."
+0128-r,4,,2/4,128. Tarvastu,Jaan Müür (2),"Lääme aita ehtimaie, üle õue uusi aita..."
+0129-r,4,,2/4,129. Järvamaa,Penna-Rosenstrauch (105),"Oh seda härtu härrakesta, kuldakrooni prouakesta."
+0130-r,4,,2/4,130. Ambla,J.Välbe (118),"Mina mees pereme poega, teine mees mereme poega."
+0131-r,4,,2/4,131. Järvamaa,Penna-Rosenstrauch (128),"Muul maal oli mullu lõuna, Hiiumaal oli hilja lõuna."
+0132-r,4,,2/4,132. Ambla,J.Välbe (221),"Laske sisse sandimardid, sandimardid, saksa poisid."
+0133-r,4,,2/4,133. Jõhvi,Penna-Sildnik (14) b,Mina teopoisikene...
+0134-r,4,,2/4,134. Järva-Jaani,Välbe-Martin-Rosenstrauch (72),"Oh te vaesed teopoisid, mõned on hulgas mõisapoisid."
+0135-r,4,,2/4,135. Peetri,Viljak-Rosenstrauch (14),"Emakene, memmekene, pane Sa tütar mehele."
+0136-r,4,,2/4,136. Järva-Madise,P.Penna (92/6),"Oh mina vaene teopoiss, olen töösta tüdinud. "
+0137-r,4,,2/4,137. Saaremaa,Süda-Liiv (8),"Oleks minuolemine, teiseks minu tegemine."
+0138-r,4,,2/4,138. Peetri,Viljak-Rosenstrauch (8),"Ale mul tuli armu peale, nutt tuli noore neiu peale."
+0139-r,4,,2/4,139. Kose,K.Viljak (3),"Oh me vaesed ostuorjad, ostuorjad, peastupärjad."
+0140-r,4,,2/4,140. Vändra,Saar (32),"Eidakene hellakene, taadikene vennikene."
+0141-r,4,,2/4,141. Harju-Jaani,K.Viljak (19),"Viige, viige, mis te viite, talutage, kus te tahte."
+0142-r,4,,2/4,142. Järva-Madise,P.Penna (97/1),"Kõrr, kõrr, kõrr, kõrr, kõrtsinaine..."
+0143-r,4,,2/4,143. Kuusalu,Viljak-Vilberg (70),"Neitsikesed nuorukesed, kirjupihta peenikesed."
+0144-r,4,,2/4,144. Ambla,J.Välbe (135),"Mesilane, linnukene, parm oli teiseks poisikene."
+0145-r,4,,2/4,145. Harju-Jaani,Viljak-Vilberg (34),"Meie kubjas kullake, kilter kiiduvennike."
+0146-r,4,,2/4,146. Kadrina,K.Viljak (71),"Lõpe, lõpe, põllukene, lõpe, põldu, põimidessa."
+0147-r,4,,2/4,147. Paistu,Aavik-Sakeus (82),"Vennakeise noorekeise, vennakeise noorekeise."
+0148-r,4,,2/4,148. Tartu-Maarja,Liiv-Raja (18),"Kivistikun, kannastikun, sääl ma sõnu säädelesi."
+0149-r,4,,2/4,149. Türi,Siimer (4),"Jaani aita raiutakse, Jaani aita raiutakse."
+0150-r,4,,2/4,150. Jõhvi,Penna-Sildnik (34) c,"Jakobike, Jaanikene..."
+0151-r,4,,2/4,151. Martna,C.Kreek (18),"Kadugu see katsumine, noorepõlve noppimine."
+0152-r,4,,2/4,152. Suure-Jaani,Saar-Siimer (98),Kes tõi sõja sõnumida? Kägu tõi sõja sõnumida.
+0153-r,8,,2/4,153. Lääne-Nigula,C.Kreek (10),"Oh seda uhket PiibuMarti: kord tal oli kosja minna; ei põle riiet selga panna, kuub oli külast kuulatud."
+0154-r,4,,2/4,"154. Paistu, 1887",Lähteenkorva (345),"Ole mina loodu luulejasse, ole mina loodu luulejasse."
+0155-r,4,,C,155. Kadrina,K.Viljak (83),"Kiige sepad, ellad vennad."
+0156-r,2,,2/4,156. Pöide,Fr.Paulmeister (21),
+0157-r,4,,6/8,157. Simititsa,P.Penna - K.Luud (42a),E: Lähme uuta katsumaie. K: Lähme uuta katsumaie.
+0158-r,4,,6/8,158. Simititsa,P.Penna - K.Luud (42b),E: Läähme uuta kaatsumaie. K: Läähme uuta kaatsumaie.
+0159-r,4,,6/8,159. Jõhvi,Penna-Luud (140),"E: Kiigu ikka, laula ikka. K: Kiigu ikka, laula ikka."
+0160-r,4,,6/8,160. Järva-Madise,Topmann-Rahamägi (5),"E: Nõret, nõret, nõelakene. K: Nõret, nõret, nõelakene."
+0161-r,2,,2/4,161. Järvamaa,Penna-Rosenstrauch (96),"Peremees, peremehike."
+0162-r,4,,2/4,162. Kuusalu,Viljak-Vilberg (66),"Kiigu, kiigu, kiigekene, kiigu, kiike, kõrgeelle."
+0163-r,4,,2/4,163. Jõhvi,Penna-Sildnik (7) 14/5,Ärge lööge vaesta lasta...
+0164-r,4,,2/4,164. Koeru ja Järva-Jaani,Välbe-Martin-Rosenstrauch (235),"Lõpe, lõpe, põlluke..."
+0165-r,4,,2/4,165. Tarvastu,J.Müür (26),"Teeme, teeme, mis me teeme, saame, saame, mis me saame."
+0166-r,4,,2/4,166. Puhja,Pehka-Eisenschmidt (20),"Meie kaksi vaesta lasta ema, äti haua pääl."
+0167-r,4,,2/4,167. Jõhvi,Penna-Sildnik (9) b,Kui mina hakkan laulemaie...
+0168-r,4,,2/4 2/4 6/8 2/4,168. Kuusalu,Viljak-Vilberg (117),"Tere, tere, saajakene!
+Oi, liha leemesse
+lagusi!"
+0169-r,5,,2/4,169. Simititsa,Penna-Luud (2),"E: Muile, muile, eidekene. K: Muile, muile, eidekene."
+0170-r,4,,6/8,170. Jõhvi,Penna-Luud (114),"E: Poe põldu, peenarasse. K:"
+0171-r,2,,6/8,171. Kuusalu,Viljak-Vilberg (89),Neitsikäsed nuorukased.
+0172-r,2,,6/8,172. Kuusalu,Viljak-Vilberg (74),Las mina hakkan laulemaie.
+0173-r,2,,6/8,173. Kuusalu,Viljak-Vilberg (107),"Tulga kiigale, küla naised."
+0174-r,4,,2/4,174. Ambla,J.Välbe (183),"Kui mina hakkan laulemaie, laulemaie, luulemaie."
+0175-r,8,,2/4,175. Väike-Maarja,P.Penna (171),"Muud suured sugude peale, uhked õdede peale, 
+kelle peale mina vaene, mul pole sugu siinna maal. "
+0176-r,4,,2/4,176. Tartu-Maarja,Liiv-Raja (13),"E: Emäkene, memmekene, K: mis said abi minuusta?"
+0177-r,3,,2/4,177. Kuusalu,Viljak-Vilberg (94),"Käi Sa, kiike, kaugeelle."
+0178-r,4,,2/4,178. Iisaku,Penna-Luud (125),"E: Õitselised, päitselised K: ..."
+0179-r,4,,2/4,179. Jõhvi,Penna-Luud (142),Lähme kiike kiikemaie...
+0180-r,4,,2/4,180. Kuusalu,Viljak-Vilberg (60),"Oh mina vaene virbelane, virbelane, värbelane."
+0181-r,5,,2/4,181. Puhja,Pehka-Eisenschmidt (11),"Tere, härtu härakene, tere, kuldakrooni prouake."
+0182-r,4,,2/4,182. Puhja,Pehka-Eisenschmidt (43),"Liivan mu lina tegija, liivan mu lina tegija."
+0183-r,4,,2/4,183. Paistu,Lähteenkorva (346),"E: Emäkene, memmekene, K: emäkene, memmekene."
+0184-r,4,,2/4,184. Kadrina,K.Viljak (104),"Õllekene hõimukene, kallikene kaimukene."
+0185-r,4,,2/4,185. Järva-Madise,P.Penna (50/1),Ma läen kõiki kosimaie...
+0186-r,4,,2/4,186. Tarvastu,Jaan Müür (1),"Peremees olli mulle kurja, mina kurja härgadele."
+0187-r,8,,2/4,187. Lääne-Nigula,C.Kreek (19),"Mis mul viga viltu juues, konna veskilt kotta tuues:
+isa mul Harkus aidameheks, istub taeva ääre päral"
+0188-r,4,,2/4,188. Järva-Madise,P.Penna (12/5),"Mis sina, hulgus, meile otsid, täi tütar tuppa tuled."
+0189-r,4,,2/4,189. Väike-Maarja,P.Penna (173),"Siga meil suri, junkur sündis; koerad kolkisid, saapad jalas."
+0190-r,4,,2/4,190. Jõhvi,Penna-Sildnik (46),"Sõidin, sõidin kosjateeda ..."
+0191-r,2,,6/8,191. Ambla,J.Välbe (141),"Õekesed, hellakesed..."
+0192-r,2,,5/8,192. Kambja,P.Tatz (1) b,"Poolamaa puu punatse, kaske"
+0193-r,4,,C,193. Koeru ja Järva-Jaani,Martin-Rosenstrauch (218),"Üles, üles, meie kiike!"
+0194-r,2,,6/8,194. Järvamaa,Penna-Rosenstrauch (33),"Kiigesepad, hellad vennad."
+0195-r,2,,2/4,195. Peetri,Viljak-Rosenstrauch (15),"Kiigesepad, hellad vennad."
+0196-r,2,,2/4,196. Järvamaa,Penna-Rosenstrauch (89),"Kiigesepad, hellad vennad."
+0197-r,2,,2/4,197. Järvamaa,Penna-Rosenstrauch (124),Kuulsin kiiges kiigutama.
+0198-r,2,,6/8,198. Järvamaa,Penna-Rosenstrauch (100),"Kiigesepad, hellad vennad."
+0199-r,4,,6/8,199. Koeru ja Järva-Jaani,Martin-Rosenstrauch (203),"Kiigesepad, hellad vennad."
+0200-r,2,,6/8,200. Kadrina,K.Viljak (68),"Sõua, kiike, jõua, kiike!"
+0201-r,2,,2/4,201. Kuusalu,Viljak-Vilberg (166),Obuline poisikane.
+0202-r,4,,2/4,202. Lääne-Nigula,C.Kreek (14),"Aidu raidu ratastega, ennnem mina mängin mätastega."
+0203-r,4,,2/4,203. Koeru,Välbe-Martin-Rosenstrauch (20),"Mina hoian isa hoosta, kaitsen hella venna kõrbi."
+0204-r,2,,6/8,204. Järvamaa,Penna-Rosenstrauch (164),Kas nad tahtsid tulla kiike.
+0205-r,2,,6/8,205. Kadrina,Sõster-Rosenstrauch (22),"Nõtku, nõtku, nõelakene."
+0206-r,4,,2/4,206. Rakvere,Elken-Rosenstrauch (48),"Läksin Lootsele loole, Marinale heinamaale."
+0207-r,2,,2/4,207. Kuusalu,Viljak-Vilberg (126),Nägin mina neiut kasvamaie.
+0208-r,4,,2/4,208. Puhja,M.Pehka (19),"Minul viha velle pääle, kuri meel on kulla pääle."
+0209-r,4,,2/4,209. Koeru,J.Sõster (5) (95) [117],"Eia tudu, eia tudu, eia tudu, eia tudu.
+Tule uni uksest sisse, astu sisse akenasta.
+Kuku lapse kulmu peale, lase lapse lau peale."
+0210-r,4,,2/4,210. Järvamaa,K.Viljak (9),"Tulge kiike, küla naised tooge kanad, tooge munad."
+0211-r,4,,2/4,211. Jõhvi,Penna-Sildnik (9) a,"Olin mina orjas, käisin karjas ..."
+0212-r,4,,2/4,212. Järvamaa,K.Viljak (17),"Jõua jõudu, jõua jõudu, et mina paistan palju maada."
+0213-r,2,,6/8,213. Ambla,J.Välbe (170),"Kiigesepad, hellad vennad."
+0214-r,4,,6/8,214. Kodavere,Liiv-Raja (107),"E: Sõua, kiike, jõua, kiike, K: sõua, kiike, jõua, kiike."
+0215-r,2,,6/8,215. Järva-Jaani,Välbe-Martin-Rosenstrauch (64),"Kiigesepad, hellad vennad."
+0216-r,4,,2/4,216. Pärnu,Oidermann (16),"Küla aga poisid pooled vennad, noored mehed mul üsna vennad."
+0217-r,2,,6/8,217. Kuusalu,Viljak-Vilberg (17),"Kiigele, kiigele, küla naised."
+0218-r,2,,6/8,218. Ambla,J.Välbe (142),"Neiud kiiksid, pärjad läksid."
+0219-r,2,,6/8,219. Kuusalu,Viljak-Vilberg (14),"Oh, seda ullu, mis oli mullu."
+0220-r,2,,6/8,220. Kuusalu,Viljak-Vilberg (203),Kuulin külas kiigutama.
+0221-r,4,,6/8,"221. Haljala, 1877",Lähteenkorva (365),"Leppa kasvas linnatiella, kaske Harju karjamäella."
+0222-r,6,,2/4,222. Rõuge,J.Gutves (2) [120],"Aja õks jäle järve poole, aja õks tie tiigi poole, kaiva õks lumi kao poolõ."
+0223-r,4,,6/8,223. Simuna,Siimer-Rosenstrauch (32),"E: Laula, laula suukene, K: laula, laula, suukene!"
+0224-r,4,,6/8,224. Ambla,Topmann-Rahamägi (11),"E: Kiigessepad, ellad vennad, K: kas see kiike kannab meida?"
+0225-r,4,,6/8,225. Kuusalu,Viljak-Vilberg (23),"Tegin aga orgu ohrad haljad, mäe aga pealee kenad kaerad."
+0226-r,4,,2/4,226. Ambla,J.Välbe (134),"Võtke vastu sandi Mardid, Mardid tulnud kaugeelta."
+0227-r,4,,2/4,227. Järva-Madise,Topmann-Rahamägi (1),"Tiidal tallel tisku tasku, tisku tasku nisku nasku."
+0228-r,4,,C,228. Laiuse ja Simuna,Viljak-Rosenstrauch (31),"Nõret, nõret, nõelakene."
+0229-r,2,,6/8,229. Ambla,J.Välbe (111),"Kiigesepad, hellad vennad."
+0230-r,2,,6/8,230. Ambla,J.Välbe (213),Ma tulin kiike katsumaie.
+0231-r,2,,6/8,231. Ambla,J.Välbe (114),"Kiigesepad, hellad vennad."
+0232-r,2,,6/8,232. Ambla,J.Välbe (93),"Kiigesepad, hellad vennad."
+0233-r,2,,2/4,233. Kuusalu,Viljak-Vilberg (165),"Notku, notku, neulakene."
+0234-r,4,,2/4,234. Jõhvi,Penna-Sildnik (27) b,Minu hella eidekene ...
+0235-r,4,,2/4,235. Järva-Madise,P.Penna (104/1),Mis mul viga viina juua ...
+0236-r,3,,2/4,236. Kuusalu,Viljak-Vilberg (54) b,Oh minu kulla kiigutajad.
+0237-r,2,,6/8,237. Kuusalu,Viljak-Vilberg (88),Muud lähvad kiigele kiikumaie.
+0238-r,2,,6/8,238. Kuusalu,Viljak-Vilberg (54),Oh minu kulla kiigutajad.
+0239-r,2,,6/8,239. Väike-Maarja,P.Penna (190),"Üles, üles, kiigekene!"
+0240-r,4,,6/8,240. Iisaku,Penna-Luud (122),"E: Mis sa, kiige, kigised, K: mis sa, kiige, kigised? "
+0241-r,4,,6/8,241. Jõhvi,Penna-Sildnik (27) a,Venda kõndis kosjateeda ...
+0242-r,4,,2/4,242. Kolga-Jaani,Simm-Reisik (19),"E: Neitsikesed, noorekesed, K: kaharpeaga kaunikesed."
+0243-r,3,,6/8,243. Kuusalu,Viljak-Vilberg (87),"Lööme troppi, tuvikesed ..."
+0244-r,4,,6/8,244. Jõhvi,Penna-Sildnik (20) b,Nägid laisku ju tulema ...
+0245-r,2,,6/8,245. Laiuse ja Simuna,Viljak-Rosenstrauch (26),Tulge kiike kiikumaie.
+0246-r,4,,2/4,246. Rannu,P.Tatz (41),"Tahtsin, tahtsin talgusele, tahtsin mina talgusele."
+0247-r,6,,2/4,247. Puhja,Pehka-Eisenschmidt (5),"Tahtsin minna talgusele, tahtsin minna talgusele, talguse kalja kaeda."
+0248-r,4,,2/4,248. Kolga-Jaani,Simm-Reisik (35),"Tahtsin minna talgusele, tahtsin talguse õluta."
+0249-r,4,,2/4,249. Pilistvere,A.Thomson (11) Saar-Siimer (56),"E: Läksin metsa kõndimaie, K: udusele hommikule."
+0250-r,2,,2/4,250. Kuusalu,Viljak-Vilberg (34),"Sinikirja, sinikirja linnukaine."
+0251-r,4,,2/4,251. Väike-Maarja,P.Penna (172),Mis laulad sina sinine! Sinu suusta kukub sitta.
+0252-r,4,,2/4,252. Jõhvi,Penna-Sildnik (47) c,"Õekene, õekene, ise sina tegid itkupäevad."
+0253-r,4,,2/4,253. Iisaku,Penna-Luud (128),"E: Minu hella eidekene, K: minu hella eidekene."
+0254-r,4,,2/4,254. Paistu,Aavik-Sakeus (39),"E: Emäkeine, ennekeine, K: emäkeine, ennekeine."
+0255-r,4,,2/4,255. Vaivara,Penna-Luud (111),Oh seda vaesta orjalasta ...
+0256-r,4,,2/4,256. Võrumaa,Hermann (1439),"E: Mis ma laula, leinaline, K: kuku liiga, kurvaline."
+0257-r,4,,2/4,257. Jõhvi,Penna-Sildnik (20) a,"Kokku, kokku, koorekene ..."
+0258-r,4,,2/4,258. Jõhvi,Penna-Sildnik (28) a,"Peiukene, poisikene, kui läed naista võttamaie."
+0259-r,4,,2/4,259. Jõhvi,Penna-Sildnik (25) a,"Neitsikene, noorukene ..."
+0260-r,4,,2/4,260. Kadrina,K.Viljak (86),"Rasa, tasa, targu, targu, tasa neidu tantsitage."
+0261-r,4,,2/4,261. Jõhvi,Penna-Sildnik (25) d,"Sirise, sirise, sirbikene ..."
+0262-r,4,,2/4,262. Jõhvi,Penna-Sildnik (26) b,"Riksu, tuli, raksu, tuli ..."
+0263-r,4,,2/4,263. Jõhvi,Penna-Sildnik (36) b,
+0264-r,4,,2/4,264. Väike-Maarja,P.Penna (167),"Käisin linnas, käisin Narvas, ikke käisin arma kaudu."
+0265-r,4,,2/4,265. Karksi,Aavik-Sakeus (71),"E: Kuu löisi neiu noore, K: kuu löisi neiu noore."
+0266-r,4,,2/4,266. Jõhvi,Penna-Luud (141),
+0267-r,4,,6/8,267. Jõhvi,Lähteenkorva (369),"E: Kiigu, kiike, kõrgeelle, K: kõrgeelle, kaugeelle."
+0268-r,4,,2/4,268. Rõuge,J.Gutves (9) [127],"Oh, ma väike mehekene, põlvepikku poisikene."
+0269-r,6,,2/4,269. Setumaa,Lindpere (131),"K: Trarai tralli, rarai ralli, E: kust nu saksa siia saiva, K: emändä kuis ilmusigi."
+0270-r,6,,5/8 2/4 3/4 3/4 3/4 3/4,270. Setumaa,Lindpere (119),"E: Eläks mehel mi sallisti, K: kes kergole, kes kergole, kes kergo, kergole."
+0271-r,6,,2/4 2/4 3/8 3/8 3/8 3/8,271. Simititsa,Penna-Luud (29),"E: Nõtku, nõtku, nõelakene, E: hüppa, nõela, karga, nõela, K: hüppa, nõela, karga, nõela."
+0272-r,4,,2/4,272. Otepää,Kiis-Eisenschmidt (47),"E: Kulle, kos laulab joodik poissi, K: õiskab õllekurgu kanni."
+0273-r,4,,2/4,273. Helme,Martin-Tatz (18),"E: Veli, hella vellekene, K: veli, hella vellekene."
+0274-r,4,,2/4,274. ,P.Kurg (163),"Laske sisse mardisandid, laske sisse, ma paluksin."
+0275-r,6,,2/4,275. Rõuge,J.Gutves (16) [134],"Ärä põimi pikä põllu, ärä laabõ laia välä: es jää põllul põdõmaie."
+0276-r,4,,2/4,276. Väike-Maarja,P.Penna (179) f,Sõitsin pikka linnateeda ...
+0277-r,4,,2/4,277. Ambla,J.Välbe (214),"Laala, laala, suukene, liigu, linnu keelekene."
+0278-r,4,,2/4,278. Rakvere,Elken-Rosenstrauch (39),"Lõpe, lõpe, põllukene, lõpe, lõpe, põllukene."
+0279-r,4,,2/4,279. Jõhvi,Penna-Sildnik (8) b,Oi meie heleda härra ...
+0280-r,4,,2/4,280. Haljala,Viljak-Mark (9),"Olut me juome, teista me tieme, olut me juome, teista me tieme."
+0281-r,4,,2/4,281. Jõhvi,Penna-Sildnik (33),"Kui see eit pole enne nutnud, nutab homme hommiku."
+0282-r,4,,2/4,282. Jõhvi,Penna-Sildnik (21),Odrapea hõiskas orussa käbi kärkis põõsasta.
+0283-r,4,,2/4,283. Väike-Maarja,P.Penna (185),"Kus on vaese varjupaika, lese naise leeripaika."
+0284-r,4,,2/4,284. Tartu,P.Kurg (25),"Ootame ja kannatame, kas meid hulka hüüetakse."
+0285-r,2,,6/8,285. Kadrina,K.Viljak (62),"Üle mina, õed, hellad."
+0286-r,4,,6/8,286. Jõhvi,Penna-Sildnik (25) b,"Kiikiike, laslaske ..."
+0287-r,4,,2/4,287. ,M.Pehka (30),"Mis mul abi laulemista, kulla hääle kuugumista."
+0288-r,2,,6/8,288. Väike-Maarja,P.Penna (198) (44) c,"Kiigesepad, hellad vennad."
+0289-r,12,,2/4,289. Ridala,Kreek-Mudda (18),"Mis mina laulan lipiline, llpiline, lopiline.
+Sinu suu oli sopiline, nina neljanurgeline,
+kael oli kaheksakandiline, kael oli kaheksakandiline."
+0290-r,4,,2/4,290. Harju-Jaani,Viljak-Vilberg (1) [28],"Peretüdruk liiga laiska, liiga laiska, loodud laiska."
+0291-r,4,,2/4,291. Kolga-Jaani,P.Kurg (32),"Mul oli üksiainus venda, mul oli üksiainus venda."
+0292-r,4,,2/4,292. Tartu,P.Kurg (23),"Kes see kiidab kiisa luida, kes see kiidab kiisa luida."
+0293-r,4,,2/4,293. Rõuge,J.Gutves (139),"Istö maha ikkõmaie, siia silmi pühkimaie."
+0294-r,4,,6/8,294. Koeru,"J.Sõster (1) [23], [12]","Kui ma hakkan laulemaie, laulemaie, luulemaie..."
+0295-r,2,,6/8,295. Kuusalu,Viljak-Vilberg (104),Kuulen ma kiigel kiigutava.
+0296-r,4,,3/8 5/8 2/4 2/4,296. Pilistvere,Saar-Siimer (6 ab),"E: Peremees, peremehike, K: perenaine, naisukene."
+0297-r,2,,2/4,297. Kuusalu,Viljak-Vilberg (73),"Tüterida, vargaaida."
+0298-r,2,,6/8,298. Koeru,M.Sõster (34),Kui ma hakkan laulemaie...
+0299-r,2,,6/8,299. Kadrina,K.Viljak (5) (50),"Mis sa kriuksud, meie kiike? "
+0300-r,2,,6/8,300. Kadrina,Sõster-Rosenstrauch (20),Muud läevad kiike katsumaie.
+0301-r,2,,6/8,301. Ambla,J.Välbe (143),"Neiud kiiksid, pärjad läiksid. "
+0302-r,2,,6/8,302. Kadrina,K.Viljak (58),Kiike kiunub kindaaida.
+0303-r,4,,6/8,303. Simuna,Siimer-Rosenstrauch (26),"E: Sinikirja linnukene, K: sinikirja silma pilge."
+0304-r,2,,6/8,304. Koeru,Välbe-Martin-Rosenstrauch (2) (52),"Külamehed, hellad vennad."
+0305-r,4,,2/4,305. Pühalepa,Süda-Sakeus (2),"E: Ehi, neiu, ja hepi, neiu, K: ehi aga, ema, ehteesse."
+0306-r,8,,5/8 2/4 2/4 2/4 2/4 2/4 5/8 2/4,306. Helme,Martin-Tatz (1),"E: Tule üles, mu emakene, K: emakene, ennekene,
+E: ma itt sanna sambelista, K: kerese merekivista."
+0307-r,2,,6/8,307. Kadrina,K.Viljak (17),Mis oli meie küla keskel?
+0308-r,4,,3/4,308. Kuusalu,Viljak-Vilberg (195),"Vanad poisid, väsind poisid."
+0309-r,4,,2/4,309. Väike-Maarja,P.Penna (195),"Mis mina hoolin luuledessa, luuledessa, laaledessa."
+0310-r,2,,6/8,310. Haljala,Viljak-Mark (12) o,"Kiur, liur, linnukene."
+0311-r,4,,2/4,311. Simititsa,Penna-Luud (47),"E: Hoburine poisikene, K: kas nägid minu hobusta?"
+0312-r,2,,6/8,312. Koeru,Välbe-Martin-Rosenstrauch (27),"Tulge kiike, küla naised."
+0313-r,4,,2/4,313. Järva-Jaani,Välbe-Martin-Rosenstrauch (32),"Oh kuning, kuningakene, rikas Riia härrakene."
+0314-r,4,,2/4,314. Iisaku,Penna-Luud (124),"Sirise, sirise, sirbikene ..."
+0315-r,4,,2/4,315. Jõhvi,Penna-Sildnik (35) a,"Vara mina, vaene, naise võtsin ..."
+0316-r,4,,2/4,316. Koeru ja Järva-Jaani,Martin-Rosenstrauch (249),"Õekesed, hellakesed, lähme merda pühkimaie."
+0317-r,2,,6/8,317. Järvamaa,Penna-Rosenstrauch (17) (56/4) (83/3) (146/35) (149) (165),Kuulsin külas kiigutama.
+0318-r,2,,2/4,318. Haljala,Viljak-Mark (12) n [121],Meie kakse vaesta lasta.
+0319-r,2,,6/8,319. Pärnu-Tori,Tatz-Sildnik (41),"Oh te, hullud kiigesepad ..."
+0320-r,4,,2/4,320. Väike-Maarja,P.Penna (170),"Olin väike lapsukene, karjaskäija poisikene."
+0321-r,4,,2/4,321. Rakvere,Elken-Rosenstrauch (46),"Oleks aga minu olemine, teiseks minu tegemine."
+0322-r,4,,2/4,322. Rakvere,Elken-Rosenstrauch (1),"Laula, laula, suukene, liigu, linnu keelekene."
+0323-r,4,,2/4,323. Simuna,Siimer-Rosenstrauch (56),"Oi oi oi oi orjapõli, vaese lapse vaevapõli."
+0324-r,4,,2/4,324. Ambla,J.Välbe (54),"Oleks minu olemine, teiseks minu tegemine."
+0325-r,2,,6/8,325. Kadrina,K.Viljak (48),"Hüppa, nukku, karga, nukku."
+0326-r,2,,6/8,326. Kadrina,K.Viljak (93),"Kiigesepad, hellad vennad."
+0327-r,4,,6/8,327. Jõhvi,Penna-Sildnik (28) b,"Kiikiike, laalaake."
+0328-r,4,,2/4,328. Koeru ja Järva-Jaani,Martin-Rosenstrauch (227),"Peremees, peremeheke,perenaine, naisukene."
+0329-r,4,,6/8,329. Jõhvi,Penna-Sildnik (22) b,Liisa oli litalota.
+0330-r,4,,2/4,330. Koeru,Välbe-Martin-Rosenstrauch (98),"Hõpelik on minu hobu, täpelik oli täkukene."
+0331-r,4,,2/4,331. Tarvastu,J.Müür (30),"Tere, tere, tepermanni, tepermannist sai pasuna."
+0332-r,4,,6/8,332. Jõhvi,Penna-Luud (120),"E: Kiige, kiige, kiigekene, K: mis sa, kiige, kigised? "
+0333-r,2,,6/8,333. Ambla,J.Välbe (204),"Kiigesepad, hellad vennad."
+0334-r,2,,6/8,334. Järva-Madise,P.Penna (68/4),"Keas, keas, meie kiike."
+0335-r,2,,6/8,335. Järva-Madise,P.Penna (66/2),"Kiigesepad, hellas vennad."
+0336-r,4,,2/4,336. Kadrina,K.Viljak (63),"Ärgu naergu naine naista, naine naista, teine teista."
+0337-r,2,,2/4,337. Kuusalu,Viljak-Vilberg (40),Jähme jaanipäe kiriku.
+0338-r,4,,2/4,338. Koeru,Välbe-Martin-Rosenstrauch (3),"Kui mina hakkan laulemaie, luulemaie, laskemaie."
+0339-r,4,,5/8,339. Paistu,P.Kurg (17),"Mul pole isa, mul pole ema, mul pole õiget õpetajat."
+0340-r,4,,C,340. Järva-Madise,P.Penna (87/1),"Kiigesepad, hellad vennad."
+0341-r,2,,6/8,341. Järva-Madise,P.Penna (89/3),"Kadri vidrib, Kadri kedrib."
+0342-r,4,,2/4,342. Kursi ja Võnnu,J.Kärt (21) (30) (31) (33),"Nüüd ep on ilus elada, nüüd ep on ilus elada. "
+0343-r,4,,2/4,343. Võrumaa,A.Sibul (18),"Nägi no umma tulõvada, nurmõ otsakul olevada."
+0344-r,3,,2/4,344. Kuusalu,Viljak-Vilberg (51),"Vile lammas, viisi tarka."
+0345-r,2,,6/8,345. Kadrina,K.Viljak (66),"Kiigele, kiigele, küla naised"
+0346-r,4,,2/4,346. Tartu-Maarja,Liiv-Raja (40),"E: Sirise, sirise, sirbikene, K: kõrise, kõrise, rauakene."
+0347-r,4,,2/4,347. Jõhvi,Penna-Luud (137),E: Oi meie helde härra! K: oi meie helde härra!
+0348-r,2,,2/4,348. Jõhvi,Penna-Sildnik (44) b,"Küla naised, keelekoerad."
+0349-r,4,,6/8,349. Kadrina,Lähteenkorva (358),"E: Kias kiige kõrgeelle, K: kias kiige kõrgeelle."
+0350-r,4,,6/8,350. Rakvere,Elken-Rosenstrauch (38),"Tantsige, tantsige, jalad ja jalad, kuluge, kuluge, kingad ja kingad."
+0351-r,2,,6/8,351. Ambla,J.Välbe (188),"Üles, üles, meie kiike!"
+0352-r,4,,2/4,352. Paistu,Aavik-Sakeus (24),"E: Mina hoia, mis ma hoia, K: mina hoia, mis ma hoia."
+0353-r,4,,2/4,353. Rõngu,P.Kurg (32),"E: Kust ep tunnus sepa naine, K: kust ep tunnus sepa naine?"
+0354-r,2,,6/8,354. Kadrina,K.Viljak (35),Laske sisse kadrisandid.
+0355-r,4,,2/4,355. Tarvastu,Simm-Reisik (7),E: Mul on kodus seitse halli.
+0356-r,4,,2/4,356. Hanila,Süda-Silbermann (761),"E: Langukesed, linnukesed, K: või te hellad uued langud."
+0357-r,4,,2/4,357. Ambla,J.Välbe (216),"Vistelikku, vastelikku, tudrad toasistujale."
+0358-r,4,,2/4,358. Väike-Maarja,P.Penna (196),"Oi imeta, mis imeta, mis nägin Näo külassa."
+0359-r,4,,6/8,359. Jõhvi,Penna-Sildnik (22) a,Mai oli Tõrmas neitsikene ...
+0360-r,4,,6/8,360. Jõhvi,Penna-Sildnik (39) c,"Kiigesepad, hellad vennad ..."
+0361-r,2,,6/8,361. Järva-Madise,P.Penna (4),Lähme kiike karsumaie.
+0362-r,2,,6/8,362. Järvamaa,Penna-Rosenstrauch (97),Juba rukkipea nähikse.
+0363-r,4,,2/4,363. Väike-Maarja,P.Penna (207),"Kiigele, kiigele, küla neiud."
+0364-r,2,,6/8,364. Ambla,J.Välbe (210),"Kiigesepad, hellad vennad."
+0365-r,4,,2/4,365. Jõhvi,Penna-Luud (138),"E: Sirise, sirise, sirbikene, K: sirise, sirise, sirbikene."
+0366-r,4,,2/4,366. Jõhvi,Penna-Luud (139 b),"E: Oi Mari, minu ema, K: oi Mari, minu ema."
+0367-r,4,,2/4,367. Jõhvi,Penna-Luud (139 a),"E: Oi Mari, minu ema, K: oi Mari, minu ema."
+0368-r,4,1/8,2/4,368. Nigula,C.Kreek (34),"Vanamees vana, väeti, vanamees vana, väeti."
+0369-r,4,,2/4,369. Põltsamaa,Siiak-Einer (29),"Neiukesed noorukesed, lööme ritta, paneme paari."
+0370-r,2,,6/8,370. Põhja-Eesti,J.Sõster (40),Kui mina hakkan laulemaie.
+0371-r,4,,2/4,371. Türi,Siimer (28),"Tule minu vastu luulemaie, luulemai.e, laulemaie."
+0372-r,4,,2/4,372. Väike-Maarja,P.Penna (197),"Aru Anne, Kaste Kaire, Mäe Manni, Maiekene."
+0373-r,8,,2/4,373. Maarja-Magdaleena,Välbe-Sulg (44),"Kus te lähte vastu ööda, vastu ööda, vastu kuuda,
+vastu ergasta ehada, vastu suurta Saare metsa."
+0374-r,2,,6/8,374. Kadrina,K.Viljak (30),"Kiigele, kiigele, külanaised."
+0375-r,4,,6/8,"375. Jõhvi, 1877",Lähteenkorva (370),"E: Kiikiike kõrgeelle, K: kõrgeelle, kaugeelle."
+0376-r,2,,2/4,376. Väike-Maarja,P.Penna (187),Minu vennal väike halli.
+0377-r,2,,2/4,377. Kadrina,Sõster-Rosenstrauch (8),"Kiigesepad, hellad vennad."
+0378-r,4,,2/4,378. Ridala,Kreek-Mudda (16),"Olin mina enne noori meesi, käisin kahe kürtsi vahet."
+0379-r,4,,2/4,379. Vändra,Saar (35),"Köögi Leenu, Karja Mari peksid perseid vastastikku."
+0380-r,4,,2/4,380. Väike-Maarja,P.Penna (202),"Mi sa, hääletu, ägised, mis sa, kurguta, kögised."
+0381-r,4,,2/4,381. Jõhvi,Penna-Sildnik (35) c,Vaat seda vaesta otja lasta ...
+0382-r,2,,6/8,382. Ambla,J.Välbe (80),Mis seal mäella paistab?
+0383-r,4,,2/4,383. Jõhvi,Penna-Sildnik (45) a b,"Mina hõiskan aia taga ...
+Tõuse üles, härrakene ..."
+0384-r,4,,C,384. Järva-Madise,P.Penna (101/5),"Kiigesepad, hellad vennad."
+0385-r,2,,2/4,385. Jõhvi,Penna-Sildnik (36) a,"Oma eit oli eidekene,
+oma taat oli taadikene."
+0386-r,4,,2/4,386. Koeru,Välbe-Martin-Rosenstrauch (72 b), 
+0387-r,4,,2/4,387. Koeru,Välbe-Martin-Rosenstrauch (75),"Marikene, neitsikene, heida helmed kaelastagi."
+0388-r,4,,2/4,388. Paistu,P.Kurg (6),"Sõitsin, sõitsin, vennikene, sõitsin, sõitsin, vennikene."
+0389-r,4,,2/4,389. Väike-Maarja,P.Penna (148),"Neitsikene, noorukene, kisu üles kiidu kiistu."
+0390-r,4,,2/4,390. Kursi ja Võnnu,J.Kärt (22),"Kui ma pääsin mõisaasta, kui ma pääsin mõisaasta."
+0391-r,4,,2/4,391. Rakvere,Elken-Rosenstrauch (35),"Tegin tööda, ei tänatud, tegin tööda, ei tänatud."
+0392-r,4,,2/4,392. Kadrina,K.Viljak (105),"Kiigesepad, hellad vennad, viige kiige kelderisse."
+0393-r,2,,6/8,393. Kuusalu,Viljak-Vilberg (71),Lähme merda pühkimaie. 
+0394-r,4,,2/4,394. Kadrina,K.Viljak (60),"Tirkane, tirkane teeda mööda, karkane karjaste järele."
+0395-r,4,,2/4,395. Peetri,Viljak-Rosenstrauch (17),"Kuku, kuku, käokene, kuku kuku, käokene."
+0396-r,4,,2/4,"396. Rõuge, 1909",J.Gutves (56),"Neiokõnõ, nõrgakõnõ, nõrgakõnõ, noorõkõnõ."
+0397-r,4,,2/4,397. Kadrina,K.Viljak (78),"Mai oli tõrma neitsikene, ainerätte hambussagi."
+0398-r,2,,2/4,398. Järva-Madise,P.Penna (59/1),Läksin küla kiige alla.
+0399-r,4,1/8,2/4,399. Järva-Jaani,Välbe-Martin-Rosenstrauch (8),"Oh Jumal, jõetagune, mäleta, mäetagune."
+0400-r,4,,2/4,400. Kadrina,Sõster-Rosenstrauch (7),Laske sisse mardisandid; Mardi küüned kül.metavad.
+0401-r,4,1/8,2/4,401. Järva-Jaani,Välbe-Martin-Rosenstrauch (44),"Kui viidi tütar kodusta, siis viidi ilu isalta."
+0402-r,4,,2/4,402. Järva-Jaani,Välbe-Martin-Rosenstrauch (46),"Iiduttiidut Tiiu reied, karu kiskus Kaie reied."
+0403-r,4,,2/4,403. Peetri,Viljak-Rosenstrauch (18),"Oh minu rikas ristieite, ohminu rikas ristieite."
+0404-r,8,,2/4,404. Jõhvi,Penna-Sildnik (49) a,"Ärge nutke, eidekesed ..."
+0405-r,4,,2/4,405. Kadrina,K.Viljak (73),"Oleks minu olemine, teiseks minu tegemine."
+0406-r,4,,2/4,406. Järvamaa,Penna-Rosenstrauch (1),"Läksin tilluke teole, lillelallike mõisasse."
+0407-r,4,,2/4,407. Järvamaa,Välbe-Martin-Rosenstrauch (9),"Äiakene, ämmakene, tapa ära kukekene."
+0408-r,4,,2/4,408. Järva-Jaani,Välbe-Martin-Rosenstrauch (39),"Sirise, sirise, sirpi, kõrise, kõvera rauda."
+0409-r,2,,2/4,409. Haljala,Viljak-Mark (12) d,Mis on vaese lapse palka...
+0410-r,2,,2/4,410. Haljala,Viljak-Mark (12),"Mis sa, sitikas, sirised..."
+0411-r,2,,2/4,411. Ambla,J.Välbe (194),Kadrid tulid kaugeelta...
+0412-r,4,,2/4,412. Jõhvi,Penna-Sildnik (1),"Sinilälläd, silmalälläd ..."
+0413-r,4,,2/4,413. Jõhvi,Penna-Sildnik (22),Lähme seda teeda mööda ...
+0414-r,4,,C,414. Järva-Madise,P.Penna (63/1),"Hääl ei anna, kiik ei kanna."
+0415-r,4,,2/4,415. Simititsa,Penna-Luud (64 a),Kadri tulnud kaugeelta.
+0416-r,2,,6/8,416. Järvamaa,Penna-Rosenstrauch (26),Oh te hullud kiigesepad...
+0417-r,2,,2/4,417. Järva-Jaani,Välbe-Martin-Rosenstrauch (40),"Kuulsin kiike kiigutama,
+kiigelauda lauletama."
+0418-r,4,,2/4,418. Rakvere,Elken-Rosenstrauch (28),"Lõpe, lõpe, põllukene, saa otsa, saarekene."
+0419-r,4,,2/4,419. Rakvere,Elken-Rosenstrauch (25),"Huist! huist! Koera haukumata, kirkju lits mind kiskumata!"
+0420-r,4,,2/4,420. Järva-Jaani,Välbe-Martin-Rosenstrauch (37),"Kõigil pole häälta hästi laulda, kurku kullasti kõnelda."
+0421-r,4,,2/4,421. Kuusalu,Viljak-Vilberg (16),"Oh me vaesed valla orjad, kinnikihlatud sulased."
+0422-r,2,,2/4,422. Ambla,J.Välbe (174),"Kiigesepad, hellad vennad."
+0423-r,2,,2/4,423. Järva-Madise,P.Penna (67/3),"Vares, vaga linnukene..."
+0424-r,2,,2/4,424. Kuusalu,Viljak-Vilberg (5),Kui mina hakkan laulemaie...
+0425-r,4,,2/4,425. Kursi ja Võnnu,J.Kärt (29),"Tule, tee seale aeda, tule, tee seale aeda._"
+0426-r,4,,2/4,426. Jõhvi,Penna-Sildnik (13) b,Ma tegin odrad ojase ja kaerad jõe kaldasse.
+0427-r,4,,2/4,427. Kuusalu,Viljak-Vilberg (41),"Kadri tulnud kaugeelta, üle soode, üle maade."
+0428-r,4,,2/4,428. Järva-Madise,P.Penna (71/2),"Sirise, sirise, sirpi, kõrise, kõvera rauda."
+0429-r,4,,2/4,429. Kadrina,K.Viljak (14),"Tere, tere, perekene, tere, pereeidekene."
+0430-r,4,,2/4,430. Harju-Jaani,Viljak-Vilberg (15) [42],"Hirnu, hirnu, hiie halli, katsu aeda, hallikene."
+0431-r,4,,2/4,431. Viljandi,T.Leppik (4),"Kir tuli keisarista, raamat tuli Prantsusesta."
+0432-r,2,,6/8,432. Ambla,J.Välbe (185),"Kiigesepad, hellad vennad... "
+0433-r,2,,6/8,433. Järva-Madise,P.Penna (106/2),"Kiigesepad, hellad vennad."
+0434-r,2,,6/8,434. Järva-Madise,P.Penna (78/3),"Tuleb aga Marti, tiugub Marti..."
+0435-r,2,,6/8,435. Järva-Madise,P.Penna (70/1),Oh mina väike mehikene...
+0436-r,4,,2/4,436. Simuna,Siimer-Rosenstrauch (19),"Peremees, peremehike, perenaine, naisukene."
+0437-r,4,,2/4,437. Koeru,Välbe-Martin-Rosenstrauch (60),"Ma paluks pereisada, ma paluks pereemanda."
+0438-r,6,,2/4,438. Järvamaa,Välbe-Martin-Rosenstrauch (65),"Süda kutsub kosja minna, kosja minna, kosja minna, süda kutsub kosja minna."
+0439-r,6,,2/4,439. Järva-Madise,P.Penna (57/5),Läksin küla kiige alla ...
+0440-r,4,,2/4,440. Järva-Madise,P.Penna (91/5),"Oh mina vaene, oh mina vaene, oh mina vaene põlgtud laps."
+0441-r,4,,2/4,441. Kadrina,K.Viljak (88),"Sõitsin mööda Soome silda, Soome silda raksateli."
+0442-r,4,,2/4,442. Türi,Siimer (17),"Roi roi roi roi roti pulmad, hiire tütar sai mehele."
+0443-r,8,,2/4,"443. Rõuge, 1909",J.Gutves (32),"Milles härra higovasõ, milles provva punõtasõ?
+vaestõ lastõ vaiva läbi, tütarlastõ tüü läbi!"
+0444-r,4,,2/4,444. Laiuse,Välbe-Sulg (59),"Oh mina vaene valge jänes, kevadene kerge jänes."
+0445-r,4,,2/4,445. Järvamaa,K.Viljak (7),"Tahtsin minna taevaasse, tahtsin minna taevaasse."
+0446-r,4,,2/4,446. Järvamaa,Penna-Rosenstrauch (91),"Viidi mind pere minijaks, pandi mind pada pesema."
+0447-r,4,,2/4,447. Kuusalu,Viljak-Vilberg (78),"Oli mul viisi vennikesta, kuusi kulla virvekesta."
+0448-r,4,,2/4,448. Järvamaa,Penna-Rosenstrauch (94),"Lõpetame selle põllu küla alta, mõisa alta."
+0449-r,4,,2/4,449. Simititsa,Penna-Luud (6 a),"Tule, uni, uksest sisse, astu, uni, akenasta."
+0450-r,4,,2/4,450. Väike-Maarja,P.Penna (165),"Nüüd ilus vilula veerda, armas hellale kõnelda."
+0451-r,4,,2/4,451. Järvamaa,Penna-Rosenstrauch (21),"Lihulas küll peeti laata, mul polnd aga seda aega."
+0452-r,4,,2/4,452. Türi,Siimer (50),"Oi, mis kukun kurba lindu, oi, mis kukun kurba lindu."
+0453-r,4,,2/4,453. ,A.Thomson (13),"Kari mulmängib kaasikussa, kari mul mängib kaasikussa."
+0454-r,6,,2/4,454. Rakvere,Elken-Rosenstrauch (32),"Laske sisse mardisandid, laske sisse mardisandid, laske sisse mardisandid."
+0455-r,4,,2/4,455. Kadrina,K.Viljak (79),"Mis seal meilä tehtanekse, et sealt suitsu tõusenekse."
+0456-r,4,,2/4,456. Koeru ja Järva-Jaani,Martin-Rosenstrauch (236),"Emakene, hellakene, kodu kurjad oldanekse."
+0457-r,4,,2/4,457. Järva-Madise,P.Penna (14/7),"Sõõru, sõõru, sõge lehma ..."
+0458-r,4,,2/4,458. Vändra,Saar (31),"Noores elus on ju teada, et siis lusti tunneb süda."
+0459-r,4,,2/4,459. Kuusalu,Viljak-Vilberg (168),"Pereeite, eidekene, peretaati, taadikene."
+0460-r,4,,2/4,460. Kanepi,P.Kurg (12),"Elimi hellad, elimi vellad kasvimi üles karjuseksa."
+0461-r,4,,2/4,461. Simititsa,Penna-Luud (6 b), 
+0462-r,4,,2/4,462. Krimmi,R.Kõhelik (4),"OI oi oi oi hunta palju, toa taga tonta palju."
+0463-r,4,,2/4,463. Simititsa,Penna-Luud (15),"Koju'p minda oodatanne, Revävällä vaadetanne."
+0464-r,4,,2/4,"464. Kadrina, 1877",Lähteenkorva (363),"Seie leikarid tulevad, seie leikar lüöneb lieri."
+0465-r,4,,2/4,465. Paistu,Aavik-Sakeus (43),"Emäkeine, memmekeine, arak mu panna paigatõtu."
+0466-r,4,,2/4,466. Türi,Siimer (73),"Tere, isa, tere, ema, tere, peremees ja naine."
+0467-r,4,,2/4,467. Alatskivi,Liiv-Raja (68),"Millal maksan memme vaeva, hea ema piima vaeva?"
+0468-r,4,,2/4,468. Valguta,P.Tatz (32),"Kui mina hakkan laulemaie, laulemaie, laskemaie."
+0469-r,4,,2/4,469. Kolga-Jaani,Siimer-Rosenstrauch (47),"Tütarlatse, tillukese, tütarlatse tillukese."
+0470-r,4,,2/4,470. ,Hermann (1297),"Neitsikesed noorukesed, kui meid suurest' sunnitakse."
+0471-r,4,,2/4,471. Pilistvere,Saar-Siimer (71),"Ikki juon ma kõrtsussagi, ikki juon ma kõrtsussagi."
+0472-r,8,,2/4,472. Väike-Maarja,P.Penna (203),"Meie mehed just kui pullid, Aru Jüri hallid sõnnid."
+0473-r,4,,2/4,473. Laiuse ja Simuna,Viljak-Rosenstrauch (7),"Iiduttiidut türnatamme, maha mina raiun raudatamme."
+0474-r,4,,2/4,474. Kadrina,K.Viljak (4),"Söö, söö, meie karja, joo, joo, meie karja."
+0475-r,4,,2/4,475. Kadrina,K.Viljak (82),"Mul oli mullu musta lehma, tunamullu tõmmu lehma."
+0476-r,4,,2/4,476. Kuusalu,Viljak-Vilberg (21),"Joo, kuku, kanna kaela, võta vastu vaskirinda."
+0477-r,4,,2/4,477. ,A.Thomson (12),"Kari mul mängib kaasikussa, kari mul mängib kaasikussa."
+0478-r,4,,2/4,478. Kuusalu,Viljak-Vilberg (123),"Kus mina kuulen räägitävä, räägitävä, nauretava."
+0479-r,4,,2/4,479. Haljala,Viljak-Mark (10),"Mina mies mereme'e poiga, kallis mies kalame'e poiga."
+0480-r,4,,2/4,480. Koeru ja Järva-Jaani,Martin-Rosenstrauch (238),"Neitsikene, noorukene ..."
+0481-r,4,,2/4,481. Alatskivi,Liiv-Raja (99),"Nõtku, nõtku, nõelakene, nõtku, nõelasilmakene."
+0482-r,4,,2/4,482. Urvaste,Hermann (282),Veli läts sõtta sõdama ...
+0483-r,4,,2/4,483. Järva-Madise,P.Penna (84/4),Mis on meie õue alla? Meri on meie õue alla.
+0484-r,4,,2/4,484. Väike-Maarja,P.Penna (181),"Käisin õues hulkumassa, oi imeta, või imeta!"
+0485-r,4,,2/4,485. Järvamaa,K.Viljak (14),"Peremees, peremehike, perenaine, naisukene."
+0486-r,4,,2/4,486. Kadrina,K.Viljak (67),"Oh seda heada meie härrat, peremada, meie prouat."
+0487-r,4,,2/4,487. Ambla,J.Välbe (155),"Ennem mina mängin mätastega, kargan karusammaldega."
+0488-r,4,,2/4,488. Järvamaa,K.Viljak (10),"Tulge kiike, küla naised, tooge kanad, tooge munad."
+0489-r,2,,2/4,489. Järvamaa,Penna-Rosenstrauch (87),"Kiigesepad, hellad vennad."
+0490-r,4,,2/4,490. Väike-Maarja,P.Penna (156),"Oh sina petis peiukene, ära tema pettis äiakese."
+0491-r,2,,2/4,491. Järvamaa,Penna-Rosenstrauch (82),"Kiigesepad, hellad vennad."
+0492-r,4,,2/4,492. Simititsa,Penna-Luud (52),"Neitsikene, nuorukene, kirju pihta peenikene."
+0493-r,4,,2/4,493. Koeru ja Järva-Jaani,Martin-Rosenstrauch (233),"Kiigesepad, hellad vennad ..."
+0494-r,4,,2/4,494. Paistu,Aavik-Sakeus (33), 
+0495-r,4,,2/4,495. Paistu,Aavik-Sakeus (23),"Näe, kus minu näägutaja, näe, kus minu näägutaja."
+0496-r,4,,2/4,496. Türi,Siimer (5),"Neiukene, noorukene, neiukene, noorukene."
+0497-r,4,,2/4,497. Järva-Madise,P.Penna (15/8),"Mis sina, hääletu, ägised, ilma kurguta kogised."
+0498-r,4,,2/4,498. Kuusalu,Viljak-Vilberg (6),"Sureksin mina äraje, sureksin mina äraje."
+0499-r,4,,2/4,499. Kuusalu,Viljak-Vilberg (201),"Peiu kane, poisikane, eile läksid kui sie poissi."
+0500-r,4,,2/4,500. Kadrina,K.Viljak (77),"Lõpe, lõpe põllukene, saa otsa, saarekene."
+0501-r,4,,2/4,501. Jõhvi,Penna-Sildnik (39) b,Ma ei tohi toiste laulda ...
+0502-r,4,,2/4,502. Vändra,"Saar (5 b, e)","Oh sina hullu hundikene, ohsina hullu hundikene."
+0503-r,4,,2/4,503. Kadrina,K.Viljak (45),"Meie kaksi vaesta lasta, meie kaksi kui kanada."
+0504-r,4,,2/4,504. Kuusalu,Viljak-Vilberg (32),"Viisin tamme äiaõue, istutin kovale maale."
+0505-r,4,,2/4,505. Koeru,Välbe-Martin-Rosenstrauch (66),Väljal ning ka metsasees rõõmsa laste lauluhääl.
+0506-r,4,,2/4,506. Järva-Madise,P.Penna (13/6),"Sõõru, sõõru, sõge lehma, anna piima, pime lehma."
+0507-r,4,,2/4,507. Järva-Madise,P.Penna (76/1),"Oh me heada härrakesta, kuldakrooni prouakesta."
+0508-r,4,,2/4,508. Väike-Maarja,P.Penna (179) b,Oh mina vaene varbelane ...
+0509-r,4,,2/4,509. Väike-Maarja,P.Penna (178) a,"Isa a'as mind kõndimaie, ema a'as äestamaie."
+0510-r,4,,2/4,510. Väike-Maarja,P.Penna (179) c,Mis mina hoolin juueessa ...
+0511-r,4,,2/4,511. Kadrina,K.Viljak (70),"Lähme siit läbi külade, läbi uute uulitsate."
+0512-r,4,,2/4,512. Haljala,Penna-Luud (164 b), 
+0513-r,4,,2/4,513. Järva-Madise,P.Penna (79/4),"Laula, laula, miks ei laula: laulik isa, laulik ema."
+0514-r,4,,2/4,514. Koeru,Välbe-Martin-Rosenstrauch (15),"Kui mina hakkan luulemaie, luulemaie, laulemaie."
+0515-r,4,,2/4,515. Kodavere,Liiv-Raja (108),"Kui mina hakkan luulemaie, luulemaie, laulemaie."
+0516-r,4,,2/4,516. Jõelähtme,K.Viljak (27),Ma läen Koisule kosije: Koisul neli neitsikesta.
+0517-r,4,,2/4,517. Järvamaa,Penna-Rosenstrauch (173),"Laske suud suisa joosta, suud suisa, lõuad lausa."
+0518-r,4,,2/4,518. Pärnu ja Tori,Tatz-Sildnik (35),"Lätsin mõtsa ohtuelle, ohtuelle, hommukulle."
+0519-r,4,,2/4,"519. Rakvere ja Haljala, 1877",Lähteenkorva (366),"Peiiukene, poisikene, kui läed saaja sõitemaie."
+0520-r,4,,2/4,"520. Karula, 1877",Lähteenkorva (324),"Olsteren oli uhke poissi, Olsteren oli uhke poissi."
+0521-r,4,,2/4,521. Kadrina,K.Viljak (97),"Äiakene, ämmakene, laske mind koju minema."
+0522-r,4,,2/4,522. Väike-Maarja,P.Penna (161),"Olge terved, õllesepad ..."
+0523-r,4,,2/4,523. Paistu,Aavik-Sakeus (36),"Tüki hulksin Harjumaada, tüki hulksin Harjumaada."
+0524-r,4,,2/4,524. Kursi ja Võnnu,J.Kärt (27),"Oh sa kuning, kuningake, miks sa eile meile ei tulnud?"
+0525-r,4,,2/4,525. Väike-Maarja,P.Penna (157),"Oot, oot, surma, noo, noo, surma, ma tahan surmaga tõrelda."
+0526-r,4,,2/4,526. Koeru,Välbe-Martin-Rosenstrauch (61),"Kas tohib tulla tubaje, alla räästasta ajada?"
+0527-r,4,,2/4,527. Kadrina,K.Viljak (99),"Oleks ma uneski näinud, tukkudes mull' toodud meelde."
+0528-r,4,,2/4,528. Kadrina,K.Viljak (46),"Lõpe, lõpe, põllukene, saa otsa, saarekene."
+0529-r,4,,2/4,529. Kadrina,K.Viljak (43),"Tule mulle, kitsekene, ma teen uued ummiskingad."
+0530-r,4,,2/4,530. Kadrina,K.Viljak (44),"Lähme sinna kaimu kõrva, lähme sinna Riia poole."
+0531-r,4,,2/4,531. Haljala,Viljak-Mark (5),"Ehi, neidu, eks sinna jõua, saa, neidu, saaks menema."
+0532-r,4,,2/4,532. Järva-Madise,P.Penna (30/23),"Minu pruut on neitsikene, alles kiigub kätki sees. "
+0533-r,4,,2/4,533. Kadrina,K.Viljak (65),"Iiduttiidut tite reied, karu kiskus Keie reied."
+0534-r,4,,2/4,534. Haljala,Penna-Luud (164 a),Raha mul maksab laulamine ...
+0535-r,4,,2/4,"535. Paistu, 1877",Lähteenkorva (337),"Oi roi roi roi rotil pulmad, oi roi roi roi rotil pulmad!"
+0536-r,4,,2/4,536. Pilistvere,Saar-Siimer (7 b), 
+0537-r,4,,2/4,537. Pilistvere,Saar-Siimer (7 a),"Kiigu, kiigu, kiigekene, kiigu üle kolme metsa."
+0538-r,4,,2/4,538. Simuna,Siimer-Rosenstrauch (16),"Huist! huist! koerad haukumasta, kirjud koerad kiskumasta."
+0539-r,2,,2/4,539. Jõhvi,Penna-Sildnik (16) b,Lõpetame selle põllu.
+0540-r,4,,2/4,540. Kolga-Jaani,Simm-Reisik (32),"Veere looja, päevakene, veere looja, päevakene."
+0541-r,4,,2/4,541. Vändra,Saar (20),"Anne mina armastasin, Anne mina armastasin."
+0542-r,4,,2/4,542. Järva-Jaani,Välbe-Martin-Rosenstrauch (7),Kas oli otsas orja õnne või oli perepoja õnne.
+0543-r,4,,2/4,543. Karksi,Martin-Tatz (95),"Viibusin mina, viibusin ..."
+0544-r,4,,2/4,544. Pilistvere,Saar-Siimer (97),"Ann oli Harju neitsikene, Ann oli Harju neitsikene."
+0545-r,4,,2/4,545. Sangaste,A.Kiis (97),"Paras, paras, emäkene, paras paras, emäkene."
+0546-r,4,,2/4,546. Kolga-Jaani,Simm-Reisik (10),"Oh sina, surma sõgeda, oh sa, surma sõgeda!"
+0547-r,4,,2/4,547. Kolga-Jaani,Simm-Reisik (9),"Emäkene, memmekene, emäkene, taadikene."
+0548-r,4,,2/4,548. Paistu,Hermann (129),"Mina mees mereme'e poiga, mina mees mereme'e poiga."
+0549-r,4,,2/4 5/8 2/4 5/8,549. Häädemeeste,Martin-Johanson (19),"Sööge, langud, sööge, langud ..."
+0550-r,2,,6/8,550. Ambla,J.Välbe (97),"Kiigesepad, hellad vennad."
+0551-r,4,,2/4,551. Paistu,Hermann (139),"Noored mehed, helläd velled, noored mehed, helläd velled."
+0552-r,4,,2/4,552. Kadrina,K.Viljak (61),"Lähme meie loogu võtma, viime Mari kaarutama."
+0553-r,2,,6/8,553. Järva-Jaani,Välbe-Martin-Rosenstrauch (3),Oh te hullud kiigesepad.
+0554-r,4,,2/4,554. Pärnu-Jaagupi,Hendrikmann (11), 
+0555-r,4,,2/4,555. Nigula,C.Kreek (32),"Mann läks metsa maasikale, Mann läks metsa maasikale."
+0556-r,4,,2/4,556. Karksi,Martin-Tatz (101),Võti ruka hommikulla ...
+0557-r,4,,2/4,557. Järvamaa,K.Viljak (20),"Oleks minu olemine, teiseks minu tegemine."
+0558-r,4,,2/4,558. Karksi,Martin-Tatz (64),Kui me üürgame ütelema ...
+0559-r,4,,2/4,559. Kadrina,K.Viljak (7),"Meie kaksi vaesta lasta, mul pole isa, mul pole ema."
+0560-r,4,,2/4,560. Järvamaa,Penna-Rosenstrauch (37),"Hellakene, vennakene, kas nägid minu hobusta?"
+0561-r,4,,2/4,561. Pärnu-Jaagupi,Hendrikmann (10), 
+0562-r,6,,6/8 6/8 3/8 3/8 3/8 3/8,562. Simititsa,Penna-Luud (33),"E: Nõtku, nõtku, nõelakene, hüppa, nõela, karga, nõela, K: hüppa, nõela, karga, nõela!"
+0563-r,8,,2/4,563. Sangaste,A.Kiis (91),"Olin mina orjas, käisin karjas, olin mina orjas, käisin karjas,
+kõndsin teeda, kõndsin maada, kõndsin ümber mere äärta."
+0564-r,4,,2/4,564. Simititsa,Penna-Luud (46 e),"E: Riputelen, raputelen, K: riputelen rippelida."
+0565-r,4,,2/4,565. Ambla,J.Välbe (18),"Kiljub neidu, kaljub neidu, kiljub minu võtteessa."
+0566-r,4,,2/4,566. Rakvere,Elken-Rosenstrauch (29),Ei mina tohi tuppa tulla ...
+0567-r,4,,2/4,"567. Puhja, 1883",Hermann (1557),"Lõika, lõika, sirbikene, kugu, kulla rauakene."
+0568-r,4,,2/4,568. Vändra,Saar (10),"E: Kiigutage kõrgemini, K: kiigutage kõrgemini!"
+0569-r,4,,2/4,569. Koeru,M.Sõster (31),"Kui ma hakkan laulemaie, laulemaie, luulemaie..."
+0570-r,4,,2/4,570. Ridala,Kreek-Mudda (7) b,"Olin mina mõisa põllu peal, kündsin küla kesaaeda."
+0571-r,4,,2/4,571. Ridala,Kreek-Mudda (7) c,"Meie mehed kui metsapullid, Aru Jüri hallid sõnnid."
+0572-r,4,,2/4,572. Järva-Madise,P.Penna (47/40),"Mis sina laulad, lampilõuga, kõõrutad, nina kõvera."
+0573-r,4,,2/4,573. Hargla,Aavik (22),"Kesvä säsü rõõmumesi, kallis roosi karva ving."
+0574-r,6,,2/4,574. Krimmi,R.Kõhelik (39),Kui ma hakkan laulamaie ...
+0575-r,8,,2/4,575. Koeru,Välbe-Martin-Rosenstrauch (77),"Oleks minu olemine, teiseks minu tegemine,
+küll ma teaksin, mis ma teeksin: ma paneks härrad härgadeksi."
+0576-r,4,,2/4,576. Ambla,J.Välbe (12),"Pääseksin mina minema, hani hulgasta ojuma."
+0577-r,8,,2/4,577. Marja-Magdaleena,Välbe-Sulg (4),"Lähme seda teeda mööda, seda teeda sipulista,
+mõttel marjavarsilista, kus on enne orjad käinud."
+0578-r,8,,2/4,"578. Rõuge, 1909",J.Gutves (33),"Pai, kulla perenaine, kas ma karja kodu aja?
+kas on valmis vaskajooki?"
+0579-r,6,,2/4,579. Häädemeeste,Martin-Johanson (9),"Tahtsin, tahtsin talgusele ..."
+0580-r,4,,2/4,580. Vändra,Saar (22),"Jumalaga alga pruuli juures, Jumalaga alga pruuli juures."
+0581-r,4,,2/4,581. Järva-Madise,Topmann-Rahamägi (13), 
+0582-r,4,,2/4,582. Kuusalu,Viljak-Vilberg (184),"Müüks, müüks mardikane, müüks mardisandikane."
+0583-r,4,,2/4,583. Väike-Maarja,P.Penna (205),Laske sisse mardisandid ...
+0584-r,4,,2/4,584. Rõngu,P.Kurg (52),"Jaanikõne, Jaanikõne, tii mull' tillu tõllakõne."
+0585-r,6,,2/4,585. Jõhvi,Penna-Sildnik (16) c,Eit mind käskis heietada ...
+0586-r,4,,2/4,586. Koeru ja Järva-Jaani,Martin-Rosenstrauch (253),"Perenaine, põrguline, anna orjal' hästi süüa."
+0587-r,4,,2/4,587. Koeru,Välbe-Martin-Rosenstrauch (59),"Võtsin naise noorukese, õrna hõbehelmekese."
+0588-r,8,,2/4,"588. Paistu, 1888",H.Leppik (29),"Ilus õhtu, kallis õhtu ..."
+0589-r,4,,2/4,589. Järva-Madise,P.Penna (9/2),"Lõpe, lõpe, põllukene, vähene, sa väljakene."
+0590-r,4,,2/4,590. Järva-Madise,P.Penna (147/36),"Mis sa, hingetu, ägised, porikärbes, mis porised!"
+0591-r,4,,2/4,"591. Karula, 1877",Lähteenkorva (329),"Veli, hella vellekene, veli, hella vellekene."
+0592-r,2,,6/8,592. Kadrina,K.Viljak (22),Läksin kiike katsumaie.
+0593-r,4,,2/4,593. Haljala,Viljak-Mark (13),"Oi roi rotil pulmad, hiire tütar sai mehele..."
+0594-r,4,,2/4,594. Halliste,Aavik (90),"Hoori huiksi, tõise hõiksi, hoori huiksi, tõise hõiksi."
+0595-r,4,,2/4,595. Helme,Martin-Tatz (2 a),"Mine üle, vihmakene, vihmakene, vellekene!"
+0596-r,4,,2/4,596. Tarvastu,Simm-Reisik (6 b), 
+0597-r,4,,2/4,597. Järvamaa,Penna-Rosenstrauch (7),"Juudid joovad kõrtsussagi, mina aga lippan kõrvassagi."
+0598-r,4,,2/4,598. Tarvastu,Simm-Reisik (6 a),"Poisi, poisi, noore, noore, küla neitsi linnukese..."
+0599-r,4,,2/4,599. Rakvere,Elken-Rosenstrauch (41),"Jüri joob, Jüri jorutab, Jüri ei anna kellelegi."
+0600-r,4,,2/4,600. Ambla,J.Välbe (222),"Meie kaksi vaesta lasta, meie kaksi kui kanada."
+0601-r,4,,2/4,601. Ambla,J.Välbe (99),"Oh seda viina vintsukesta, punakaela punsukesta."
+0602-r,4,,2/4,602. Suure-Jaani,Köstner (39),"Mardi küüned külmetavad, Mardi varbad valutavad."
+0603-r,4,,2/4,603. Paistu,Hermann (134),"Olgem vaprad, ostkem mustad, vahetagem naised valjud."
+0604-r,4,,2/4,604. Koeru,Välbe-Martin-Rosenstrauch (35),"Täna joome täied toobid, homme toobid upakile."
+0605-r,4,,2/4,605. Saarde,Martin-Tatz (118),"Laske sisse mardisandid, laske sisse mardisandid."
+0606-r,4,,2/4,606. Viru-Nigula,K.Viljak (1) a,"Olin mina enne sepa selli, sepa selli, kangru poissi."
+0607-r,4,,2/4,607. Viru-Nigula,K.Viljak (1) b,Laske sisse mardisandid: mardi küüned külmetavad.
+0608-r,8,,2/4,608. Risti,C.Kreek (97),"Ärge võtke meid vihasse, ärge pange meid pahasse,
+et olen kauaks viibinud, üle aega ära olnud."
+0609-r,4,,2/4,609. Rakvere,Elken-Rosenstrauch (42),"Küla ütles: kuku, kuku! Küla lapsed: laula, laula!"
+0610-r,4,,2/4,610. Pilistvere,J.Söödor (6),"Kus on joodiku hobune, lakekoera lauku täkku?"
+0611-r,4,,2/4,611. Karksi,Hermann (1227),"Vana luud minu varake, kulu minu kosijake."
+0612-r,8,,2/4,612. Väike-Maarja,P.Penna (169),Oleks aga minu olemine ...
+0613-r,4,,2/4,613. Lutsi,O.Kallas (11),"Tule ma ülõs hommungulta, tule ülõs hommungulta."
+0614-r,4,,2/4,614. Ambla,J.Välbe (166),"Mul polnud isa ollessagi, ema ei ilma tullessagi."
+0615-r,4,,2/4,615. Paistu,Aavik-Sakeus (80),"Ei, ei, hellad eesti velled, ei, ei, hellad eesti velled."
+0616-r,4,,2/4,616. Väike-Maarja,P.Penna (162),"Vana kubjas, jäme magu ..."
+0617-r,4,,6/8,617. Jõhvi,Penna-Sildnik (8) a,Kas luba tubaje tulla ...
+0618-r,4,,2/4,618. Kursi ja Võnnu,J.Kärt (23),"Siit läeb lidu neidusida, paras parve tüterida."
+0619-r,5,,2/4,619. Väike-Maarja,P.Penna (208),Need on uhked noored härrad ...
+0620-r,4,,2/4,620. Koeru,Välbe-Martin-Rosenstrauch (63),"Oleks minu olemine, teiseks minu tegemine."
+0621-r,4,,6/8,621. ,Hermann (1908),"Laena sõela, langukene, ma sõelun sea aganaida."
+0622-r,4,,2/4,622. Ambla,J.Välbe (169),"Eidekene, memmekene, anna mulle aida võti."
+0623-r,4,,2/4,623. Ambla,J.Välbe (67),"Tooge kulpi, ma kuseksin, tooge lampi, ma laseksin."
+0624-r,4,,2/4,624. Kuusalu,Viljak-Vilberg (14),"Too, Jumal, jõesta jõudu, vea väljalta vägeda."
+0625-r,4,,2/4,625. ,Hermann (480),"Oleks minu õlad õunapuused, käevarred vahtrapuused."
+0626-r,4,,2/4,626. Järvamaa,Penna-Rosenstrauch (22),"Mullu sõitsin mustukesta, tunamullu tuhkrukesta."
+0627-r,2,,6/8,627. Koeru ja Järva-Jaani,Martin-Rosenstrauch (254),"Kiigesepad, hellad vennad."
+0628-r,5,,2/4,628. Maarja-Magdaleena,Hermann (2019), 
+0629-r,4,,2/4,629. Kolga-Jaani,P.Kurg (31),Kelle koplis kolmi põõsast? Mede koplis kolmi põõsast.
+0630-r,4,,2/4,630. Ambla,J.Välbe (122),"Oleme aga prisked Pruuna poisid, pead ei anna pordul pöata."
+0631-r,4,,2/4,631. Kambja,P.Tatz (4),"Kui mina ära koolenesse, viige mu Viira kirikude."
+0632-r,4,,2/4,632. Koeru ja Järva-Jaani,Martin-Rosenstrauch (214), 
+0633-r,4,,2/4,633. Järvamaa,Penna-Rosenstrauch (169),"Mis sa, hääletu, ägised, poole häälega pugised."
+0634-r,4,,2/4,634. Koeru,Välbe-Martin-Rosenstrauch (74),"Ei lähe isa, ei lähe ema, vaid läheb kõige noorem vend."
+0635-r,4,,2/4,635. Rõngu,P.Kurg (67),"Tsiri, tsiri, tsirguke, tsiri, tsiri, tsirguke."
+0636-r,4,,2/4,636. Rõngu,P.Kurg (65),"Olime hellad, olime velled, olime hellad, olime velled."
+0637-r,4,,2/4,637. Väike-Maarja,P.Penna (150),"Oh sina petis peiukene, kavalikku kaasakene."
+0638-r,4,,2/4,638. Väike-Maarja,P.Penna (151),"Uni, tule uksest sisse, tule lapse silma sisse."
+0639-r,6,,2/4,639. Risti,C.Kreek (81),"Tere aga, tere aga, uued langud, tere aga, tere aga, uued langud!"
+0640-r,4,,2/4,640. Risti,C.Kreek (83),"Olid sina enne eide kodu, eide kodu, taadi kodu."
+0641-r,8,,2/4,641. Ridala,Kreek-Mudda (20),"Mehed, mis me muretseme, mehed, mis me muretseme,
+muidu mossis seisame, muidu mossis seisame?"
+0642-r,4,,2/4,642. Järva-Jaani,Välbe-Martin-Rosenstrauch (1),"Ennäe, kus paistab põrgulinna, kuradi kodu nähikse."
+0643-r,4,,2/4,643. Mihkli,Süda-Silbermann (28),"Langukesed, linnukesed, või te hellad uued langud."
+0644-r,4,,2/4,644. Koeru ja Järva-Jaani,Martin-Rosenstrauch (247),"Mis sina vahid, vana poiss ..."
+0645-r,4,,2/4,645. Ambla,J.Välbe (146),Laske sisse mardisandid; mardid tulnud kaugeelta.
+0646-r,4,,2/4,646. Järva-Jaani,Välbe-Martin-Rosenstrauch (61),"Eidekene, hellakene, mesimarja, memmekene."
+0647-r,4,,2/4,647. Järvamaa,Penna-Rosenstrauch (62),Mis see sealt mäelta paistab? Õunapuu mäelta paistab.
+0648-r,4,,2/4,648. Kuusalu,"Viljak-Vilberg (196, 204)","Küll mul lugu, kui ma laulan, küll mul viisi, kui ma viitsin."
+0649-r,4,,2/4,649. Kadrina,K.Viljak (75),"Lõpe, lõpe, põlllukene, saa otsa, saarekene."
+0650-r,4,,2/4,650. Kuusalu,Viljak-Vilberg (13),"Meie kaksi vaesta lasta, lähme jaanipäe kiriku."
+0651-r,4,,2/4,651. Kodavere,Liiv-Raja (124),"Oh minu endista eluda, kaunist kasupõlvekesta!"
+0652-r,4,,2/4,652. Kuusalu,Viljak-Vilberg (59),"Kui mina hakkan laulemaie, kui mina hakkan laulemaie."
+0653-r,4,,2/4,653. Järvamaa,K.Viljak (2),"Lõpetame selle põllu, vähendame välja laia."
+0654-r,4,,2/4,654. ,Hermann (1372),"Kuulin kuked laulavada, kanad kuulin kõõrutavat."
+0655-r,4,,2/4,655. Rõngu,P.Kurg (96),"Muidu mina elas, muidu mina oles, las tuleb laubaõhtukene."
+0656-r,4,,2/4,656. ,A.Thomson (25),"Kiigu, liigu, hällikene ..."
+0657-r,4,,2/4,657. Ambla,J.Välbe (103),"Muudel sängid, muudel mängid, mul pole sängi ega pole mängi."
+0658-r,4,,2/4,658. Järva-Jaani,Välbe-Martin-Rosenstrauch (2),"Ehi, neidu, eks sa jõua, saa neidu, saaks minema."
+0659-r,4,,2/4,659. Karksi,Martin-Tatz (72),Müüda lätsi äia kodust ...
+0660-r,4,,2/4,660. Koeru,Välbe-Martin-Rosenstrauch (76),"Mis mina, mis mina, hellad vennad, mis mina linnas kurja tegin."
+0661-r,4,,2/4,661. Järvamaa,Penna-Rosenstrauch (70),"Oh sina ulpi noori meesi, viska linnased vedeje."
+0662-r,4,,2/4,662. Koeru,Välbe-Martin-Rosenstrauch (49),"Olin tilluke teole, väeti härra välja peale."
+0663-r,4,,2/4,663. Järva-Madise,P.Penna (110/1),"Peremees, peremehike, perenaine, naisukene."
+0664-r,4,,2/4,664. Järvamaa,Penna-Rosenstrauch (42),"Ära pean mina minema, ära kallis kaduma."
+0665-r,4,,2/4,665. Simuna,Siimer-Rosenstrauch (30),"Mul oli kolmi vennakesta, mul oli kolmi vennakesta."
+0666-r,4,,2/4,"666. Karula, 1877",Lähteenkorva (333),"Kiigu, kiigu, kasva, kasva, kiigu, kiigu, kasva, kasva."
+0667-r,4,,2/4,667. Järvamaa,Penna-Rosenstrauch (60),Nüüd lähme meie minema; meie kodu kaugeella.
+0668-r,4,,2/4,668. Ambla,J.Välbe (189),"Mul oli kolmi vennakesta, kolmi kui ubaivada."
+0669-r,4,,2/4,669. Kadrina,K.Viljak (33),"Nägin neidu kasvamaie, juustetekka tõusemaie."
+0670-r,6,,6/8,670. Ambla,J.Välbe (209),"Kesse meid, kesse meid leidis ja leidis?
+Karu meid, karu meid leidis ja leidis."
+0671-r,2,,6/8,671. Järva-Jaani,Välbe-Martin-Rosenstrauch (12),"Kel ketrad, kel ketrad, neitsikene?"
+0672-r,4,,2/4,672. Kadrina,K.Viljak (47),"Kiigesepad, hellad vennad ..."
+0673-r,4,,2/4,673. Türi,Siimer (97),"Kiigutage kõrgeesse, et mina paistan palju maada."
+0674-r,4,,2/4,674. Järvamaa,Penna-Rosenstrauch (73),Tühi võtku tütarlapsed ...
+0675-r,4,,2/4,675. Ambla,J.Välbe (95),"Oleks minu hääli endiseni, vana hääli vaskiseni."
+0676-r,4,,2/4,676. Koeru,Välbe-Martin-Rosenstrauch (87),"UIe, uie õõnukene, võta minda poisikesta."
+0677-r,8,,2/4,677. Väike-Maarja,P.Penna (210),"Nüüd tuleb, nüüd tuleb, hellad vennad ..."
+0678-r,4,,2/4,678. Järvamaa,Penna-Rosenstrauch (49),"Oleks minu olemine, teiseks minu tegemine."
+0679-r,4,,2/4,679. Ambla,J.Välbe (86),Laske sisse mardisandid: ega see Mart pole maasta võetud.
+0680-r,4,,2/4,680. Ambla,J.Välbe (100),"Ai peremees ja perenaine, need oli kaksi karvatutti."
+0681-r,4,,2/4,681. Järvamaa,Penna-Rosenstrauch (115),"Kikin, vikin, voorin, seerin, komandeerin, taarin jalgu."
+0682-r,4,,2/4,682. Simuna,Siimer-Rosenstrauch (9),"Ära võta pikka naista, pikk läeb parsile magama."
+0683-r,2,,6/8,683. Krimmi,R.Kõhelik (47),"Sili peada, neitsikene."
+0684-r,2,,2/4,684. Järvamaa,Penna-Rosenstrauch (119),Läksin merda pühkimaie.
+0685-r,4,,2/4,685. Järvamaa,Penna-Rosenstrauch (140) b,"Lenda meile, lepatriinu, lepatriinu täpiline."
 0686-r,4,,2/4,686. Jõhvi,,
 0687-r,4,,2/4,687. Jõhvi,,
 0688-r,4,,2/4,688. Koeru,,
@@ -2366,233 +2378,305 @@ E: ma itt san-na sam-be-lis-ta, K: ke-re-se me-re-ki-vis-ta."
 2350-r,4,,2/4,2350. Puhja,,
 2351-r,8,,2/4,2351. ,,
 2352-r,8,,2/4,2352. Kuusalu,,
-2353-r,8,,2/4,2353. Kuusalu,Viljak-Vilberg (26),
-2355-r,8,,2/4,2354. Koeru,J.Sõster (110) [132],
-2356-r,8,,2/4,2355. Kursi ja Võnnu,Välbe-Martin-Rosenstrauch (30),
-2357-r,8,,2/4,2356. Jõhvi,"J.Kärt (12, 13)",
-2358-r,8,,2/4,2357. Jõhvi,Penna-Sildnik (47 a),
-2358-r,8,,2/4,2358. Jõhvi,Penna-Sildnik (45 c),
-2359-r,8,,2/4,2359. Sangaste,A.Kiis (98),
-2360-r,8,,2/4,2360. ,M.Pehka (40),
-2361-r,4,,2/4,2361. Paistu,Aavik-Sakeus (26),
-2362-r,3,,2/4 2/4 3/4,"2362. Kursi, 1880-1890",K.A.Hermann (925),
-2363-r,4,,2/4,"2363. Puhja, 1883",K.A.Hermann (1557 a),
-2364-r,4,,2/4,2364. Paistu,Aavik-Sakeus (27),
-2365-r,10,,2/4,2365. Rõngu,P.Kurg (10),
-2366-r,8,,2/4,2366. Rõngu,P.Kurg (9),
-2367-r,9,,2/4,2367. Rõngu,P.Kurg (24),
-2368-r,8,,2/4,2368. Hargla,J.Aavik (79),
-2369-r,6,,2/4,2369. Rõngu,P.Kurg (76),
-2370-r,4,,2/4,2370. Sangaste,A.Kiis (77),
-2371-r,4,,2/4 2/4 3/4 3/4,2371. Sangaste,A.Kiis (101),
-2372-r,8,,2/4,2372. Kodavere,K.A.Hermann (1061),
-2373-r,4,,2/4,"2373. Vastseliina, 1877",Lähteenkorva (294),
-2374-r,8,,2/4,2374. Sangaste,A.Kiis (102),
-2375-r,4,,2/4,2375. Kolga-Jaani,Simm-Reisik (25),
-2376-r,4,,2/4,2376. Peetri,Viljak-Rosenstrauch (2),
-2377-r,4,,2/4,2377. Sangaste,A.Kiis (76),
-2378-r,8,,2/4,2378. Häädemeeste,K.A.Hermann (1154),
-2379-r,4,,2/4,2379. Lutsi,O.Kallas (12),
-2380-r,4,,2/4,2380. Hargla,J.Aavik (75),
-2381-r,6,,2/4,2381. Sangaste,A.Kiis (75),
-2382-r,4,,2/4,2382. Türi,Siimer (19 b),
-2383-r,4,,2/4,2383. Kolga-Jaani,Tiedt (4),
-2384-r,4,,2/4,2384. Sangaste,A.Kiis (63),
-2385-r,10,,2/4,2385. Kambja,P.Kurg (60),
-2386-r,4,,2/4 2/4 3/4 2/4,2386. Võru,Miina Hermann (15 b),
-2387-r,4,,2/4 2/4 5/8 2/4,2387. Pilistvere,Saar-Siimer (2),
-2388-r,12,,2/4,2388. ,K.A.Hermann (236 d),
-2389-r,4,,2/4 2/4 3/4 3/4,2389. Pilistvere,Saar-Siimer (3 a),
-2390-r,4,,2/4 2/4 3/4 3/4,2390. Pilistvere,Saar-Siimer (3 b),
-2391-r,8,,2/4,2391. Rõngu,P.Kurg (12),
-2392-r,6,,2/4,2392. ,K.A.Hermann (1291 b),
-2393-r,4,,3/8 2/4 2/4 2/4,2393. Torma,K.A.Hermann (398),
-2394-r,4,,2/4,2394. Rõuge,Miina Hermann (22),
-2395-r,4,,2/4,2395. Sangaste,A.Kiis (108),
-2396-r,4,,5/8 3/4 2/4 2/4,2396. Otepää,Kiis-Eisenschmidt (61),
-2397-r,4,,2/4,2397. Kolga-Jaani,Simm-Reisik (58),
-2398-r,4,,2/4 2/4 3/4 3/4,2398. Pilistvere,Saar-Siimer (60),
-2399-r,12,,2/4,2399. Põltsamaa,Siiak-Einer (19),
-2400-r,4,,2/4,2400. Sangaste,A.Kiis (71),
-2401-r,4,,2/4 2/4 3/4 3/4,2401. Pilistvere,Saar-Siimer (73),
-2402-r,4,,2/4,2402. Lutsi,O.Kallas (5),
-2403-r,4,,2/4,2403. Kolga-Jaani,Simm-Reisik (34),
-2404-r,4,,2/4,2404. ,M.Pehka (44),
-2405-r,4,,2/4,2405. ,M.Pehka (62),
-2406-r,4,,2/4 2/4 3/4 3/4,2406. Maarja-Magdaleena,Välbe-Sulg (20),
-2407-r,6,,2/4,2407. Rõngu,P.Kurg (73),
-2408-r,4,,2/4,2408. ,M.Pehka (15),
-2409-r,4,,2/4,2409. ,M.Pehka (41),
-2410-r,4,,2/4,2410. Karula,A.Kiis (43),
-2411-r,4,,2/4,2411. ,M.Pehka (72),
-2412-r,8,,2/4,2412. ,M.Pehka (82),
-2413-r,8,,2/4,2413. Kanepi,P.Tatz (9),
-2414-r,4,,2/4,2414. Karula,A.Kiis (24),
-2415-r,4,,2/4,2415. Võrumaa,A.Sibul (9),
-2416-r,5,,2/4,"2416. Rõuge, 1889",K.A.Hermann (251),
-2417-r,8,,2/4,2417. Otepää,Kiis-Eisenschmidt (1),
-2418-r,4,,2/4,2418. Lutsi,O.Kallas (1),
-2419-r,4,,2/4,2419. Võru,Miina Hermann (15 a),
-2420-r,4,,2/4 2/4 3/4 3/4,2420. Pilistvere,Saar-Siimer (65),
-2421-r,8,,2/4,2421. Alatskivi,Liiv-Raja (63),
-2422-r,6,,2/4,2422. Torma,K.A.Hermann (422),
-2423-r,4,,2/4,2423. Kambja,P.Kurg (106),
-2424-r,6,,2/4,2424. ,K.A.Hermann (1291 a),
-2425-r,3,,2/4 2/2 5/4,2425. ,K.A.Hermann (1294),
-2426-r,4,,2/4,2426. Kambja,P.Kurg (61),
-2427-r,4,,2/4,2427. Otepää,Kiis-Eisenschmidt (69),
-2428-r,4,,2/4 2/4 3/4 3/4,2428. Rõngu,P.Kurg (117),
-2429-r,8,,2/4,2429. Setumaa,S.Lindpere (125),
-2430-r,4,,2/4,2430. Räpina,Sibul (7),
-2431-r,8,,2/4,2431. Rõuge,"Miina Hermann (2 a, b)",
-2432-r,4,,2/4,2432. Laiuse,Välbe-Sulg (62),
-2433-r,4,,2/4,2433. Paistu,P.Kurg (2),
-2434-r,4,,2/4,2434. Paistu,Aavik-Sakeus (20),
-2435-r,4,,2/4,"2435. Paistu, 1877",Lähteenkorva (348),
-2436-r,8,,2/4 2/4 3/8 2/4 2/4 2/4 2/4 2/4,2436. Sangaste,A.Kiis (111),
-2437-r,8,,2/4 2/4 3/4 3/4 2/4 2/4 3/4 3/4,2437. Maarja-Magdaleena,Välbe-Sulg (14),
-2438-r,3,,2/4,2438. Lutsi,O.Kallas (8),
-2439-r,8,,2/4,2439. Tartu-Maarja,P.Kurg (92),
-2440-r,4,,2/4,"2440. Rõuge, 1909",J.Gutves (37),
-2441-r,4,,2/4,2441. Räpina,S.Lindpere (104),
-2442-r,4,,2/4,2442. Kodavere,Liiv-Raja (50),
-2443-r,4,,2/4,2443. Tartu-Maarja,Liiv-Raja (54),
-2444-r,5,,2/4,2444. Karula,A.Kiis (22),
-2445-r,8,,2/4,2445. Helme,K.Ruut,
-2446-r,4,,2/4 2/4 3/4 3/4,2446. Sangaste,A.Kiis (83),
-2447-r,4,,2/4 2/4 3/8 2/4,"2447. Võru Karula, 1877",Lähteenkorva (33),
-2448-r,4,,2/4,2448. Otepää,Kiis-Eisenschmidt (34),
-2449-r,4,,2/4,2449. Järvamaa,Penna-Rosenstrauch (125),
-2450-r,4,,2/4,2450. Sangaste,A.Kiis (89),
-2451-r,4,,2/4,2451. Järvamaa,Penna-Rosenstrauch (134),
-2452-r,4,,2/4 2/4 3/4 3/4,2452. Pilistvere,Saar-Siimer (76),
-2453-r,4,,2/4 2/4 3/4 3/4,2453. Rõngu,P.Kurg (8),
-2454-r,4,,2/4,2454. Põltsamaa,K.A.Hermann (141),
-2455-r,8,,2/4,2455. Otepää,K.A.Hermann (846),
-2456-r,4,,2/4,2456. Otepää,Kiis-Eisenschmidt (46),
-2457-r,8,,2/4,2457. Otepää,Kiis-Eisenschmidt (75),
-2458-r,4,,2/4,2458. Türi,Siimer (14),
-2459-r,8,,2/4,2459. Helme,K.Ruut (29),
-2460-r,8,,2/4,2460. Vastseliina,S.Lindpere (1 a),
-2461-r,4,,2/4,2461. Põltsamaa,Lähteenkorva (356),
-2462-r,4,,2/4 2/4 3/4 3/4,2462. Kodavere,Liiv-Raja (83),
-2463-r,4,,2/4,2463. Otepää,Kiis-Eisenschmidt (26),
-2464-r,6,,2/4,2464. Puhja,Pehka-Eisenschmidt (9),
-2465-r,6,,2/4,2465. ,M.Pehka (3),
-2466-r,4,,2/4,2466. Kodavere,Liiv-Raja (38),
-2467-r,4,,2/4,2467. Kodavere,Liiv-Raja (39),
-2468-r,6,,2/4,"2468. Kolga-Jaani, 1894",K.A.Hermann (646),
-2469-r,4,,2/4,2469. Kodavere,Liiv-Raja (92),
-2470-r,4,1/8,2/4,2470. Rõngu,P.Kurg (7),
-2471-r,8,,2/4,2471. ,M.Pehka (80),
-2472-r,8,,2/4,2472. Otepää,Kiis-Eisenschmidt (114),
-2473-r,8,,2/4,2473. Vastseliina,S.Lindpere (1 b),
-2474-r,8,,2/4,2474. Setumaa,S.Lindpere (128),
-2475-r,8,,2/4,2475. Otepää,Kiis-Eisenschmidt (120),
-2476-r,6,,2/4,2476. ,K.A.Hermann (8),
-2477-r,4,,2/4,2477. Otepää,Kiis-Eisenschmidt (49),
-2478-r,6,,2/4,2478. Kodavere,Liiv-Raja (28),
-2479-r,3,,2/4,2479. ,K.A.Hermann (1955),
-2480-r,4,,2/4,2480. Paistu,Aavik-Sakeus (13),
-2481-r,8,,2/4,2481. Lutsi,O.Kallas (3),
-2482-r,4,,2/4,2482. Kodavere,Liiv-Raja (3),
-2483-r,4,,2/4,2483. Kodavere,Liiv-Raja (5),
-2484-r,4,,2/4,2484. ,K.A.Hermann (1202),
-2485-r,4,,2/4,2485. ,K.A.Hermann (737),
-2486-r,4,,2/4,2486. Rakvere,Elken-Rosenstrauch (27),
-2487-r,8,,2/4,2487. Hargla,Aavik (92),
-2488-r,8,,2/4,2488. Otepää,Kiis-Eisenschmidt (91),
-2489-r,12,,2/4,2489. Simuna,Siimer-Rosenstrauch (44),
-2490-r,12,,2/4,2490. Simuna,Siimer-Rosenstrauch (47),
-2491-r,8,,2/4,2491. ,K.A.Hermann (2221),
-2492-r,8,,2/4,2492. Audru,K.A.Hermann (1176),
-2493-r,16,,2/4,2493. ,"K.A.Hermann (982 a, c)",
-2494-r,5,,2/4,2494. ,J.Sõster (53) [85],
-2495-r,5,,2/4,2495. Hargla,K.A.Hermann (52),
-2496-r,6,,2/4,2496. Paistu,Ruubel-Kõrnitse (2),
-2497-r,5,,2/4,2497. Lääne-Nigula,C.Kreek (5),
-2498-r,8,,2/4 5/8 2/4 2/4,2498. Rõuge,J.Gutves (119),
-2499-r,5,,2/4,2499. Saarde,Martin-Tatz (133),
-2500-r,4,,2/4 2/4 3/4 3/4,2500. Pilistvere,Saar-Siimer (54),
-2501-r,7,,2/4,2501. ,K.A.Hermann (2278),
-2502-r,4,,2/4 2/4 3/4 3/4,2502. Koeru,Välbe-Martin-Rosenstrauch (52),
-2503-r,8,,2/4,2503. Simuna,Siimer-Rosenstrauch (46),
-2504-r,8,,2/4,2504. ,K.A.Hermann (2215),
-2505-r,8,,2/4,2505. Audru,K.A.Hermann (1182),
-2506-r,5,,5/4 2/4 2/4 2/4 2/4,2506. ,K.A.Hermann (767),
-2507-r,7,,2/4,2507. Võrumaa,A.Sibul (85),
-2508-r,28,,2/4,2508. Helme,K.Ruut (25),
-2509-r,4,,3/4,2509. Puhja,Pehka-Eisenschmidt (45),
-2510-r,4,,3/4,2510. Paistu,P.Kurg (102),
-2511-r,5,,3/4,2511. Ambla,J.Välbe (140),
-2512-r,4,,3/4,2512. Puhja,Pehka-Eisenschmidt (53),
-2513-r,8,,2/4,2513. Räpina,S.Lindpere (98),
-2514-r,8,,2/4,2514. Vastseliina,Miina Hermann (35 c),
-2515-r,8,,2/4,2515. Avinurme,M.Sild (18),
-2516-r,4,,2/4,2516. Võrumaa,A.Sibul (83),
-2517-r,6,,2/4,2517. ,M.Pehka (58),
-2518-r,8,,2/4,2518. Setumaa,S.Lindpere (122),
-2519-r,8,,2/4,2519. Vastseliina,Miina Hermann (35 b),
-2520-r,4,,2/4,2520. Võrumaa,A.Sibul (84),
-2521-r,6,,2/4,2521. Pärnu ja Tori,Tatz-Sildnik (40),
-2522-r,4,,2/4,2522. Ridala,Kreek-Mudda (58),
-2523-r,6,,2/4,2523. Vändra,P.Kurg (35),
-2524-r,8,,2/4,2524. ,K.A.Hermann (706),
-2525-r,8,,2/4,2525. Tartumaa,"K.A.Hermann (297, 512, 910 b, 1043)",
-2526-r,8,,2/4,2526. ,K.A.Hermann (1369),
-2527-r,8,,2/4,"2527. Karula, 1888",K.A.Hermann (1336),
-2528-r,8,,2/4,2528. ,K.A.Hermann (1548),
-2529-r,8,,2/4,2529. Helme,K.Ruut (11),
-2530-r,8,,2/4,2530. Krimmi,R.Kõhelik (54),
-2531-r,7,,2/4,2531. ,K.A.Hermann (1256),
-2532-r,8,,2/4,2532. Martna,C.Kreek (2),
-2533-r,8,,2/4,2533. ,K.A.Hermann (910 a),
-2534-r,8,,2/4,2534. Halliste,Ruubel-Kõrnitse (89),
-2535-r,8,,2/4,2535. Kose,K.Viljak (7),
-2536-r,8,,2/4,2536. ,Pillesson (473),
-2537-r,10,,2/4,2537. Lääne-Nigula,C.Kreek (1),
-2538-r,8,,2/4,2538. Koeru,M.Sõster (9),
-2539-r,12,,2/4,2539. ,J.Sõster (18) [40],
-2540-r,4,1/8,2/4,2540. Kadrina,K.Viljak (15),
-2541-r,4,1/8,2/4,2541. Harju-Jaani,Viljak-Vilberg (4),
-2542-r,8,,2/4,"2542. Vändra, 1873",K.A.Hermann (572),
-2543-r,8,,2/4,2543. ,J.Sõster (111) [133],
-2544-r,8,,2/4,2544. Karula,A.Kiis (61),
-2545-r,8,,2/4,2545. ,A.Sibul (4),
-2546-r,8,,2/4,2546. ,A.Thomson (5),
-2547-r,4,,2/4,2547. Võrumaa,A.Sibul (5),
-2548-r,8,,2/4,2548. Vastseliina,"S.Lindpere (4 a, b)",
-2549-r,9,,2/4,"2549. Räpina, 1888",K.A.Hermann (1412),
-2550-r,16,,2/4,2550. ,J.Sõster (5) [27],
-2551-r,6,,2/4,2551. ,M.Pehka (83),
-2552-r,8,,2/4,2552. Pärnu-Häädemeeste,Martin-Johanson (11),
-2553-r,8,,2/4,2553. Setumaa,S.Lindpere (118),
-2554-r,8,,2/4,2554. Vastseliina,Miina Hermann (33),
-2555-r,8,,2/4,2555. Pärnu ja Häädemeeste,Martin-Johanson (13),
-2556-r,12,,2/4,2556. Põltsamaa,Siiak-Einer (14),
-2557-r,12,,2/4,2557. Koeru ja Järva-Jaani,Martin-Rosenstrauch (241),
-2558-r,6,,5/4 5/4 2/4 2/4 2/4 2/4,2558. Otepää,Kiis-Eisenschmidt (82),
-2559-r,6,,5/4 5/4 2/4 2/4 2/4 2/4,"2559. Kanepi, 1879",Orav (30),
-2560-r,7,,5/4 5/4 2/4 2/4 2/4 2/4 2/4,2560. Räpina,S.Lindpere (78),
-2561-r,8,,5/4 5/4 2/4 2/4 2/4 2/4 2/4 3/4,"2561. Krantsova, 1877",Lähteenkorva (262),
-2562-r,8,,3/4,2562. Tarvastu,J.Müür (33),
-2563-r,8,,3/4,2563. Alatskivi,Liiv-Raja (64),
-2564-r,7,,3/4,2564. Kuusalu,Viljak-Vilberg (9),
-2565-r,4,,3/4,2565. Järva-Madise,P.Penna (85/5),
-2566-r,8,,3/4,2566. Järvamaa,Penna-Rosenstrauch (157),
-2567-r,8,,3/4,2567. Harju- ja Järvamaa,K.A.Hermann (186),
-2568-r,4,,3/4,2568. Järvamaa,Penna-Rosenstrauch (126),
-2569-r,8,,3/4,2569. Krimmi,R.Kõhelik (1),
-2568-e,4,,3/4,2568. Simuna,Siimer-Rosenstrauch (14),
-2569-e,4,,3/4,2569. Laiuse ja Simuna,Viljak-Rosenstrauch (3),
-2570-r,4,,3/4,2570. Koeru,Välbe-Martin-Rosenstrauch (10),
-2571-r,4,,3/4,2571. Väike-Maarja,P.Penna (168),
-2572-r,8,,3/4,2572. Türi,Siimer (45),
-2573-r,8,,3/4,2573. Maarja-Magdaleena,Välbe-Sulg (37),
-2574-r,4,,3/4,2574. Järvamaa,Penna-Rosenstrauch (38),
-2575-r,4,,3/4,2575. Järvamaa,Penna-Rosenstrauch (151),
-2576-r,4,,3/4,2576. Järvamaa,Penna-Rosenstrauch (155 a),
-2577-r,4,,3/4,2577. Ambla,J.Välbe (119),
-2578-r,10,,2/4,2578. Võru,Miina Hermann (9),
-2579-r,11,,2/4,2579. Kambja,P.Tatz (27),
-2580-r,7,,2/4,2580. Võrumaa,A.Sibul (98),
+2353-r,8,,2/4,2353. Kuusalu,Viljak-Vilberg (26),"Sõitsin, sõitsin, sõitsin, sõitsin Soome silda,
+sõitsin Soome, sõitsin Soome silda mööda."
+2355-r,8,,2/4,2354. Koeru,J.Sõster (110) [132],"Läksin metsa, läksin metsa kõndimaie,
+läksin metsa, läksin metsa kõndimaie..."
+2356-r,8,,2/4,2355. Kursi ja Võnnu,Välbe-Martin-Rosenstrauch (30),"Jõgi jooksis, jõgi jooksis kalda alta, 
+kalad kuldsed, kalad kuldsed jõessa."
+2357-r,8,,2/4,2356. Jõhvi,"J.Kärt (12, 13)","Kes teind õlle, kes teind õlle mekki mööda,
+kes teind õlle, kes teind õlle mekki mööda?"
+2358-r,8,,2/4,2357. Jõhvi,Penna-Sildnik (47 a),Mina hõiskan aia tagant ...
+2358-r,8,,2/4,2358. Jõhvi,Penna-Sildnik (45 c),Laske sisse mardisandid ilma viisita...
+2359-r,8,,2/4,2359. Sangaste,A.Kiis (98),"Ol' mul ütsi, ol' mul ütsi tütrekene, ol' mul ütsi, ol' mul ütsi tütreke."
+2360-r,8,,2/4,2360. ,M.Pehka (40),". . . . . . . . . . kaske, kaske, . . . . . . . . kaske, kaske."
+2361-r,4,,2/4,2361. Paistu,Aavik-Sakeus (26),"E: Mis pane mina padaje, kiege, kaage?"
+2362-r,3,,2/4 2/4 3/4,"2362. Kursi, 1880-1890",K.A.Hermann (925), 
+2363-r,4,,2/4,"2363. Puhja, 1883",K.A.Hermann (1557 a),"Kust see noorik välja tulnud, kaasike, kaanike?"
+2364-r,4,,2/4,2364. Paistu,Aavik-Sakeus (27),"Neiukese noorekese, üleeslesles."
+2365-r,10,,2/4,2365. Rõngu,P.Kurg (10),"E: Teele, teele, hällikõne, kiits kääts, kiits kääts, kiigäle, 
+K: teele, teele, hällikõne, kiits kääts, kiigäle."
+2366-r,8,,2/4,2366. Rõngu,P.Kurg (9),"E: Teele, teele, hällikõne, kiigäle, 
+K: teele, teele, hällikõne, kiigäle."
+2367-r,9,,2/4,2367. Rõngu,P.Kurg (24),"E: Leikari meile tuleva, kaske, kannike.
+K: Laidus, laidus, vana äi, laidus, laidus, vana ämm."
+2368-r,8,,2/4,2368. Hargla,J.Aavik (79),"E: Tule, tule, tule appi, tuta luta:
+K: ära viias härjapaari, tuta luta."
+2369-r,6,,2/4,2369. Rõngu,P.Kurg (76),"E: Teele, teele, hällikõne, kiigäle, kiigäle."
+2370-r,4,,2/4,2370. Sangaste,A.Kiis (77),"Kos sa sõidad, kurekene, tsirku, nirku?"
+2371-r,4,,2/4 2/4 3/4 3/4,2371. Sangaste,A.Kiis (101),"Jaanikene hellakene, kaske, kanike."
+2372-r,8,,2/4,2372. Kodavere,K.A.Hermann (1061),"E: Kesse minu ära tappis, kuku, kuku? K: Isa minu ära tappis, kuku kuku."
+2373-r,4,,2/4,"2373. Vastseliina, 1877",Lähteenkorva (294),"Ni pikas mi linakõnõ, liugle, laugle."
+2374-r,8,,2/4,2374. Sangaste,A.Kiis (102),"Kubijas mu kullakene, õllale, õllale,
+kubijas mu kullakene, õllale, õllale."
+2375-r,4,,2/4,2375. Kolga-Jaani,Simm-Reisik (25), 
+2376-r,4,,2/4,2376. Peetri,Viljak-Rosenstrauch (2),"Tulge kiike, külanaised, Jaanike, Jaaniste."
+2377-r,4,,2/4,2377. Sangaste,A.Kiis (76),"Tere, tere, tere, tere, sikukene."
+2378-r,8,,2/4,2378. Häädemeeste,K.A.Hermann (1154), 
+2379-r,4,,2/4,2379. Lutsi,O.Kallas (12),"Ljää ma suure mäe otsa, lele lelelele."
+2380-r,4,,2/4,2380. Hargla,J.Aavik (75),"E: Kas te näide vargaJaani, lellepuu, lellepuu,
+K: kiviaia kiskujada, lellepuu, lellepuu?"
+2381-r,6,,2/4,2381. Sangaste,A.Kiis (75),"Mis ne kulli siia otsva? Kuus, kuus kullile, kuus kulli pojale."
+2382-r,4,,2/4,2382. Türi,Siimer (19 b),"E: Põgene, p'ldu, põgene, üleeslesles."
+2383-r,4,,2/4,2383. Kolga-Jaani,Tiedt (4),"Kuulsin kodu kopsitava, kõrr, kõrr, kõmm, kõmm."
+2384-r,4,,2/4,2384. Sangaste,A.Kiis (63),"Tere, tere, tere, tere, sikukene!"
+2385-r,10,,2/4,2385. Kambja,P.Kurg (60),"E: Lätsi mina läbi külä, kuku, kuku, kuku,
+K: lätsi mina läbi külä, kuku, kuku, kuku."
+2386-r,4,,2/4 2/4 3/4 2/4,2386. Võru,Miina Hermann (15 b),"Lõpe, põldu, lõpe, põldu, lõõrile, lõõrile."
+2387-r,4,,2/4 2/4 5/8 2/4,2387. Pilistvere,Saar-Siimer (2),"Hansukene poisikene, kaasike ja kaanike."
+2388-r,12,,2/4,2388. ,K.A.Hermann (236 d),"E: Sööge, langud, jooge, langud, kaasike, kaasike,
+K: ärge, langud, põue pistke, kaasike, kaasike! "
+2389-r,4,,2/4 2/4 3/4 3/4,2389. Pilistvere,Saar-Siimer (3 a),"E: Tere, tuba kuldakirja, kaasike, kaanike."
+2390-r,4,,2/4 2/4 3/4 3/4,2390. Pilistvere,Saar-Siimer (3 b),"Tere, tuba kuldakirja, kaasike, kaanike."
+2391-r,8,,2/4,2391. Rõngu,P.Kurg (12),"E: Veeri, veeri, päiväkõne, õllele,
+K: veeri, veeri, päiväkõne, õllele."
+2392-r,6,,2/4,2392. ,K.A.Hermann (1291 b),"Lõpele, lõõrile! Kui ei lõpe, siia jätä, lõpele, lõõrile!"
+2393-r,4,,3/8 2/4 2/4 2/4,2393. Torma,K.A.Hermann (398),"Isa mind ära tappis, kuku, kuku."
+2394-r,4,,2/4,2394. Rõuge,Miina Hermann (22),"Olin uma esä kotun, kaske, kanke..."
+2395-r,4,,2/4,2395. Sangaste,A.Kiis (108),"Ärä läävä halli päävä, atee akanke..."
+2396-r,4,,5/8 3/4 2/4 2/4,2396. Otepää,Kiis-Eisenschmidt (61),"Kes jäi põllule põdema, ee pääle hingama?"
+2397-r,4,,2/4,2397. Kolga-Jaani,Simm-Reisik (58),"Läksin külla kiikemaie, kiike, jälle..."
+2398-r,4,,2/4 2/4 3/4 3/4,2398. Pilistvere,Saar-Siimer (60),"Mis mina lõikan, see mina köidan, elele, elele."
+2399-r,12,,2/4,2399. Põltsamaa,Siiak-Einer (19),"Oh, seda ilust ihukesta, kaasike, kaanike!"
+2400-r,4,,2/4,2400. Sangaste,A.Kiis (71),"Maga, maga, marjakene, etee akanke!"
+2401-r,4,,2/4 2/4 3/4 3/4,2401. Pilistvere,Saar-Siimer (73),"Langukesed linnukesed, kaasike, kaanike..."
+2402-r,4,,2/4,2402. Lutsi,O.Kallas (5),"Hällü, hällü, hällükese, häde eiu kuku..."
+2403-r,4,,2/4,2403. Kolga-Jaani,Simm-Reisik (34),"Tulge jaanikutulele, Jaanike, Jaanike!"
+2404-r,4,,2/4,2404. ,M.Pehka (44),"Tütrekene neiukene, kaske, kanke..."
+2405-r,4,,2/4,2405. ,M.Pehka (62),"Leenakene sõsarakene, kaske, kanke..."
+2406-r,4,,2/4 2/4 3/4 3/4,2406. Maarja-Magdaleena,Välbe-Sulg (20),"Mõni läeb metsasta mehele, kaasike, kaanike."
+2407-r,6,,2/4,2407. Rõngu,P.Kurg (73),"E: Istume, istume ilumäela, K: ilu istus meil ikkena."
+2408-r,4,,2/4,2408. ,M.Pehka (15),"Tulge siia, küla latse, kiigele!"
+2409-r,4,,2/4,2409. ,M.Pehka (41),"Jaanikene vellekene, kaske, kanke..."
+2410-r,4,,2/4,2410. Karula,A.Kiis (43),"Pereneine naisukene, Märti, Märti..."
+2411-r,4,,2/4,2411. ,M.Pehka (72),"Laske sisse märdisandi, Märti, santi!"
+2412-r,8,,2/4,2412. ,M.Pehka (82),"Mina annan annikõsõ, talgus, talgus, 
+tibutillu luisukõsõ, talgus, talgus."
+2413-r,8,,2/4,2413. Kanepi,P.Tatz (9),". . . . . . . . . . kaske, kanke, . . . . . . . . kaske, kanke."
+2414-r,4,,2/4,2414. Karula,A.Kiis (24),"Kes tõi sõjasõnume, kaske, kanke?"
+2415-r,4,,2/4,2415. Võrumaa,A.Sibul (9),"Laske sisse märdisandi, Märti, santi..."
+2416-r,5,,2/4,"2416. Rõuge, 1889",K.A.Hermann (251),"Kelle see talos nii tasane, talos, talos?"
+2417-r,8,,2/4,2417. Otepää,Kiis-Eisenschmidt (1),"E: Küla ütel: küta naist, kaske, kannike!
+K: Talu ütel: tapa naist, kaske, kannike!"
+2418-r,4,,2/4,2418. Lutsi,O.Kallas (1),"Tule use' nagu see imä, kaskee, kankee..."
+2419-r,4,,2/4,2419. Võru,Miina Hermann (15 a),"Lõpe, lõpe, põllukene..."
+2420-r,4,,2/4 2/4 3/4 3/4,2420. Pilistvere,Saar-Siimer (65),"Hellakene vennakene, kaasike, kaanike..."
+2421-r,8,,2/4,2421. Alatskivi,Liiv-Raja (63),"E: Neiukene noorekene, kaasike, kaanike,
+K: Neiukene noorekene, kaasike, kaanike."
+2422-r,6,,2/4,2422. Torma,K.A.Hermann (422),"Marti, santi... Ei ole Marti maasta tulnud, Marti, santi..."
+2423-r,4,,2/4,2423. Kambja,P.Kurg (106),"Kelle sii talus tasane, talgu, talgu?"
+2424-r,6,,2/4,2424. ,K.A.Hermann (1291 a), 
+2425-r,3,,2/4 2/2 5/4,2425. ,K.A.Hermann (1294),"Hää veli hällü tennu, hää dü hää koiku..."
+2426-r,4,,2/4,2426. Kambja,P.Kurg (61),"Veeri, veeri, päiväkõne, ellervo, ellervo."
+2427-r,4,,2/4,2427. Otepää,Kiis-Eisenschmidt (69),"Aja otsa eekene, lõpele, lõpele."
+2428-r,4,,2/4 2/4 3/4 3/4,2428. Rõngu,P.Kurg (117),"Veeri, veeri, päevakene, ellervo, ellervo."
+2429-r,8,,2/4,2429. Setumaa,S.Lindpere (125),"E: Laske sisse kadrinad, kadriko, kadriko,
+K: Laske sisse kadrinad, kadriko, kadriko!"
+2430-r,4,,2/4,2430. Räpina,Sibul (7),"Laske sisse märdisandi, Märti, santi!"
+2431-r,8,,2/4,2431. Rõuge,"Miina Hermann (2 a, b)","E: Mille poisi meida põlke, kaske, kanke,
+K: külanaise näägutele, kaske, kanke?"
+2432-r,4,,2/4,2432. Laiuse,Välbe-Sulg (62),"Meie kaksi vaesta lasta, hellele... "
+2433-r,4,,2/4,2433. Paistu,P.Kurg (2),"On see meesi, mis minule, kaske, kanike?"
+2434-r,4,,2/4,2434. Paistu,Aavik-Sakeus (20),"Liigu, liigu, linnukeine, liiva laeva."
+2435-r,4,,2/4,"2435. Paistu, 1877",Lähteenkorva (348),"Veli kasvati sõsara, kaasike, kaasike..."
+2436-r,8,,2/4 2/4 3/8 2/4 2/4 2/4 2/4 2/4,2436. Sangaste,A.Kiis (111),"Lätsi mina metsa lina kakma, joeda, 
+lina kakma, joeda, allelaa, lina kakma jo."
+2437-r,8,,2/4 2/4 3/4 3/4 2/4 2/4 3/4 3/4,2437. Maarja-Magdaleena,Välbe-Sulg (14),"E: pika piiraku tegija, kaasike, kaanike."
+2438-r,3,,2/4,2438. Lutsi,O.Kallas (8),"Võta minu mehele, Miku kuku!"
+2439-r,8,,2/4,2439. Tartu-Maarja,P.Kurg (92),"E: Võtsin naise noorukese, ei jah, ei,
+K: Võtsin naise noorukese, ei jah, ei."
+2440-r,4,,2/4,"2440. Rõuge, 1909",J.Gutves (37),"Vana tüdruk raudahammas, ai jaa ai jaa..."
+2441-r,4,,2/4,2441. Räpina,S.Lindpere (104),"Kes läts kesvi põimimaie, tseio, leio?"
+2442-r,4,,2/4,2442. Kodavere,Liiv-Raja (50),"Lõpe, lõpe, põllukene, äigake, lõigake!"
+2443-r,4,,2/4,2443. Tartu-Maarja,Liiv-Raja (54),"Laske sisse märdisandi, Märti, Märti!"
+2444-r,5,,2/4,2444. Karula,A.Kiis (22),"Lina kakken likes saie, joeda, joeda, likes saie jo."
+2445-r,8,,2/4,2445. Helme,K.Ruut,"Lina kakken likes saie, joeda, joeda, alamb töö,
+likes saie jo, likes saie jo."
+2446-r,4,,2/4 2/4 3/4 3/4,2446. Sangaste,A.Kiis (83),"Lina kakken likes saie, joeda ale jo, likes saie jo."
+2447-r,4,,2/4 2/4 3/8 2/4,"2447. Võru Karula, 1877",Lähteenkorva (33),"E: Lõpe otsa, põllukene, ülees,les,les!"
+2448-r,4,,2/4,2448. Otepää,Kiis-Eisenschmidt (34),"Tule, mahe Marikene, lillipo, hellaro!"
+2449-r,4,,2/4,2449. Järvamaa,Penna-Rosenstrauch (125),"Kust oli toodud meie kiike, Jaanike, Jaaniste?"
+2450-r,4,,2/4,2450. Sangaste,A.Kiis (89),"Küla veli hää veli, ä kakee!"
+2451-r,4,,2/4,2451. Järvamaa,Penna-Rosenstrauch (134),"Kiigesepad, hellad vennad, Jaanike, Jaanike!"
+2452-r,4,,2/4 2/4 3/4 3/4,2452. Pilistvere,Saar-Siimer (76),"See põle meie peiu süüdi, kaasike, kaanike..."
+2453-r,4,,2/4 2/4 3/4 3/4,2453. Rõngu,P.Kurg (8),"Läämi laande kuhja luuma! Hainale kullale, kullale!"
+2454-r,4,,2/4,2454. Põltsamaa,K.A.Hermann (141),"Kõpe, lõpe, põllukene, helele, helele!"
+2455-r,8,,2/4,2455. Otepää,K.A.Hermann (846),". . . . . . . . lõpele, lõpele, . . . . . . . . lõpele, lõpele."
+2456-r,4,,2/4,2456. Otepää,Kiis-Eisenschmidt (46),"Lõpe, lõpe, põllukene, lõpele, lõpele!"
+2457-r,8,,2/4,2457. Otepää,Kiis-Eisenschmidt (75),"E: Veeren ootva velle noore, lõpele, lõpele,
+K: otsan ootva me omatse, lõpele, lõpele."
+2458-r,4,,2/4,2458. Türi,Siimer (14),"Peremees, peremehike, kaasike, kaasike..."
+2459-r,8,,2/4,2459. Helme,K.Ruut (29),"Oh, minu härtu härräkene, kaske, 
+kuldarooni rovvakene, kaske! "
+2460-r,8,,2/4,2460. Vastseliina,S.Lindpere (1 a),"E: Kield õks esä, kield õks imä, kield viis vellukestä.
+K: Lelo õks lelo, lelo, lelo, leo, lelo."
+2461-r,4,,2/4,2461. Põltsamaa,Lähteenkorva (356),"Kui viidi tütar kodusta, kaasike, kaasike,
+siis viidi ilo toasta, kaasike, kaasike."
+2462-r,4,,2/4 2/4 3/4 3/4,2462. Kodavere,Liiv-Raja (83),"Tulge jaanikutulele, saaniko, jaaniko!"
+2463-r,4,,2/4,2463. Otepää,Kiis-Eisenschmidt (26),"Lätsi mina, lätsi mina kosjavalda..."
+2464-r,6,,2/4,2464. Puhja,Pehka-Eisenschmidt (9),"Kaske, kanike! tuudi kui turvas talule, kaske."
+2465-r,6,,2/4,2465. ,M.Pehka (3),"Kaske, kanke! Ära viias hää latse, kudu jääse kusijanna."
+2466-r,4,,2/4,2466. Kodavere,Liiv-Raja (38),"E: Lõpe, lõpe, põllukene, õigake, lõigake..."
+2467-r,4,,2/4,2467. Kodavere,Liiv-Raja (39),"Laske sisse märdisandid, Märti, santi!"
+2468-r,6,,2/4,"2468. Kolga-Jaani, 1894",K.A.Hermann (646), 
+2469-r,4,,2/4,2469. Kodavere,Liiv-Raja (92),"Nuta, nukku, nuutsu, nukku, nukku, nukku..."
+2470-r,4,1/8,2/4,2470. Rõngu,P.Kurg (7),"Kas ikva koduse naise, kaske, kanike?"
+2471-r,8,,2/4,2471. ,M.Pehka (80),"Kas mass mi vaiva, kaske, kanke, 
+vai mi meeste vaiva, kaske, kanke?"
+2472-r,8,,2/4,2472. Otepää,Kiis-Eisenschmidt (114),"E: Tule mulle, näiokene, kaske, kaske,
+K: tule mulle, noorekene, kaske, kaske!"
+2473-r,8,,2/4,2473. Vastseliina,S.Lindpere (1 b),"E: Tuli üles, tuli üles hummogulta,
+K: lelo õks lelo, lelo lelo, lelo lelo."
+2474-r,8,,2/4,2474. Setumaa,S.Lindpere (128),"E: Sepp, sepp, hüdsekott, ailila, K: sepp, sepp, hüdsekott, ailila.
+E: Sepa naine lõõtsanahk, ailila, sepa naine lõõtsanahk, ailila."
+2475-r,8,,2/4,2475. Otepää,Kiis-Eisenschmidt (120),"E: Nüüd on turvas talule toodu, kaske, kaske,
+K: pantu ku padu paigale, kaske, kaske."
+2476-r,6,,2/4,2476. ,K.A.Hermann (8),"Liigu, Riia linnakene, liigu, Riia linnakene, elleruu, elleruu."
+2477-r,4,,2/4,2477. Otepää,Kiis-Eisenschmidt (49),"Laske sisse märdisandid, Märti, santi."
+2478-r,6,,2/4,2478. Kodavere,Liiv-Raja (28),"Härjad ägasid sarvida, kigele, kiigele."
+2479-r,3,,2/4,2479. ,K.A.Hermann (1955), 
+2480-r,4,,2/4,2480. Paistu,Aavik-Sakeus (13),"Mede vellel suure nurme, üle, es, les, les."
+2481-r,8,,2/4,2481. Lutsi,O.Kallas (3),"E: Liuge, lauge, reekene, liuge, lauge,
+K: nii pikasta meie lina, liuge, lauge!"
+2482-r,4,,2/4,2482. Kodavere,Liiv-Raja (3),"Kiigetajad, kukutajad, kiigele!"
+2483-r,4,,2/4,2483. Kodavere,Liiv-Raja (5),"Lõpe, lõpe, rukkikene, lõpele, lõõrile."
+2484-r,4,,2/4,2484. ,K.A.Hermann (1202), 
+2485-r,4,,2/4,2485. ,K.A.Hermann (737), 
+2486-r,4,,2/4,2486. Rakvere,Elken-Rosenstrauch (27),"Kiigesepad, hellad vennad..."
+2487-r,8,,2/4,2487. Hargla,Aavik (92),"E: Ütelge sõnu, kel om enämp, kaske, kanike,
+K: ütelge sõnu, kel om enämp, kaske, kanike."
+2488-r,8,,2/4,2488. Otepää,Kiis-Eisenschmidt (91),"E: Kes tõi sõjasõnumida, kaske, kaske,
+K: kes see kandis vaenukeeli, kaske, kaske?"
+2489-r,12,,2/4,2489. Simuna,Siimer-Rosenstrauch (44),"E: Kes tõi sõjasõnumida, kaske, kaske,
+kes see kandis vaenukeeli, kaske, kaske,
+K: kes see kandis vaenukeeli, kaske?"
+2490-r,12,,2/4,2490. Simuna,Siimer-Rosenstrauch (47),"E: Võta, õde, võiduvikat, kaske, kaske,
+võta võidumõõgakene, kaske, kaske,
+K: võta võidumõõgakene, kaske."
+2491-r,8,,2/4,2491. ,K.A.Hermann (2221), 
+2492-r,8,,2/4,2492. Audru,K.A.Hermann (1176), 
+2493-r,16,,2/4,2493. ,"K.A.Hermann (982 a, c)","E: Märdid tulnud Märjamaalta, kaske, 
+K: vaesed vennad Venemaalta, kaske, 
+E: Märdid tulnud Märjamaalta, kaske, 
+K: vaesed vennad Venemaalta, kaske, "
+2494-r,5,,2/4,2494. ,J.Sõster (53) [85],"Esä võtse ilusa naise, Eeeevuska, Maaruska."
+2495-r,5,,2/4,2495. Hargla,K.A.Hermann (52),"Veli võttis verevä naise, eebuski, kabuski..."
+2496-r,6,,2/4,2496. Paistu,Ruubel-Kõrnitse (2),"Võõras ütel: võta naine, ee ee ee eeruska, ai Maruska."
+2497-r,5,,2/4,2497. Lääne-Nigula,C.Kreek (5),"Võõras ütel: võta naine, eeruske, Maruske."
+2498-r,8,,2/4 5/8 2/4 2/4,2498. Rõuge,J.Gutves (119),"Veli võtsõ verevä naise, eeeeeebuska, 
+jeebuska, eebuska, jeebuska, muiuska."
+2499-r,5,,2/4,2499. Saarde,Martin-Tatz (133),"Võõras ütel: võta naine, eeeeruska, maaruska..."
+2500-r,4,,2/4 2/4 3/4 3/4,2500. Pilistvere,Saar-Siimer (54),"Langunaised linnukesed, kaasike, kaanike."
+2501-r,7,,2/4,2501. ,K.A.Hermann (2278), 
+2502-r,4,,2/4 2/4 3/4 3/4,2502. Koeru,Välbe-Martin-Rosenstrauch (52),"Lähme kündes külasse, kaasike, kaasike."
+2503-r,8,,2/4,2503. Simuna,Siimer-Rosenstrauch (46),"E: Tuli venda jälle koju, kaske, kaske,
+K: sõitis isa ukse ette, kaske."
+2504-r,8,,2/4,2504. ,K.A.Hermann (2215), 
+2505-r,8,,2/4,2505. Audru,K.A.Hermann (1182), 
+2506-r,5,,5/4 2/4 2/4 2/4 2/4,2506. ,K.A.Hermann (767),"E: Lõpe, lõpe, põllukene, K: lõpe, lõpe, põllukene, helele, helele!"
+2507-r,7,,2/4,2507. Võrumaa,A.Sibul (85),"Piperita, paperita, hai, paperita, piperita, paperita."
+2508-r,28,,2/4,2508. Helme,K.Ruut (25),"Emäkene, ennekene, kaasike, kassike,
+mesimarja memmekene, kaasike, kaasike!
+Tuusid otsan orjaristi, kätevarten vaevaristi kaasike,
+es minu vette visanu, kaasike, vette visanu, vette visanu."
+2509-r,4,,3/4,2509. Puhja,Pehka-Eisenschmidt (45),"Lesja sängi leina sängi, kaske, kanike."
+2510-r,4,,3/4,2510. Paistu,P.Kurg (102),"Peretütar peenikene, pühi, pühi."
+2511-r,5,,3/4,2511. Ambla,J.Välbe (140),"Kiigele, kiigele, kiigesepad, külanaised, kiigele!"
+2512-r,4,,3/4,2512. Puhja,Pehka-Eisenschmidt (53),"Tulge hõlma, õelme, kiigale, kiigale!"
+2513-r,8,,2/4,2513. Räpina,S.Lindpere (98),"E: Kes seal keeru, kesseal keeru, K: kes seal keeru looga mõtsan, kes seal keeru looga mõtsan?"
+2514-r,8,,2/4,2514. Vastseliina,Miina Hermann (35 c),"E: Lõivulindu, lõokesta, K: lõivulindu, lõokesta..."
+2515-r,8,,2/4,2515. Avinurme,M.Sild (18),"Ketra, Liisa, ketra, Liisa, ketra, Liisa, memme tütar, ketra, Liisa, memme tütar!"
+2516-r,4,,2/4,2516. Võrumaa,A.Sibul (83),"Külä, külä, külajo iks kõnõ väikokõnõ..."
+2517-r,6,,2/4,2517. ,M.Pehka (58),"E: Lätsi külla, lõtsi külla, lätsi, lätsi külla kükakilla,
+K: lätsi, lätsi külla küka__killa."
+2518-r,8,,2/4,2518. Setumaa,S.Lindpere (122),"E: Suur tuul ol' nurme päälla, K: suur tuul olli nurme päälla."
+2519-r,8,,2/4,2519. Vastseliina,Miina Hermann (35 b),"E: Kuri lugu tull' kuningista,
+K: kuri lugu tull' kuningista."
+2520-r,4,,2/4,2520. Võrumaa,A.Sibul (84),"Tuli üles jo iks hummogulla, iks hummogulla..."
+2521-r,6,,2/4,2521. Pärnu ja Tori,Tatz-Sildnik (40),"Lätsi ma külla, lätsi ma külla, lätsi, lätsi küllakükakilla, lätsi mina külla kükakilla."
+2522-r,4,,2/4,2522. Ridala,Kreek-Mudda (58),Laske maha ma paluksin.
+2523-r,6,,2/4,2523. Vändra,P.Kurg (35),"Veere, veere, päevakene, veere!"
+2524-r,8,,2/4,2524. ,K.A.Hermann (706), 
+2525-r,8,,2/4,2525. Tartumaa,"K.A.Hermann (297, 512, 910 b, 1043)","Vares, vaga linnukene..."
+2526-r,8,,2/4,2526. ,K.A.Hermann (1369),"E: Vares, vaga linnukene,
+K: lendas linna uulitsale, lendas linna uulitsale."
+2527-r,8,,2/4,"2527. Karula, 1888",K.A.Hermann (1336),"E: Vares, vaga linnukene,
+K: vares vaga linnukene, lendas linna uulitsale."
+2528-r,8,,2/4,2528. ,K.A.Hermann (1548),"E: Vares, vaga linnukene, lendas linna uulitsale,
+K: vares, vaga linnukene, lendas linna uulitsale."
+2529-r,8,,2/4,2529. Helme,K.Ruut (11),"E: Vares, vaga linnukene,
+K: vares vaga linnukene, lendas meie lepikus."
+2530-r,8,,2/4,2530. Krimmi,R.Kõhelik (54),"Olin orjas, käisin karjas..."
+2531-r,7,,2/4,2531. ,K.A.Hermann (1256),"E: Emakene, memmekene, K: emakene, emakene, memme!"
+2532-r,8,,2/4,2532. Martna,C.Kreek (2),"Lätsi nu küllä, lätsi, lätsi küllä kükäkillõ,
+oi, oi, lätsi, lätsi küllä kükäkillõ..."
+2533-r,8,,2/4,2533. ,K.A.Hermann (910 a),"E: Vares, vaga linnukene,
+K: vares vaga linnukene, lendas linna uulitsale."
+2534-r,8,,2/4,2534. Halliste,Ruubel-Kõrnitse (89),"E: Vares, vaga linnukene,
+K: vares vaga linnukene, lendas linna uulitsal."
+2535-r,8,,2/4,2535. Kose,K.Viljak (7),"E: Vares, vaga linnukene,
+K: vares vaga linnukene, lendas linna uulitsale."
+2536-r,8,,2/4,2536. ,Pillesson (473),"E: Vares, vaga linnukene, lendas linna uulitsale,
+K: vares, vaga linnukene, lendas linna uulitsale."
+2537-r,10,,2/4,2537. Lääne-Nigula,C.Kreek (1),Miä haukva...
+2538-r,8,,2/4,2538. Koeru,M.Sõster (9),"E: Vares, vaga linnukene,
+K: vares vaga linnukene, lendas linna uulitsale."
+2539-r,12,,2/4,2539. ,J.Sõster (18) [40],"Vares, vaga linnukene, lendas linna uulitsale.
+vares vaga linnukene, lendas linna uulitsale."
+2540-r,4,1/8,2/4,2540. Kadrina,K.Viljak (15),Oh te hullud kiigesepad...
+2541-r,4,1/8,2/4,2541. Harju-Jaani,Viljak-Vilberg (4),Kiigutajad kukutajad...
+2542-r,8,,2/4,"2542. Vändra, 1873",K.A.Hermann (572),"E: Ärä usu, ärä usu, K: ära usu uisi juttu, uisi juttu, poisi juttu."
+2543-r,8,,2/4,2543. ,J.Sõster (111) [133],"Ketra, Liisa, ketra, Liisa, ketra, Liisa, memme tütar, ketra, Liisa, memme tütar!"
+2544-r,8,,2/4,2544. Karula,A.Kiis (61),"Teie ma orgu, teie ma orgu, tei ma orgu keeru kaara, tei ma orgu keeru kaara..."
+2545-r,8,,2/4,2545. ,A.Sibul (4),"Ketra, Liisu, ketra, Liisu, 
+ketra, Liisu,memme tütar, ketra, Liisu, memme tütar!"
+2546-r,8,,2/4,2546. ,A.Thomson (5),"Ketra, Liisu, ketra, Liisu, 
+ketra, Liisu,memme tütar, ketra, Liisu, memme tütar!"
+2547-r,4,,2/4,2547. Võrumaa,A.Sibul (5),"Ketra, Liisu, memme tütar!"
+2548-r,8,,2/4,2548. Vastseliina,"S.Lindpere (4 a, b)","E: Naksi tuba, naksi tuba, K: naksi tuba tegemaie, naksi tuba tegemaie..."
+2549-r,9,,2/4,"2549. Räpina, 1888",K.A.Hermann (1412),"E: Mul om naane, mul om naane, K: mul om naane natukõnõ, mul om naane natukõnõ, hüvä, hää."
+2550-r,16,,2/4,2550. ,J.Sõster (5) [27],"Mind viidi linna, mind viidi linna, mind viidi linna liiskema. Juuksed saatsin hella, juuksed saatsin hella, juuksed saatsin hella emale."
+2551-r,6,,2/4,2551. ,M.Pehka (83),"E: Külla lätsi, külla lätsi kükakilla, lätsi kükäkilla,
+K: külla, külla lätsi kükakilla."
+2552-r,8,,2/4,2552. Pärnu-Häädemeeste,Martin-Johanson (11),"Kuuts, kuuts, kulli..."
+2553-r,8,,2/4,2553. Setumaa,S.Lindpere (118),"E: Hällu, hällu, kulla hällukene,
+K: hällu, hällu, kulla hällukene."
+2554-r,8,,2/4,2554. Vastseliina,Miina Hermann (33),"E: Velle, vellekese, velle noorekese,
+K: velle, vellekese, velle noorekese."
+2555-r,8,,2/4,2555. Pärnu ja Häädemeeste,Martin-Johanson (13),"Sain paja, sain paja pangelise..."
+2556-r,12,,2/4,2556. Põltsamaa,Siiak-Einer (14),"Jaanipäev lähen kiriku, lähen ema haua peale.
+""Tõuse üles, memmekene!"" ""Ei või tõusta, poega noori."""
+2557-r,12,,2/4,2557. Koeru ja Järva-Jaani,Martin-Rosenstrauch (241),"Härra käskis kodu olla, härra käskis kodu olla, ai,
+härra käskis kodu olla, kodu järel vaadata."
+2558-r,6,,5/4 5/4 2/4 2/4 2/4 2/4,2558. Otepää,Kiis-Eisenschmidt (82),"E: Naksi tuba, naksi tuba, K: naksi tuba tegemä, naksi tuba tegemä."
+2559-r,6,,5/4 5/4 2/4 2/4 2/4 2/4,"2559. Kanepi, 1879",Orav (30),"E: Kuku maama, tsirgumaama, K: kosja umma kua takkah, sajarahvas sauna takah."
+2560-r,7,,5/4 5/4 2/4 2/4 2/4 2/4 2/4,2560. Räpina,S.Lindpere (78),"E: Mul ol' naine, mul ol' naine, K: mul ol' naine natukene, mul ol' naine natukene, hüvä, hää."
+2561-r,8,,5/4 5/4 2/4 2/4 2/4 2/4 2/4 3/4,"2561. Krantsova, 1877",Lähteenkorva (262),"Maie oli madal, Maie oli madal, K: Maie madal neitsikene,
+neitsikene, Maie madal neitsikene, neitsikene."
+2562-r,8,,3/4,2562. Tarvastu,J.Müür (33),"Tere, tiksu, vedrupilli, täna lööme jälle tralli..."
+2563-r,8,,3/4,2563. Alatskivi,Liiv-Raja (64),"Tütarlapsed, tütarlapsed linnukesed..."
+2564-r,7,,3/4,2564. Kuusalu,Viljak-Vilberg (9),"Millal meie pulmad teeme, viiuvih, millal meie pulmad teeme, ai vali tralla?"
+2565-r,4,,3/4,2565. Järva-Madise,P.Penna (85/5),"Minge nurka, minge nurka, noored mehed..."
+2566-r,8,,3/4,2566. Järvamaa,Penna-Rosenstrauch (157),"Pidu hakkab, pidu hakkab, pereeidekene,
+pidu hakkab, pidu hakkab, pereeidekene."
+2567-r,8,,3/4,2567. Harju- ja Järvamaa,K.A.Hermann (186),"E: Pidu lõpeb, pidu lõpeb, pereeidekene,
+K: pidu lõpeb, pidu lõpeb, pereeidekene."
+2568-r,4,,3/4,2568. Järvamaa,Penna-Rosenstrauch (126),"Tule tuppa, tule tuppa, vanamees."
+2569-r,8,,3/4,2569. Krimmi,R.Kõhelik (1),"Minge nurka, minge nurka, noored mehed,
+pingi alla, pingi alla, piibumehed!"
+2568-e,4,,3/4,2568. Simuna,Siimer-Rosenstrauch (14),"Tule tuppa, tule tuppa, vanamees! "
+2569-e,4,,3/4,2569. Laiuse ja Simuna,Viljak-Rosenstrauch (3),"Kelle litter, kelle litter maksis lehma?"
+2570-r,4,,3/4,2570. Koeru,Välbe-Martin-Rosenstrauch (10),"Minge nurka, minge nurka, noored mehed!"
+2571-r,4,,3/4,2571. Väike-Maarja,P.Penna (168),"Lähme lauldes, lähme lauldes läbi metsa..."
+2572-r,8,,3/4,2572. Türi,Siimer (45),"E: Pidu lõpeb, pidu lõpeb, pereeideke,
+K: pidu lõpeb, pidu lõpeb, peretaadike."
+2573-r,8,,3/4,2573. Maarja-Magdaleena,Välbe-Sulg (37),"E: Kelle pärga, kelle pärga päevakirja,
+V: kelle pärga, kelle pärga päevakirja."
+2574-r,4,,3/4,2574. Järvamaa,Penna-Rosenstrauch (38),"Teen aeda, teen aeda, teritan teivast."
+2575-r,4,,3/4,2575. Järvamaa,Penna-Rosenstrauch (151),"Minge nurka, minge nurka, noored mehed."
+2576-r,4,,3/4,2576. Järvamaa,Penna-Rosenstrauch (155 a),"Ristitants oli, ristitants oli tantsukene."
+2577-r,4,,3/4,2577. Ambla,J.Välbe (119),"Lähme lauldes lähme lauldes läbi metsa, läbi metsa."
+2578-r,10,,2/4,2578. Võru,Miina Hermann (9),"Naksi tuba tegema, naksi tuba tegema,
+naksi tuba tegema, toa nukki nukeldama."
+2579-r,11,,2/4,2579. Kambja,P.Tatz (27),"Setu omma, setu omma, setu omma siia jõudnu, perenaisi perra nõudnu, hüvähä."
+2580-r,7,,2/4,2580. Võrumaa,A.Sibul (98),"Setu omma, setu omma siia jõudnu, perenaisi perra nõudnu."

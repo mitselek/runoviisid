@@ -99,6 +99,11 @@ def eRest(measure):
     ET.SubElement(e_root, 'duration').text = '/'.join((sigN, sigD))
     return e_root
 
+def eLastBarLine():
+    e_root = ET.Element('BarLine')
+    ET.SubElement(e_root, 'subtype').text = 'end'
+    return e_root
+
 def eVbox(maakond, kogujad):
     e_root = ET.Element('VBox')
     ET.SubElement(e_root, 'height').text = '4'
@@ -107,9 +112,9 @@ def eVbox(maakond, kogujad):
     e_composer = ET.SubElement(e_root, 'Text')
     ET.SubElement(e_composer, 'style').text = 'composer'
     ET.SubElement(e_composer, 'text').text = str(kogujad)
-    e_lyricist = ET.SubElement(e_root, 'Text')
-    ET.SubElement(e_lyricist, 'style').text = 'lyricist'
-    ET.SubElement(e_lyricist, 'text').text = str(maakond)
+    e_poet = ET.SubElement(e_root, 'Text')
+    ET.SubElement(e_poet, 'style').text = 'poet'
+    ET.SubElement(e_poet, 'text').text = str(maakond)
     return e_root
 
 # set the stage
@@ -129,7 +134,7 @@ with open(sourceDir + 'runoviisid - export.csv', newline='', encoding='utf-8') a
     e_subtype.text = 'section'
 
     counter = 0
-    first, last = (1, 157)
+    first, last = (2515, 2584)
 
     for row in csv.DictReader(csvfile, delimiter=',', quotechar='"'):
         # if not row['tekst']:
@@ -185,6 +190,8 @@ with open(sourceDir + 'runoviisid - export.csv', newline='', encoding='utf-8') a
                 lastTimeSig = currentTimeSig
 
             e_voice.append(eRest(currentTimeSig))
+        
+        e_voice.append(eLastBarLine())
 
 
     with open(sourceDir + 'out.mscx', 'wb') as f:

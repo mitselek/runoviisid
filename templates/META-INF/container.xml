@@ -2,9 +2,12 @@
 <container>
   <rootfiles>
     <rootfile full-path="score_style.mss"/>
-    <rootfile full-path="0001-0157.mscx"/>
+    <rootfile full-path="out.mscx"/>
+    <rootfile full-path="Excerpts/Proof/Proof.mss"/>
+    <rootfile full-path="Excerpts/Proof/Proof.mscx"/>
     <rootfile full-path="Thumbnails/thumbnail.png"/>
     <rootfile full-path="audiosettings.json"/>
     <rootfile full-path="viewsettings.json"/>
+    <rootfile full-path="Excerpts/Proof/viewsettings.json"/>
     </rootfiles>
   </container>
