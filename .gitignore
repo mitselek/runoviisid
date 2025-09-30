@@ -5,3 +5,21 @@ desktop.ini
 *.autosave*
 *.swp
 token.ghpat
+
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Conversion output
+lilypond_output/
+*.musicxml
+*.tmp
+*.temp
+
+# LilyPond temporary files
+*.ps
+*.eps
+*.midi
+*.mid

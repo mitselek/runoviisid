@@ -1,0 +1,7 @@
+# Core dependencies for MuseScore to LilyPond conversion
+# No additional Python packages required - the script uses only standard library
+
+# Optional dependencies for enhanced functionality:
+# music21>=9.1.0      # For advanced music analysis and conversion
+# lxml>=4.9.0         # For XML processing if needed
+# pathlib2>=2.3.0     # For older Python versions (not needed for Python 3.4+)
