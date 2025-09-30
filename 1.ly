@@ -1,17 +1,13 @@
 \version "2.24.3"
-% automatically converted by musicxml2ly from /tmp/tmpd03ym1e6.musicxml
-\pointAndClickOff
+\pointAndClickOn
 
 \header {
-    encodingsoftware =  "MuseScore 3.2.3"
-    encodingdate =  "2025-09-30"
-    source = 
-    "/tmp/audiveris-8ff757ef125b7b244bbdfeca7598bdc8/score.pdf"
     composer =  "Lähteenkorvu (306)"
     poet =  "1. Sangaste"
 }
 
-#(set-global-staff-size 17.714285714285715)
+#(set-global-staff-size 18)
+
 \paper {
     paper-width = 21.0\cm
     paper-height = 5.0\cm
@@ -20,46 +16,51 @@
     left-margin = 1.0\cm
     right-margin = 1.0\cm
     indent = 0\cm
+    tagline = ##f  % Remove LilyPond footer
 }
 
 \layout {
     \context { 
         \Score
-        skipBars = ##t
-        autoBeaming = ##f
+        skipBars = ##t        % Show multi-measure rests as numbers instead of many rest symbols
+        autoBeaming = ##f     % Turn off automatic note beaming (for vocal music)
     }
 }
 
-PartPOneVoiceOne =  \relative d' {
-    \clef "treble" \time 3/8 \key g \major 
-    | % 1
-    d16 d16 g8 g8 
-    | % 2
+melody = \relative d' {
+    \clef "treble" 
+    \time 3/8 
+    \key g \major 
+    
+    % Measure 1
+    d16 d16 g8 g8 |
+    
+    % Measure 2
     \time 2/4  
-    <d g>8 <d g>8 <d fis>8 d8 
-    | % 3
+    <d g>8 <d g>8 <d fis>8 d8 |
+    
+    % Measure 3
     \time 3/8  
-    d16 e16 <d g>8 <d fis>8 
-    | % 4
+    d16 e16 <d g>8 <d fis>8 |
+    
+    % Measure 4
     \time 2/4  
     e8 d8 d4 \bar "|."
 }
 
-PartPOneVoiceOneLyricsOne =  \lyricmode {
+songLyrics = \lyricmode {
     \set ignoreMelismata = ##t
-    "E: Ut" -- si pruu -- ti Lii -- su -- ke -- "ne," 
-    "K: Ut" -- si pruu -- ti Lii -- su -- "ke."
+    "E: Ut" -- si pruu -- ti Lii -- su -- ke -- "ne," 
+    "K: Ut" -- si pruu -- ti Lii -- su -- "ke."
 }
 
-
-% The score definition
 \score {
     \new Staff <<
-        \new Voice = "PartPOneVoiceOne" {
-            \PartPOneVoiceOne
+        \new Voice = "melody" {
+            \melody
         }
-        \new Lyrics \lyricsto "PartPOneVoiceOne" {
-            \PartPOneVoiceOneLyricsOne
+        \new Lyrics \lyricsto "melody" {
+            \songLyrics
         }
     >>
     \layout {}
