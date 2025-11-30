@@ -8,7 +8,17 @@ _Mida me teeme? Täidame piiskhaaval, kui vastused selguvad._
 
 ### 1. Mis on lõpptulemus?
 
-_(Märgi, kui selgub)_
+**Põhitulemid:**
+
+- 2580 runoviisi digitaalsel kujul (LilyPond → PDF, MIDI)
+- Struktureeritud andmebaas (metaandmed, sõnad, meloodiad)
+- Avalik veebirakendus viisidele ligipääsuks
+
+**Kõrvaltulemid:**
+
+- MCP tööriistad töövoo automatiseerimiseks
+- Dokumenteeritud protsess sarnaste projektide jaoks
+- Avatud lähtekood jätkupanustajatele
 
 ### 2. Milline on ulatus?
 
